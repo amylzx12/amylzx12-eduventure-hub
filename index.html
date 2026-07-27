@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>EduVenture — resources for international teachers</title>
+  <link rel="icon" href="data:,">
+  <style>
+    * { box-sizing: border-box; }
+    body { margin: 0; font-family: system-ui, -apple-system, 'Segoe UI', sans-serif; background: #FAF7F0; color: #3D4451; }
+    a { text-decoration: none; }
+    .nav { background: #1B2A4A; color: #fff; padding: 12px 20px; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px; }
+    .nav .brand { color: #EBD9A0; font-family: Georgia, 'Times New Roman', serif; font-size: 17px; }
+    .nav .links { display: flex; gap: 18px; flex-wrap: wrap; }
+    .nav .links a { color: #C7D0DE; font-size: 13.5px; }
+    .nav .links a.soon { color: #7A8290; }
+    .hero { background: #1B2A4A; padding: 48px 24px 56px; text-align: center; }
+    .hero h1 { font-family: Georgia, 'Times New Roman', serif; font-size: 32px; color: #fff; margin: 0 0 12px; }
+    .hero p { font-size: 15px; color: #C7D0DE; max-width: 560px; margin: 0 auto; line-height: 1.7; }
+    .wrap { max-width: 880px; margin: 0 auto; padding: 40px 20px 60px; }
+    .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 16px; }
+    .card { background: #fff; border: 1px solid #E4DFD3; border-radius: 14px; padding: 24px; display: block; }
+    .card .step { font-size: 11px; letter-spacing: 1px; text-transform: uppercase; color: #7A8290; margin-bottom: 8px; }
+    .card h2 { font-family: Georgia, 'Times New Roman', serif; font-size: 19px; color: #1B2A4A; margin: 0 0 6px; }
+    .card p { font-size: 13.5px; color: #7A8290; margin: 0; line-height: 1.6; }
+    .soon-card { opacity: 0.6; }
+    .soon-card .step { color: #C9A227; }
+  </style>
+</head>
+<body>
+  <div class="nav">
+    <a class="brand" href="/">EduVenture</a>
+    <div class="links">
+      <a href="/pathway/">Find your certificate</a>
+      <a href="/practice/">Study &amp; practice</a>
+      <a href="/toolkit/">Job hunting toolkit</a>
+      <a class="soon" href="#">Classroom materials (soon)</a>
+    </div>
+  </div>
+
+  <div class="hero">
+    <h1>EduVenture</h1>
+    <p>Free, open resources for international teachers building a career in New York schools — from figuring out which certificate you need, to landing the job.</p>
+  </div>
+
+  <div class="wrap">
+    <div class="grid">
+      <a class="card" href="/pathway/">
+        <p class="step">Step 1</p>
+        <h2>Find your certificate</h2>
+        <p>Answer a few questions to see which New York teaching certification pathway fits your background.</p>
+      </a>
+      <a class="card" href="/practice/">
+        <p class="step">Step 2</p>
+        <h2>Study &amp; practice</h2>
+        <p>Practice quizzes, bilingual flashcards, and a guided 8-week study camp for the EAS exam — more exams coming.</p>
+      </a>
+      <a class="card" href="/toolkit/">
+        <p class="step">Browse anytime</p>
+        <h2>Job hunting toolkit</h2>
+        <p>Resume and cover letter guidance, interview preparation, and demo lesson planning for the US school hiring process.</p>
+      </a>
+      <div class="card soon-card">
+        <p class="step">Coming soon</p>
+        <h2>Classroom materials</h2>
+        <p>Ready-to-use lesson resources for new teachers to explore and adapt.</p>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
