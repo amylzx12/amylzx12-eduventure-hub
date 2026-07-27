@@ -1,9 +1,9 @@
 const { useState } = React;
 
 const C = {
-  navy: "#1B2A4A", navySoft: "#28406B", gold: "#C9A227", goldSoft: "#EBD9A0",
-  paper: "#FAF7F0", card: "#FFFFFF", sage: "#3F7350", sageBg: "#E7F0E9",
-  slate: "#3D4451", slateSoft: "#7A8290", border: "#E4DFD3",
+  navy: "#1B2A4A", blue: "#2F80D9", blueMuted: "#CFE3FA",
+  paper: "#F4F8FD", card: "#FFFFFF", sage: "#3F7350", sageBg: "#E7F0E9",
+  slate: "#3D4451", slateSoft: "#7A8290", border: "#DCE6F2",
 };
 const serif = "Georgia, 'Times New Roman', serif";
 const sans = "system-ui, -apple-system, 'Segoe UI', sans-serif";
@@ -11,7 +11,7 @@ const sans = "system-ui, -apple-system, 'Segoe UI', sans-serif";
 function Pill({ active, onClick, children }) {
   return (
     <button onClick={onClick} className="px-3 py-1.5 rounded-full text-sm transition"
-      style={{ fontFamily: sans, border: `1px solid ${active ? C.navy : C.border}`, background: active ? C.navy : C.card, color: active ? "#fff" : C.slate, whiteSpace: "nowrap" }}>
+      style={{ fontFamily: sans, border: `1px solid ${active ? C.blue : C.border}`, background: active ? C.blue : C.card, color: active ? "#fff" : C.slate, whiteSpace: "nowrap" }}>
       {children}
     </button>
   );
@@ -65,13 +65,13 @@ function App() {
 
   return (
     <div style={{ background: C.paper, minHeight: "100vh", fontFamily: sans }}>
-      <div style={{ background: C.navy, color: "#fff", padding: "12px 20px", display: "flex", alignItems: "center", justifyContent: "space-between", flexWrap: "wrap", gap: 10 }}>
-        <a href="/" style={{ display: "flex", alignItems: "center", background: "#FAF7F0", padding: "5px 14px", borderRadius: 8 }}>
+      <div style={{ background: C.blue, color: "#fff", padding: "12px 20px", display: "flex", alignItems: "center", justifyContent: "space-between", flexWrap: "wrap", gap: 10 }}>
+        <a href="/" style={{ display: "flex", alignItems: "center", background: "#fff", padding: "5px 14px", borderRadius: 8 }}>
           <img src="/assets/logo-full.png" alt="EduVenture" style={{ height: 26, display: "block" }} />
         </a>
         <div className="flex gap-4 flex-wrap" style={{ fontSize: 13.5 }}>
-          <a href="/pathway/" style={{ color: "#C7D0DE", textDecoration: "none" }}>Find your certificate</a>
-          <a href="/practice/" style={{ color: "#C7D0DE", textDecoration: "none" }}>Study &amp; practice</a>
+          <a href="/pathway/" style={{ color: C.blueMuted, textDecoration: "none" }}>Find your certificate</a>
+          <a href="/practice/" style={{ color: C.blueMuted, textDecoration: "none" }}>Study &amp; practice</a>
           <a href="/toolkit/" style={{ color: "#fff", fontWeight: 500, textDecoration: "none" }}>Job hunting toolkit</a>
           <a href="#" style={{ color: C.slateSoft, textDecoration: "none" }}>Classroom materials (soon)</a>
         </div>

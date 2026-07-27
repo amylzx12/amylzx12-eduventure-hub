@@ -2,18 +2,19 @@ const { useState, useEffect } = React;
 
 const C = {
   navy: "#1B2A4A",
-  navySoft: "#28406B",
-  gold: "#C9A227",
-  goldSoft: "#EBD9A0",
-  paper: "#FAF7F0",
+  blue: "#2F80D9",
+  blueSoft: "#5FA3E6",
+  blueMuted: "#CFE3FA",
+  paper: "#F4F8FD",
   card: "#FFFFFF",
   sage: "#3F7350",
   sageBg: "#E7F0E9",
   clay: "#B8503D",
   clayBg: "#F5E6E1",
+  warn: "#C98A2A",
   slate: "#3D4451",
   slateSoft: "#7A8290",
-  border: "#E4DFD3",
+  border: "#DCE6F2",
 };
 const serif = "Georgia, 'Times New Roman', serif";
 const sans = "system-ui, -apple-system, 'Segoe UI', sans-serif";
@@ -102,7 +103,7 @@ function PremiumGate({ children, label = "member content" }) {
 
   return (
     <div style={{ background: C.card, border: `1px solid ${C.border}`, borderRadius: 14, padding: "2rem", textAlign: "center" }}>
-      <Icon name="lock" size={22} color={C.gold} />
+      <Icon name="lock" size={22} color={C.blue} />
       <p style={{ fontFamily: serif, fontSize: 17, color: C.slate, marginTop: 10 }}>This is {label}</p>
       <p style={{ fontFamily: sans, fontSize: 13, color: C.slateSoft, marginTop: 4, marginBottom: 16 }}>
         Enter the access code shared with 陪伴营 members to unlock it.
@@ -117,7 +118,7 @@ function PremiumGate({ children, label = "member content" }) {
         />
         <button
           onClick={handleUnlock}
-          style={{ fontFamily: sans, fontSize: 14, background: C.navy, color: "#fff", borderRadius: 8, padding: "8px 16px" }}
+          style={{ fontFamily: sans, fontSize: 14, background: C.blue, color: "#fff", borderRadius: 8, padding: "8px 16px" }}
         >
           Unlock
         </button>
@@ -132,7 +133,7 @@ function Pill({ active, onClick, children, icon }) {
     <button
       onClick={onClick}
       className="flex items-center gap-1.5 px-3 py-1.5 rounded-full text-sm transition"
-      style={{ fontFamily: sans, border: `1px solid ${active ? C.navy : C.border}`, background: active ? C.navy : C.card, color: active ? "#fff" : C.slate, whiteSpace: "nowrap" }}
+      style={{ fontFamily: sans, border: `1px solid ${active ? C.blue : C.border}`, background: active ? C.blue : C.card, color: active ? "#fff" : C.slate, whiteSpace: "nowrap" }}
     >
       {icon && <Icon name={icon} size={14} />}
       {children}
@@ -142,24 +143,24 @@ function Pill({ active, onClick, children, icon }) {
 
 function TicketHeader({ title, subtitle, meta, onBack }) {
   return (
-    <div className="relative overflow-hidden mb-6" style={{ background: C.navy, borderRadius: 14, border: `1px solid ${C.navySoft}` }}>
+    <div className="relative overflow-hidden mb-6" style={{ background: C.blue, borderRadius: 14, border: `1px solid ${C.blueSoft}` }}>
       <div className="flex items-center justify-between px-6 py-5">
         <div>
           {onBack && (
-            <button onClick={onBack} className="flex items-center gap-1 mb-2" style={{ fontFamily: sans, fontSize: 12.5, color: "#C7D0DE", background: "none", border: "none", cursor: "pointer" }}>
+            <button onClick={onBack} className="flex items-center gap-1 mb-2" style={{ fontFamily: sans, fontSize: 12.5, color: C.blueMuted, background: "none", border: "none", cursor: "pointer" }}>
               <Icon name="back" size={14} /> Back to home
             </button>
           )}
-          <p style={{ fontFamily: sans, fontSize: 12, letterSpacing: 2, color: C.goldSoft, textTransform: "uppercase" }}>NYSTCE &middot; New York State</p>
+          <p style={{ fontFamily: sans, fontSize: 12, letterSpacing: 2, color: C.blueMuted, textTransform: "uppercase" }}>NYSTCE &middot; New York State</p>
           <h1 style={{ fontFamily: serif, fontSize: 26, color: "#fff", margin: "4px 0 0" }}>{title}</h1>
-          <p style={{ fontFamily: sans, fontSize: 13, color: "#C7D0DE", marginTop: 4 }}>{subtitle}</p>
+          <p style={{ fontFamily: sans, fontSize: 13, color: C.blueMuted, marginTop: 4 }}>{subtitle}</p>
         </div>
-        <div className="hidden sm:flex items-center justify-center shrink-0" style={{ width: 56, height: 56, borderRadius: "50%", border: `2px solid ${C.gold}`, color: C.gold, fontFamily: serif, fontSize: 14 }}>
-          <Icon name="award" size={24} color={C.gold} />
+        <div className="hidden sm:flex items-center justify-center shrink-0" style={{ width: 56, height: 56, borderRadius: "50%", border: `2px solid #FFFFFF`, color: "#FFFFFF", fontFamily: serif, fontSize: 14 }}>
+          <Icon name="award" size={24} color="#FFFFFF" />
         </div>
       </div>
       {meta && (
-        <div style={{ borderTop: `1px dashed ${C.navySoft}`, padding: "8px 24px", fontFamily: sans, fontSize: 11.5, color: "#9FADC4" }}>{meta}</div>
+        <div style={{ borderTop: `1px dashed ${C.blueSoft}`, padding: "8px 24px", fontFamily: sans, fontSize: 11.5, color: C.blueMuted }}>{meta}</div>
       )}
     </div>
   );
@@ -179,12 +180,12 @@ function Home({ exams, programs, onSelectExam, onSelectProgram }) {
                 key={program.id}
                 onClick={() => onSelectProgram(program.id)}
                 className="text-left flex items-center gap-3"
-                style={{ background: C.navy, border: `1px solid ${C.navySoft}`, borderRadius: 14, padding: "1.25rem" }}
+                style={{ background: C.blue, border: `1px solid ${C.blueSoft}`, borderRadius: 14, padding: "1.25rem" }}
               >
-                <Icon name="calendar" size={22} color={C.gold} />
+                <Icon name="calendar" size={22} color="#FFFFFF" />
                 <div>
                   <p style={{ fontFamily: serif, fontSize: 18, color: "#fff" }}>{program.name}</p>
-                  <p style={{ fontFamily: sans, fontSize: 12.5, color: "#C7D0DE", marginTop: 2 }}>{program.tagline}</p>
+                  <p style={{ fontFamily: sans, fontSize: 12.5, color: C.blueMuted, marginTop: 2 }}>{program.tagline}</p>
                 </div>
               </button>
             ))}
@@ -347,19 +348,19 @@ function CRPracticeTab({ program }) {
 
   return (
     <div>
-      <div style={{ background: C.navy, border: `1px solid ${C.navySoft}`, borderRadius: 14, padding: "1.25rem", marginBottom: 20 }}>
+      <div style={{ background: C.blue, border: `1px solid ${C.blueSoft}`, borderRadius: 14, padding: "1.25rem", marginBottom: 20 }}>
         <p style={{ fontFamily: serif, fontSize: 16, color: "#fff", marginBottom: 10 }}>The CARE method</p>
         <div className="grid sm:grid-cols-2 gap-2">
           {cr.method.steps.map((s) => (
             <div key={s.letter} className="flex gap-2">
-              <span style={{ fontFamily: serif, fontSize: 18, color: C.gold, flexShrink: 0 }}>{s.letter}</span>
-              <p style={{ fontFamily: sans, fontSize: 12.5, color: "#C7D0DE", lineHeight: 1.6 }}>
+              <span style={{ fontFamily: serif, fontSize: 18, color: "#FFFFFF", flexShrink: 0 }}>{s.letter}</span>
+              <p style={{ fontFamily: sans, fontSize: 12.5, color: C.blueMuted, lineHeight: 1.6 }}>
                 <span style={{ color: "#fff", fontWeight: 500 }}>{s.label}</span> — {s.desc}
               </p>
             </div>
           ))}
         </div>
-        <p style={{ fontFamily: sans, fontSize: 12, color: "#9FADC4", marginTop: 12, borderTop: `1px dashed ${C.navySoft}`, paddingTop: 10 }}>{cr.method.structure}</p>
+        <p style={{ fontFamily: sans, fontSize: 12, color: C.blueMuted, marginTop: 12, borderTop: `1px dashed ${C.blueSoft}`, paddingTop: 10 }}>{cr.method.structure}</p>
       </div>
 
       <div className="flex gap-2 flex-wrap mb-5">
@@ -418,7 +419,7 @@ function ProgramView({ program, onBack }) {
       <div className="flex gap-1 mb-6 flex-wrap" style={{ borderBottom: `1px solid ${C.border}` }}>
         {TABS.map((t) => (
           <button key={t.id} onClick={() => setTab(t.id)} className="flex items-center gap-1.5 px-3 py-2.5"
-            style={{ fontFamily: sans, fontSize: 14, color: tab === t.id ? C.navy : C.slateSoft, borderBottom: tab === t.id ? `2px solid ${C.navy}` : "2px solid transparent", marginBottom: -1, fontWeight: tab === t.id ? 500 : 400, background: "none" }}>
+            style={{ fontFamily: sans, fontSize: 14, color: tab === t.id ? C.blue : C.slateSoft, borderBottom: tab === t.id ? `2px solid ${C.blue}` : "2px solid transparent", marginBottom: -1, fontWeight: tab === t.id ? 500 : 400, background: "none" }}>
             <Icon name={t.icon} size={15} /> {t.label} {t.premium && <Icon name="lock" size={11} color={C.slateSoft} />}
           </button>
         ))}
@@ -521,20 +522,20 @@ function QuizTab({ exam }) {
 
           <div className="flex justify-end mt-5">
             {answered && (
-              <button onClick={nextQuestion} className="flex items-center gap-1.5 px-4 py-2" style={{ fontFamily: sans, fontSize: 14, background: C.navy, color: "#fff", borderRadius: 8 }}>
+              <button onClick={nextQuestion} className="flex items-center gap-1.5 px-4 py-2" style={{ fontFamily: sans, fontSize: 14, background: C.blue, color: "#fff", borderRadius: 8 }}>
                 {qIndex + 1 < pool.length ? "Next question" : "See results"} <Icon name="chevron" size={15} color="#fff" />
               </button>
             )}
           </div>
         </div>
       ) : (
-        <div style={{ background: C.navy, borderRadius: 14, padding: "2rem", textAlign: "center", border: `1px solid ${C.navySoft}` }}>
-          <Icon name="award" size={34} color={C.gold} />
-          <p style={{ fontFamily: sans, fontSize: 12, letterSpacing: 1.5, color: C.goldSoft, textTransform: "uppercase", marginTop: 8 }}>Practice set complete</p>
+        <div style={{ background: C.blue, borderRadius: 14, padding: "2rem", textAlign: "center", border: `1px solid ${C.blueSoft}` }}>
+          <Icon name="award" size={34} color="#FFFFFF" />
+          <p style={{ fontFamily: sans, fontSize: 12, letterSpacing: 1.5, color: C.blueMuted, textTransform: "uppercase", marginTop: 8 }}>Practice set complete</p>
           <p style={{ fontFamily: serif, fontSize: 34, color: "#fff", margin: "6px 0" }}>{score} / {pool.length}</p>
-          <p style={{ fontFamily: sans, fontSize: 14, color: "#C7D0DE" }}>{pct}% correct on {filter === "all" ? "all competencies" : competencyMeta(exam, filter).label}</p>
+          <p style={{ fontFamily: sans, fontSize: 14, color: C.blueMuted }}>{pct}% correct on {filter === "all" ? "all competencies" : competencyMeta(exam, filter).label}</p>
           {saveError && <p style={{ fontFamily: sans, fontSize: 12, color: "#F0B0A0", marginTop: 8 }}>Couldn't save this result to your progress log on this device.</p>}
-          <button onClick={() => startQuiz(filter)} className="flex items-center gap-1.5 mx-auto mt-6 px-4 py-2" style={{ fontFamily: sans, fontSize: 14, background: "transparent", color: "#fff", border: `1px solid ${C.gold}`, borderRadius: 8 }}>
+          <button onClick={() => startQuiz(filter)} className="flex items-center gap-1.5 mx-auto mt-6 px-4 py-2" style={{ fontFamily: sans, fontSize: 14, background: "transparent", color: "#fff", border: `1px solid #FFFFFF`, borderRadius: 8 }}>
             <Icon name="rotate" size={15} color="#fff" /> Try this set again
           </button>
         </div>
@@ -568,8 +569,8 @@ function FlashcardsTab({ exam }) {
       <p style={{ fontFamily: sans, fontSize: 12.5, color: C.slateSoft, marginBottom: 10 }}>Card {index + 1} of {cards.length} &middot; tap to flip</p>
 
       <button onClick={() => setFlipped((f) => !f)} className="w-full text-left"
-        style={{ display: "block", minHeight: 190, background: flipped ? C.navy : C.card, border: `1px solid ${flipped ? C.navySoft : C.border}`, borderRadius: 14, padding: "1.75rem", cursor: "pointer" }}>
-        <span style={{ fontFamily: sans, fontSize: 11, letterSpacing: 1, textTransform: "uppercase", color: flipped ? C.goldSoft : C.slateSoft }}>
+        style={{ display: "block", minHeight: 190, background: flipped ? C.blue : C.card, border: `1px solid ${flipped ? C.blueSoft : C.border}`, borderRadius: 14, padding: "1.75rem", cursor: "pointer" }}>
+        <span style={{ fontFamily: sans, fontSize: 11, letterSpacing: 1, textTransform: "uppercase", color: flipped ? C.blueMuted : C.slateSoft }}>
           {flipped ? "Definition" : competencyMeta(exam, card.c).short}
         </span>
         <p style={{ fontFamily: flipped ? sans : serif, fontSize: flipped ? 15.5 : 21, lineHeight: 1.6, color: flipped ? "#fff" : C.slate, marginTop: 12 }}>
@@ -579,7 +580,7 @@ function FlashcardsTab({ exam }) {
 
       <div className="flex justify-between mt-4">
         <button onClick={() => go(-1)} style={{ fontFamily: sans, fontSize: 13.5, color: C.slate, border: `1px solid ${C.border}`, borderRadius: 8, padding: "8px 16px" }}>Previous</button>
-        <button onClick={() => go(1)} style={{ fontFamily: sans, fontSize: 13.5, color: "#fff", background: C.navy, borderRadius: 8, padding: "8px 16px" }}>Next card</button>
+        <button onClick={() => go(1)} style={{ fontFamily: sans, fontSize: 13.5, color: "#fff", background: C.blue, borderRadius: 8, padding: "8px 16px" }}>Next card</button>
       </div>
     </div>
   );
@@ -625,7 +626,7 @@ function ProgressTab({ exam }) {
                 <p style={{ fontFamily: sans, fontSize: 13.5, color: C.slate }}>{label}</p>
                 <p style={{ fontFamily: sans, fontSize: 11.5, color: C.slateSoft }}>{d.toLocaleDateString(undefined, { month: "short", day: "numeric", year: "numeric" })}</p>
               </div>
-              <span style={{ fontFamily: sans, fontSize: 14, fontWeight: 500, color: pct >= 80 ? C.sage : pct >= 60 ? C.gold : C.clay }}>{s.score}/{s.total} &middot; {pct}%</span>
+              <span style={{ fontFamily: sans, fontSize: 14, fontWeight: 500, color: pct >= 80 ? C.sage : pct >= 60 ? C.warn : C.clay }}>{s.score}/{s.total} &middot; {pct}%</span>
             </div>
           );
         })}
@@ -647,7 +648,7 @@ function ExamView({ exam, onBack }) {
       <div className="flex gap-1 mb-6" style={{ borderBottom: `1px solid ${C.border}` }}>
         {TABS.map((t) => (
           <button key={t.id} onClick={() => setTab(t.id)} className="flex items-center gap-1.5 px-3 py-2.5"
-            style={{ fontFamily: sans, fontSize: 14, color: tab === t.id ? C.navy : C.slateSoft, borderBottom: tab === t.id ? `2px solid ${C.navy}` : "2px solid transparent", marginBottom: -1, fontWeight: tab === t.id ? 500 : 400, background: "none" }}>
+            style={{ fontFamily: sans, fontSize: 14, color: tab === t.id ? C.blue : C.slateSoft, borderBottom: tab === t.id ? `2px solid ${C.blue}` : "2px solid transparent", marginBottom: -1, fontWeight: tab === t.id ? 500 : 400, background: "none" }}>
             <Icon name={t.icon} size={15} /> {t.label}
           </button>
         ))}
