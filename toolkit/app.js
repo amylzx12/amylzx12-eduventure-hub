@@ -1,9 +1,10 @@
 const { useState } = React;
 
 const C = {
-  navy: "#1B2A4A", blue: "#2F80D9", blueMuted: "#CFE3FA",
-  paper: "#F4F8FD", card: "#FFFFFF", sage: "#3F7350", sageBg: "#E7F0E9",
-  slate: "#3D4451", slateSoft: "#7A8290", border: "#DCE6F2",
+  navy: "#1B2A4A", blue: "#3D66B0", blueMuted: "#F5DCC0",
+  pink: "#F5A0B2", gold: "#FDC868",
+  paper: "#FDF4E9", card: "#FFFFFF", sage: "#3F7350", sageBg: "#E7F0E9",
+  slate: "#3D4451", slateSoft: "#7A8290", border: "#F0E2CC",
 };
 const serif = "Georgia, 'Times New Roman', serif";
 const sans = "system-ui, -apple-system, 'Segoe UI', sans-serif";
@@ -70,6 +71,7 @@ function App() {
           <img src="/assets/logo-full.png" alt="EduVenture" style={{ height: 26, display: "block" }} />
         </a>
         <div className="flex gap-4 flex-wrap" style={{ fontSize: 13.5 }}>
+          <a href="/about/" style={{ color: C.blueMuted, textDecoration: "none" }}>About</a>
           <a href="/pathway/" style={{ color: C.blueMuted, textDecoration: "none" }}>Find your certificate</a>
           <a href="/practice/" style={{ color: C.blueMuted, textDecoration: "none" }}>Study &amp; practice</a>
           <a href="/toolkit/" style={{ color: "#fff", fontWeight: 500, textDecoration: "none" }}>Job hunting toolkit</a>

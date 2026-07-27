@@ -2,10 +2,12 @@ const { useState, useEffect } = React;
 
 const C = {
   navy: "#1B2A4A",
-  blue: "#2F80D9",
-  blueSoft: "#5FA3E6",
-  blueMuted: "#CFE3FA",
-  paper: "#F4F8FD",
+  blue: "#3D66B0",
+  blueSoft: "#7592CC",
+  blueMuted: "#F5DCC0",
+  pink: "#F5A0B2",
+  gold: "#FDC868",
+  paper: "#FDF4E9",
   card: "#FFFFFF",
   sage: "#3F7350",
   sageBg: "#E7F0E9",
@@ -14,7 +16,7 @@ const C = {
   warn: "#C98A2A",
   slate: "#3D4451",
   slateSoft: "#7A8290",
-  border: "#DCE6F2",
+  border: "#F0E2CC",
 };
 const serif = "Georgia, 'Times New Roman', serif";
 const sans = "system-ui, -apple-system, 'Segoe UI', sans-serif";
