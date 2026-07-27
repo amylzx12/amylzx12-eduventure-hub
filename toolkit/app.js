@@ -66,7 +66,9 @@ function App() {
   return (
     <div style={{ background: C.paper, minHeight: "100vh", fontFamily: sans }}>
       <div style={{ background: C.navy, color: "#fff", padding: "12px 20px", display: "flex", alignItems: "center", justifyContent: "space-between", flexWrap: "wrap", gap: 10 }}>
-        <a href="/" style={{ color: C.goldSoft, fontFamily: serif, fontSize: 17, textDecoration: "none" }}>EduVenture</a>
+        <a href="/" style={{ display: "flex", alignItems: "center", background: "#FAF7F0", padding: "5px 14px", borderRadius: 8 }}>
+          <img src="/assets/logo-full.png" alt="EduVenture" style={{ height: 26, display: "block" }} />
+        </a>
         <div className="flex gap-4 flex-wrap" style={{ fontSize: 13.5 }}>
           <a href="/pathway/" style={{ color: "#C7D0DE", textDecoration: "none" }}>Find your certificate</a>
           <a href="/practice/" style={{ color: "#C7D0DE", textDecoration: "none" }}>Study &amp; practice</a>
