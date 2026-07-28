@@ -187,14 +187,39 @@ function Table({ headers, rows }) {
   );
 }
 
-function Checklist({ items }) {
+function Checklist({ title, items }) {
   return (
     <div style={{ marginBottom: 16 }}>
+      {title && <p style={{ fontFamily: sans, fontSize: 13.5, fontWeight: 700, color: C.blue, marginBottom: 8 }}>{title}</p>}
       {items.map((item, i) => (
         <div key={i} style={{ display: "flex", gap: 10, alignItems: "flex-start", marginBottom: 8 }}>
           <span style={{ width: 15, height: 15, border: `2px solid ${C.blue}`, borderRadius: 4, flexShrink: 0, marginTop: 2 }} />
           <span style={{ fontSize: 14, lineHeight: 1.6, color: C.slate }}>{renderLine(item, "ck" + i)}</span>
         </div>
+      ))}
+    </div>
+  );
+}
+
+function Flowchart({ steps }) {
+  return (
+    <div className="flex flex-col sm:flex-row gap-0 sm:gap-2 mb-4" style={{ alignItems: "stretch" }}>
+      {steps.map((s, i) => (
+        <React.Fragment key={i}>
+          <div style={{ flex: 1, background: "#EEF2FA", border: `1px solid #C7D8F2`, borderRadius: 12, padding: "14px 16px", minWidth: 0 }}>
+            <div className="flex items-center gap-2" style={{ marginBottom: 6 }}>
+              <span style={{ width: 22, height: 22, borderRadius: "50%", background: C.blue, color: "#fff", fontSize: 12, fontWeight: 700, display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0 }}>{s.number}</span>
+              <p style={{ fontFamily: sans, fontSize: 13.5, fontWeight: 700, color: C.navy, margin: 0 }}>{s.title}</p>
+            </div>
+            {s.desc && <p style={{ fontFamily: sans, fontSize: 12.5, lineHeight: 1.6, color: C.slate, margin: 0 }}>{renderLine(s.desc, "fc" + i)}</p>}
+          </div>
+          {i < steps.length - 1 && (
+            <div className="flex items-center justify-center" style={{ color: C.blue, fontSize: 18, padding: "4px 0", transform: "none" }}>
+              <span className="hidden sm:inline">→</span>
+              <span className="sm:hidden">↓</span>
+            </div>
+          )}
+        </React.Fragment>
       ))}
     </div>
   );
@@ -206,6 +231,8 @@ function Block({ block }) {
       return <p style={{ fontSize: 14, lineHeight: 1.75, color: C.slate, marginBottom: 14 }}>{renderLine(block.text, "bt")}</p>;
     case "subheading":
       return <p style={{ fontFamily: sans, fontSize: 14.5, fontWeight: 700, color: C.blue, marginTop: 16, marginBottom: 8 }}>{block.text}</p>;
+    case "flowchart":
+      return <Flowchart steps={block.steps} />;
     case "list":
       return (
         <ul style={{ margin: "0 0 14px", padding: 0, listStyle: "none" }}>
@@ -222,7 +249,7 @@ function Block({ block }) {
     case "callout":
       return <Callout title={block.title} lines={block.lines} />;
     case "checklist":
-      return <Checklist items={block.items} />;
+      return <Checklist title={block.title} items={block.items} />;
     default:
       return null;
   }
