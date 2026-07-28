@@ -230,7 +230,7 @@ function Block({ block }) {
 
 function RichSection({ section }) {
   return (
-    <div>
+    <div id={section.anchor || undefined}>
       <p style={{ fontFamily: sans, fontSize: 16, fontWeight: 700, color: C.navy, marginBottom: 8 }}>{section.heading}</p>
       {section.blocks.map((b, i) => <Block key={i} block={b} />)}
     </div>
@@ -243,11 +243,21 @@ function ArticleView({ article }) {
       <h1 style={{ fontFamily: serif, fontSize: 22, color: C.navy, marginBottom: 6 }}>{article.title}</h1>
       <p style={{ fontFamily: sans, fontSize: 13.5, color: C.slateSoft, marginBottom: 20, lineHeight: 1.6 }}>{article.summary}</p>
       {article.leadCallout && (
-        <div style={{ background: C.navy, borderRadius: 12, padding: "14px 18px", marginBottom: 24 }}>
-          {article.leadCallout.title && <p style={{ fontFamily: sans, fontSize: 12, fontWeight: 700, letterSpacing: 0.5, textTransform: "uppercase", color: "#9FB3D9", marginBottom: 6 }}>{article.leadCallout.title}</p>}
+        <div style={{ background: "#EEF2FA", border: `1px solid #C7D8F2`, borderLeft: `4px solid ${C.blue}`, borderRadius: 12, padding: "14px 18px", marginBottom: 16 }}>
+          {article.leadCallout.title && <p style={{ fontFamily: sans, fontSize: 12, fontWeight: 700, letterSpacing: 0.5, textTransform: "uppercase", color: C.blue, marginBottom: 6 }}>{article.leadCallout.title}</p>}
           {article.leadCallout.lines.map((l, i) => (
-            <p key={i} style={{ fontFamily: sans, fontSize: 14, lineHeight: 1.7, color: "#fff", marginBottom: 0 }}>{renderLine(l, "lc" + i)}</p>
+            <p key={i} style={{ fontFamily: sans, fontSize: 14, lineHeight: 1.7, color: C.navy, marginBottom: 0 }}>{renderLine(l, "lc" + i)}</p>
           ))}
+        </div>
+      )}
+      {article.nav && (
+        <div style={{ background: C.card, border: `1px solid ${C.border}`, borderRadius: 12, padding: "14px 18px", marginBottom: 24 }}>
+          <p style={{ fontFamily: sans, fontSize: 12, fontWeight: 700, letterSpacing: 0.5, textTransform: "uppercase", color: C.slateSoft, marginBottom: 8 }}>本文导航</p>
+          <div className="flex flex-col gap-1.5">
+            {article.nav.map((n, i) => (
+              <a key={i} href={"#" + n.anchor} style={{ fontFamily: sans, fontSize: 13.5, color: C.blue, textDecoration: "none" }}>{n.label}</a>
+            ))}
+          </div>
         </div>
       )}
       {article.faqs ? (

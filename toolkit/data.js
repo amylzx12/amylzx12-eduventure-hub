@@ -79,7 +79,8 @@ window.TOOLKIT = {
                                             "确认重点：招聘平台、合同制度和面试流程。本文重点介绍 NYCPS。"
                                       ]
                                 }
-                          ]
+                          ],
+                          "anchor": "step1"
                     },
                     {
                           "heading": "第二步：确认自己应该使用哪个求职系统",
@@ -106,7 +107,8 @@ window.TOOLKIT = {
                                             "提醒：通常每年4月至8月开放；新教师不应把它当作主要入口。"
                                       ]
                                 }
-                          ]
+                          ],
+                          "anchor": "step2"
                     },
                     {
                           "heading": "第三步：寻找职位并建立学校名单",
@@ -159,7 +161,8 @@ window.TOOLKIT = {
                                             "School Quality Snapshot\n适合查看学校基本情况和调查数据；学校官网的近期活动、课程介绍、校长寄语和教师团队页面，往往更能反映学校当前的发展方向。"
                                       ]
                                 }
-                          ]
+                          ],
+                          "anchor": "step3"
                     },
                     {
                           "heading": "第四步：根据自己的情况排列优先级",
@@ -201,7 +204,8 @@ window.TOOLKIT = {
                                       "type": "text",
                                       "text": "求职初期不必等待“完美学校”才开始行动，但应避开明显不符合证书、地点或个人底线的职位。"
                                 }
-                          ]
+                          ],
+                          "anchor": "step4"
                     },
                     {
                           "heading": "第五步：主动联系学校",
@@ -265,7 +269,8 @@ window.TOOLKIT = {
                                       "type": "text",
                                       "text": "不要向所有学校发送完全相同的邮件。即使只增加一两句话，说明你了解学校的课程、学生或教育理念，也会让邮件更具体。"
                                 }
-                          ]
+                          ],
+                          "anchor": "step5"
                     },
                     {
                           "heading": "第六步：等待期间继续推进",
@@ -295,7 +300,8 @@ window.TOOLKIT = {
                                             "建立关系的关键：长期参与、主动交流和可靠的工作表现。"
                                       ]
                                 }
-                          ]
+                          ],
+                          "anchor": "step6"
                     },
                     {
                           "heading": "求职行动清单",
@@ -314,7 +320,8 @@ window.TOOLKIT = {
                                             "按合理间隔发送 follow-up 邮件"
                                       ]
                                 }
-                          ]
+                          ],
+                          "anchor": "checklist"
                     },
                     {
                           "heading": "最后的建议",
@@ -351,6 +358,36 @@ window.TOOLKIT = {
                                       "text": "本文根据 EduVenture“纽约教师求职分享会 Session 1”课件整理。分享人为 Zexiu Li、Minjia Zhang，实习与教育经验部分由嘉宾 Jinghao Xu 分享。招聘系统和流程信息参考 NYC Public Schools 与 TeachNYC 官方资料。相关规定、申请窗口和职位信息可能更新，请以申请时的官方信息为准。"
                                 }
                           ]
+                    }
+              ],
+              "nav": [
+                    {
+                          "label": "1. 明确求职方向",
+                          "anchor": "step1"
+                    },
+                    {
+                          "label": "2. 选对申请系统",
+                          "anchor": "step2"
+                    },
+                    {
+                          "label": "3. 建立学校名单",
+                          "anchor": "step3"
+                    },
+                    {
+                          "label": "4. 排列申请优先级",
+                          "anchor": "step4"
+                    },
+                    {
+                          "label": "5. 主动联系学校",
+                          "anchor": "step5"
+                    },
+                    {
+                          "label": "6. 等待期间继续推进",
+                          "anchor": "step6"
+                    },
+                    {
+                          "label": "求职行动清单",
+                          "anchor": "checklist"
                     }
               ]
         },
