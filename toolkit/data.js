@@ -94,7 +94,7 @@ window.TOOLKIT = {
                                       "title": "新教师或首次申请 NYCPS",
                                       "lines": [
                                             "入口：NYCPS Certified Teacher Application → New Teacher Finder",
-                                            "作用：提交资格、偏好、推荐人和\nResume；审核后搜索职位，也可被学校招聘人员发现。",
+                                            "作用：提交资格、偏好、推荐人和 Resume；审核后搜索职位，也可被学校招聘人员发现。",
                                             "提醒：通过审核只代表进入校级求职阶段，并不等于获得工作。"
                                       ]
                                 },
@@ -158,7 +158,7 @@ window.TOOLKIT = {
                                       "type": "callout",
                                       "title": "信息使用提醒",
                                       "lines": [
-                                            "School Quality Snapshot\n适合查看学校基本情况和调查数据；学校官网的近期活动、课程介绍、校长寄语和教师团队页面，往往更能反映学校当前的发展方向。"
+                                            "School Quality Snapshot 适合查看学校基本情况和调查数据；学校官网的近期活动、课程介绍、校长寄语和教师团队页面，往往更能反映学校当前的发展方向。"
                                       ]
                                 }
                           ],
@@ -261,8 +261,8 @@ window.TOOLKIT = {
                                       "title": "邮件模板",
                                       "lines": [
                                             "Dear Principal [Last Name],",
-                                            "I am writing to express my interest in the Mandarin teaching position\nat [School Name]. I am certified/on track to be certified in\n[Certification Area] and have experience teaching [student group or\ncourse]. I was particularly interested in your school's [specific\nprogram, value, or student population].",
-                                            "I have attached my resume for your consideration and would appreciate\nthe opportunity to discuss how my experience could support your students\nand school community."
+                                            "I am writing to express my interest in the Mandarin teaching position at [School Name]. I am certified/on track to be certified in [Certification Area] and have experience teaching [student group or course]. I was particularly interested in your school's [specific program, value, or student population].",
+                                            "I have attached my resume for your consideration and would appreciate the opportunity to discuss how my experience could support your students and school community."
                                       ]
                                 },
                                 {
@@ -295,7 +295,7 @@ window.TOOLKIT = {
                                       "type": "callout",
                                       "title": "可以从这些渠道开始",
                                       "lines": [
-                                            "学校与专业网络：教授、项目导师、校友、Student\nTeaching/实习学校、招聘会、教师社群和教育会议。",
+                                            "学校与专业网络：教授、项目导师、校友、Student Teaching/实习学校、招聘会、教师社群和教育会议。",
                                             "线上与社区网络：LinkedIn、微信群、小红书、家长和社区教育机构。",
                                             "建立关系的关键：长期参与、主动交流和可靠的工作表现。"
                                       ]
@@ -398,7 +398,7 @@ window.TOOLKIT = {
               "leadCallout": {
                     "title": "核心提醒",
                     "lines": [
-                          "通过 NYCPS\n的初步申请审核，只代表你可以进入校级招聘阶段。最终聘用决定通常由具体学校及其招聘团队作出。"
+                          "通过 NYCPS 的初步申请审核，只代表你可以进入校级招聘阶段。最终聘用决定通常由具体学校及其招聘团队作出。"
                     ]
               },
               "nav": [
@@ -622,7 +622,7 @@ window.TOOLKIT = {
                                       "type": "callout",
                                       "title": "英文示例",
                                       "lines": [
-                                            "I am completing my master’s degree in TESOL and am on track to\nreceive my New York State certification. During student teaching, I\nworked with multilingual high school students and designed lessons that\ncombined language objectives with project-based learning. I am\nparticularly interested in your school because of its focus on college\nreadiness and support for multilingual learners."
+                                            "I am completing my master’s degree in TESOL and am on track to receive my New York State certification. During student teaching, I worked with multilingual high school students and designed lessons that combined language objectives with project-based learning. I am particularly interested in your school because of its focus on college readiness and support for multilingual learners."
                                       ]
                                 },
                                 {
@@ -746,7 +746,7 @@ window.TOOLKIT = {
                                       "type": "callout",
                                       "title": "避免只罗列术语",
                                       "lines": [
-                                            "使用 UDL、UbD、Scaffolding 或 Differentiation\n等专业词汇时，需要配合一个真实的课堂例子，说明你何时使用、为什么使用以及学生有什么变化。"
+                                            "使用 UDL、UbD、Scaffolding 或 Differentiation 等专业词汇时，需要配合一个真实的课堂例子，说明你何时使用、为什么使用以及学生有什么变化。"
                                       ]
                                 }
                           ],
@@ -797,7 +797,7 @@ window.TOOLKIT = {
                                       "type": "callout",
                                       "title": "从经历到证据",
                                       "lines": [
-                                            "不要只说：“I taught English in China for two years.”\n可以进一步说明：“I taught classes of more than 40 students. That\nexperience helped me develop clear routines, structured group work and\nmultiple ways to check student understanding during a large-group\nlesson.”"
+                                            "不要只说：“I taught English in China for two years.” 可以进一步说明：“I taught classes of more than 40 students. That experience helped me develop clear routines, structured group work and multiple ways to check student understanding during a large-group lesson.”"
                                       ]
                                 }
                           ],
@@ -860,7 +860,7 @@ window.TOOLKIT = {
                                       "type": "callout",
                                       "title": "准备备用方案",
                                       "lines": [
-                                            "提前准备不依赖投影仪或 Smart Board\n的版本，并自备关键材料和复印件。"
+                                            "提前准备不依赖投影仪或 Smart Board 的版本，并自备关键材料和复印件。"
                                       ]
                                 },
                                 {
@@ -1100,7 +1100,7 @@ window.TOOLKIT = {
                                       "type": "callout",
                                       "title": "等待期间继续推进",
                                       "lines": [
-                                            "学校未立即回复，可能与预算、课程安排、内部审批或其他候选人的面试时间有关。继续申请其他学校，并按约定时间进行礼貌\nFollow-up。"
+                                            "学校未立即回复，可能与预算、课程安排、内部审批或其他候选人的面试时间有关。继续申请其他学校，并按约定时间进行礼貌 Follow-up。"
                                       ]
                                 }
                           ],
@@ -1164,7 +1164,7 @@ window.TOOLKIT = {
                                       "type": "callout",
                                       "title": "面试回答的核心公式",
                                       "lines": [
-                                            "我做过什么 → 为什么这样做 → 学生有什么变化 →\n下一次我会如何改进"
+                                            "我做过什么 → 为什么这样做 → 学生有什么变化 → 下一次我会如何改进"
                                       ]
                                 },
                                 {
@@ -1361,7 +1361,7 @@ window.TOOLKIT = {
                                       "type": "callout",
                                       "title": "Student Teaching 不只是毕业要求",
                                       "lines": [
-                                            "它还可能帮助你获得推荐人、教学材料、学生作品样本、面试案例、Demo\nLesson\n灵感和学校招聘信息。使用学生材料时必须删除身份信息并遵守学校规定。"
+                                            "它还可能帮助你获得推荐人、教学材料、学生作品样本、面试案例、Demo Lesson 灵感和学校招聘信息。使用学生材料时必须删除身份信息并遵守学校规定。"
                                       ]
                                 },
                                 {
@@ -1419,7 +1419,7 @@ window.TOOLKIT = {
                                       "type": "callout",
                                       "title": "介绍研究经历时强调“你的角色”",
                                       "lines": [
-                                            "例如：As a research assistant, I coded interview data from\nmultilingual students and identified recurring challenges related to\nclassroom participation. This experience strengthened my ability to\nlisten carefully to student perspectives and consider how classroom\nstructures affect participation."
+                                            "例如：As a research assistant, I coded interview data from multilingual students and identified recurring challenges related to classroom participation. This experience strengthened my ability to listen carefully to student perspectives and consider how classroom structures affect participation."
                                       ]
                                 },
                                 {
@@ -1462,7 +1462,7 @@ window.TOOLKIT = {
                                       "type": "callout",
                                       "title": "重要身份提醒",
                                       "lines": [
-                                            "职位是否需要授权，不能只看是否领取工资，也不能只看岗位名称。Volunteer、Intern、Fellow\n或 Assistant\n等名称本身，不能决定该活动是否属于合法志愿服务或就业。"
+                                            "职位是否需要授权，不能只看是否领取工资，也不能只看岗位名称。Volunteer、Intern、Fellow 或 Assistant 等名称本身，不能决定该活动是否属于合法志愿服务或就业。"
                                       ]
                                 },
                                 {
@@ -1498,7 +1498,7 @@ window.TOOLKIT = {
                                       "type": "callout",
                                       "title": "不要照搬同学的情况",
                                       "lines": [
-                                            "不同学校可能有不同的 CPT\n课程、学分与申请流程。朋友或同学的经历不能代替 DSO\n对你个人记录作出的判断。"
+                                            "不同学校可能有不同的 CPT 课程、学分与申请流程。朋友或同学的经历不能代替 DSO 对你个人记录作出的判断。"
                                       ]
                                 }
                           ],
@@ -1551,14 +1551,14 @@ window.TOOLKIT = {
                                       "type": "callout",
                                       "title": "CPT 提醒",
                                       "lines": [
-                                            "CPT 必须在获批日期和雇主范围内进行。累计一年或以上的全职\nCPT，可能影响同一学历层级的 Post-completion OPT 资格。"
+                                            "CPT 必须在获批日期和雇主范围内进行。累计一年或以上的全职 CPT，可能影响同一学历层级的 Post-completion OPT 资格。"
                                       ]
                                 },
                                 {
                                       "type": "callout",
                                       "title": "OPT 提醒",
                                       "lines": [
-                                            "OPT\n工作必须与所学专业直接相关。即使是无薪实习或志愿形式，也要满足相应的专业相关性、工作时间和记录要求。"
+                                            "OPT 工作必须与所学专业直接相关。即使是无薪实习或志愿形式，也要满足相应的专业相关性、工作时间和记录要求。"
                                       ]
                                 }
                           ],
@@ -1601,7 +1601,7 @@ window.TOOLKIT = {
                                       "type": "callout",
                                       "title": "主动联系教授的邮件需要具体",
                                       "lines": [
-                                            "说明你是谁、专业与研究兴趣、关注教授的哪项工作、你可以贡献什么技能、每周可投入多少时间，并附上\nResume 或 CV。"
+                                            "说明你是谁、专业与研究兴趣、关注教授的哪项工作、你可以贡献什么技能、每周可投入多少时间，并附上 Resume 或 CV。"
                                       ]
                                 },
                                 {
@@ -1662,7 +1662,7 @@ window.TOOLKIT = {
                                       "type": "callout",
                                       "title": "一个简单判断标准",
                                       "lines": [
-                                            "优先选择：合法可参与 + 职责清楚 + 能直接练习专业能力 + 有监督反馈 +\n能形成证据的机会。"
+                                            "优先选择：合法可参与 + 职责清楚 + 能直接练习专业能力 + 有监督反馈 + 能形成证据的机会。"
                                       ]
                                 }
                           ],
@@ -1762,7 +1762,7 @@ window.TOOLKIT = {
                                       "type": "callout",
                                       "title": "Resume 公式",
                                       "lines": [
-                                            "Action Verb + What You Did + Who You Served + Method +\nResult"
+                                            "Action Verb + What You Did + Who You Served + Method + Result"
                                       ]
                                 },
                                 {
@@ -1838,7 +1838,7 @@ window.TOOLKIT = {
                                       "type": "callout",
                                       "title": "一段课后项目经历可以对应的问题",
                                       "lines": [
-                                            "How do you build relationships with students? / How do you respond\nwhen a student refuses to participate? / How do you differentiate\ninstruction? / Tell us about a challenge you faced. / How do you reflect\non your teaching?"
+                                            "How do you build relationships with students? / How do you respond when a student refuses to participate? / How do you differentiate instruction? / Tell us about a challenge you faced. / How do you reflect on your teaching?"
                                       ]
                                 }
                           ],
@@ -1974,7 +1974,7 @@ window.TOOLKIT = {
               "leadCallout": {
                     "title": "核心定义",
                     "lines": [
-                          "Networking = 交换真实信息 + 建立专业信任 +\n长期维护关系。职位推荐只是其中一种可能结果。"
+                          "Networking = 交换真实信息 + 建立专业信任 + 长期维护关系。职位推荐只是其中一种可能结果。"
                     ]
               },
               "nav": [
@@ -2121,14 +2121,14 @@ window.TOOLKIT = {
                                       "type": "callout",
                                       "title": "不建议作为第一条消息",
                                       "lines": [
-                                            "Can you refer me to your school? / Can you help me get a teaching\njob? / Can you introduce me to your principal?"
+                                            "Can you refer me to your school? / Can you help me get a teaching job? / Can you introduce me to your principal?"
                                       ]
                                 },
                                 {
                                       "type": "callout",
                                       "title": "更适合的第一步",
                                       "lines": [
-                                            "I am beginning my search for Mandarin teaching positions and\nwould appreciate hearing about your experience working in NYC\nschools."
+                                            "I am beginning my search for Mandarin teaching positions and would appreciate hearing about your experience working in NYC schools."
                                       ]
                                 }
                           ],
@@ -2167,7 +2167,7 @@ window.TOOLKIT = {
                                       "type": "callout",
                                       "title": "请求介绍越具体，对方越容易帮助",
                                       "lines": [
-                                            "与其说“能不能介绍一个校长”，可以说：“如果合适，是否可以介绍一位愿意分享\n10–15\n分钟经验的在职中文教师？我想了解新教师进入学校后的课程准备。”"
+                                            "与其说“能不能介绍一个校长”，可以说：“如果合适，是否可以介绍一位愿意分享 10–15 分钟经验的在职中文教师？我想了解新教师进入学校后的课程准备。”"
                                       ]
                                 }
                           ],
@@ -2218,7 +2218,7 @@ window.TOOLKIT = {
                                       "type": "callout",
                                       "title": "关系质量来自可被观察的表现",
                                       "lines": [
-                                            "Student Teaching\n和实习期间，准时、完成任务、接受反馈、参加团队会议和保持专业沟通，比单纯“认识很多人”更能促成推荐。"
+                                            "Student Teaching 和实习期间，准时、完成任务、接受反馈、参加团队会议和保持专业沟通，比单纯“认识很多人”更能促成推荐。"
                                       ]
                                 },
                                 {
@@ -2250,14 +2250,14 @@ window.TOOLKIT = {
                                       "type": "callout",
                                       "title": "Headline 示例 1",
                                       "lines": [
-                                            "Mandarin Teacher Candidate | New York State Certification in\nChinese 7–12 | World Language Education"
+                                            "Mandarin Teacher Candidate | New York State Certification in Chinese 7–12 | World Language Education"
                                       ]
                                 },
                                 {
                                       "type": "callout",
                                       "title": "Headline 示例 2",
                                       "lines": [
-                                            "TESOL Teacher Candidate | Multilingual Learner Support |\nSecondary Education"
+                                            "TESOL Teacher Candidate | Multilingual Learner Support | Secondary Education"
                                       ]
                                 }
                           ],
@@ -2304,7 +2304,7 @@ window.TOOLKIT = {
                                       "type": "callout",
                                       "title": "交流后的感谢消息",
                                       "lines": [
-                                            "Thank you again for sharing your experience. Your advice about\npreparing specific classroom examples was especially helpful. I plan to\nrevise my interview notes this week and will keep you updated on my\nprogress."
+                                            "Thank you again for sharing your experience. Your advice about preparing specific classroom examples was especially helpful. I plan to revise my interview notes this week and will keep you updated on my progress."
                                       ]
                                 }
                           ],
@@ -2365,28 +2365,28 @@ window.TOOLKIT = {
                                       "type": "callout",
                                       "title": "向教授请求介绍校友",
                                       "lines": [
-                                            "Professor [Name],\nI am preparing to apply for secondary Mandarin teaching positions and\nwould like to learn more about the transition from student teaching to a\nfull-time role. If you know a recent graduate who might be willing to\nshare their experience, I would greatly appreciate an introduction. I\nwould keep the conversation brief and focused on the job-search\nprocess."
+                                            "Professor [Name], I am preparing to apply for secondary Mandarin teaching positions and would like to learn more about the transition from student teaching to a full-time role. If you know a recent graduate who might be willing to share their experience, I would greatly appreciate an introduction. I would keep the conversation brief and focused on the job-search process."
                                       ]
                                 },
                                 {
                                       "type": "callout",
                                       "title": "向朋友请求介绍教师",
                                       "lines": [
-                                            "I remember you mentioned that your colleague teaches ENL in\nQueens. I am currently learning about middle-school ENL positions. If\nyou think it would be appropriate, would you be comfortable introducing\nus for a short informational conversation?"
+                                            "I remember you mentioned that your colleague teaches ENL in Queens. I am currently learning about middle-school ENL positions. If you think it would be appropriate, would you be comfortable introducing us for a short informational conversation?"
                                       ]
                                 },
                                 {
                                       "type": "callout",
                                       "title": "对方分享招聘信息后",
                                       "lines": [
-                                            "Thank you for sharing the opening. Based on the description, the\nposition aligns closely with my Chinese 7–12 certification and\nstudent-teaching experience. Would you recommend applying through the\nschool’s system first, or contacting the hiring administrator\ndirectly?"
+                                            "Thank you for sharing the opening. Based on the description, the position aligns closely with my Chinese 7–12 certification and student-teaching experience. Would you recommend applying through the school’s system first, or contacting the hiring administrator directly?"
                                       ]
                                 },
                                 {
                                       "type": "callout",
                                       "title": "好的请求通常包含",
                                       "lines": [
-                                            "共同背景或联系原因 + 一个具体问题 + 明确的时间范围 +\n尊重对方选择的空间。"
+                                            "共同背景或联系原因 + 一个具体问题 + 明确的时间范围 + 尊重对方选择的空间。"
                                       ]
                                 }
                           ],
@@ -2433,7 +2433,7 @@ window.TOOLKIT = {
                                       "type": "callout",
                                       "title": "进展更新示例",
                                       "lines": [
-                                            "I wanted to share a quick update and thank you again for your\nadvice. I recently completed my first demo lesson and used the clear\nlearning-objective structure you recommended. The experience helped me\nfeel much more prepared."
+                                            "I wanted to share a quick update and thank you again for your advice. I recently completed my first demo lesson and used the clear learning-objective structure you recommended. The experience helped me feel much more prepared."
                                       ]
                                 }
                           ],
@@ -2646,141 +2646,141 @@ window.TOOLKIT = {
           "纽约教师求职很少是一条完全清晰的直线——收到回复的快慢、是否需要 Demo Lesson、招聘轮次，都因学校而异。本文按申请系统、学校联系、简历材料、面试、推荐人、工作授权、Offer、以及卡住时怎么办，整理成可以直接查找的问答。"
         ]
       },
-              "intro": "纽约教师求职很少是一条完全清晰的直线。\n\n有些申请者提交材料后，很快就收到学校联系；有些人发送了很多邮件，却长时间没有回复。部分学校会安排多轮面试和Demo Lesson，另一些学校可能在一次面试后便作出决定。\n\nEduVenture“纽约教师求职分享会”中，参与者最常提出的问题包括：\n\n• 校长不回复怎么办？\n• 没有美国教学经验是否会影响求职？\n• 是否需要主动联系学校？\n• 面试时应该注意哪些礼仪？\n• 国际学生什么时候说明工作授权？\n• 推荐人应该怎样准备？\n• 收到口头Offer后还需要做什么？\n\n本文将这些问题集中整理，帮助申请者判断自己目前处于哪一个阶段，以及下一步应该采取什么行动。",
+              "intro": "纽约教师求职很少是一条完全清晰的直线。\n\n 有些申请者提交材料后，很快就收到学校联系；有些人发送了很多邮件，却长时间没有回复。部分学校会安排多轮面试和Demo Lesson，另一些学校可能在一次面试后便作出决定。\n\n EduVenture“纽约教师求职分享会”中，参与者最常提出的问题包括：\n\n • 校长不回复怎么办？ • 没有美国教学经验是否会影响求职？ • 是否需要主动联系学校？ • 面试时应该注意哪些礼仪？ • 国际学生什么时候说明工作授权？ • 推荐人应该怎样准备？ • 收到口头Offer后还需要做什么？\n\n 本文将这些问题集中整理，帮助申请者判断自己目前处于哪一个阶段，以及下一步应该采取什么行动。",
               "faqs": [
                     {
                           "q": "新教师应该使用New Teacher Finder还是Open Market？",
-                          "a": "准备第一次进入NYC Public Schools全职任教的申请者，通常需要完成NYCPS Certified Teacher Application。\n\n申请通过审核后，候选人会进入New Teacher Finder。候选人可以在其中搜索职位，校长和招聘负责人也可以查看符合条件的申请者。\n\nOpen Market Hiring System主要供目前已经在NYCPS任职、符合资格的教师和其他UFT职位员工申请转校使用，不是新教师的主要申请系统。\n\n可以这样判断：\n\n申请者身份 — 主要系统\n第一次申请NYCPS全职教师职位 — Certified Teacher Application＋New Teacher Finder\n目前已在NYCPS任职并希望转校 — Open Market\n申请Charter或Private School — 学校或机构自己的申请平台\n申请Pre-K或社区机构职位 — 根据项目类型使用相应申请系统"
+                          "a": "准备第一次进入NYC Public Schools全职任教的申请者，通常需要完成NYCPS Certified Teacher Application。\n\n 申请通过审核后，候选人会进入New Teacher Finder。候选人可以在其中搜索职位，校长和招聘负责人也可以查看符合条件的申请者。\n\n Open Market Hiring System主要供目前已经在NYCPS任职、符合资格的教师和其他UFT职位员工申请转校使用，不是新教师的主要申请系统。\n\n 可以这样判断：\n\n 申请者身份 — 主要系统第一次申请NYCPS全职教师职位 — Certified Teacher Application＋New Teacher Finder 目前已在NYCPS任职并希望转校 — Open Market 申请Charter或Private School — 学校或机构自己的申请平台申请Pre-K或社区机构职位 — 根据项目类型使用相应申请系统"
                     },
                     {
                           "q": "完成NYCPS申请后，是否代表已经获得教师职位？",
-                          "a": "不是。\n\nNYCPS首先审核申请者是否符合进入学校招聘阶段的基本条件。申请被接受后，候选人进入New Teacher Finder，但仍需要自行搜索职位、联系学校并参加学校安排的招聘流程。最终决定通常由具体学校的招聘团队作出。\n\n可以将整个流程理解为：\n\nNYCPS申请审核 → 进入候选人系统 → 学校级求职 → 面试与Demo → 学校Offer → Nomination与入职流程\n\n申请通过审核只是获得了参加学校招聘的资格，并不是工作Offer。"
+                          "a": "不是。\n\n NYCPS首先审核申请者是否符合进入学校招聘阶段的基本条件。申请被接受后，候选人进入New Teacher Finder，但仍需要自行搜索职位、联系学校并参加学校安排的招聘流程。最终决定通常由具体学校的招聘团队作出。\n\n 可以将整个流程理解为：\n\n NYCPS申请审核 → 进入候选人系统 → 学校级求职 → 面试与Demo → 学校Offer → Nomination与入职流程\n\n 申请通过审核只是获得了参加学校招聘的资格，并不是工作Offer。"
                     },
                     {
                           "q": "教师资格证还没有正式签发，可以申请吗？",
-                          "a": "部分正在完成纽约州教师教育项目，并预计在规定时间前满足教师资格要求的候选人，可以按照“on track to be certified”的身份申请。\n\nNYCPS当前说明，已经获得纽约州教师资格，或预计在相应学年开始前获得资格的候选人，可以提交Certified Teacher Application。具体资格状态、项目证明和截止日期应以当期官方申请说明为准。\n\n申请前应准备：\n\n• 教师教育项目证明\n• 预计毕业或完成项目日期\n• 当前证书申请状态\n• 已通过和待完成的考试\n• 学校Certification Office联系方式\n• NYSED TEACH账户信息\n\n面试中应准确说明自己的状态，不要说“已经获得证书”，除非证书已经正式签发。\n\n可以说：\n\nI am currently on track to complete the requirements for New York State certification in Chinese 7–12 before the beginning of the school year."
+                          "a": "部分正在完成纽约州教师教育项目，并预计在规定时间前满足教师资格要求的候选人，可以按照“on track to be certified”的身份申请。\n\n NYCPS当前说明，已经获得纽约州教师资格，或预计在相应学年开始前获得资格的候选人，可以提交Certified Teacher Application。具体资格状态、项目证明和截止日期应以当期官方申请说明为准。\n\n 申请前应准备：\n\n • 教师教育项目证明 • 预计毕业或完成项目日期 • 当前证书申请状态 • 已通过和待完成的考试 • 学校Certification Office联系方式 • NYSED TEACH账户信息\n\n 面试中应准确说明自己的状态，不要说“已经获得证书”，除非证书已经正式签发。\n\n 可以说：\n\n I am currently on track to complete the requirements for New York State certification in Chinese 7–12 before the beginning of the school year."
                     },
                     {
                           "q": "进入New Teacher Finder后，应该等待学校联系吗？",
-                          "a": "不建议只等待。\n\nNew Teacher Finder允许候选人和学校相互搜索与联系，但被动等待会限制你接触职位的数量。\n\n更有效的方法是同时进行：\n\n1. 在New Teacher Finder中搜索职位\n2. 建立目标学校名单\n3. 阅读学校网站和课程信息\n4. 根据职位要求调整Resume\n5. 按照学校要求提交申请\n6. 在适当情况下发送简短联系邮件\n7. 参加招聘会、学校参观和Networking活动\n\n求职系统是入口，不是完整的求职策略。"
+                          "a": "不建议只等待。\n\n New Teacher Finder允许候选人和学校相互搜索与联系，但被动等待会限制你接触职位的数量。\n\n 更有效的方法是同时进行：\n\n 1. 在New Teacher Finder中搜索职位 2. 建立目标学校名单 3. 阅读学校网站和课程信息 4. 根据职位要求调整Resume 5. 按照学校要求提交申请 6. 在适当情况下发送简短联系邮件 7. 参加招聘会、学校参观和Networking活动\n\n 求职系统是入口，不是完整的求职策略。"
                     },
                     {
                           "q": "需要申请多少所学校？",
-                          "a": "没有适用于所有人的固定数字。\n\n申请数量应根据以下因素决定：\n\n• 教师资格领域\n• 年级范围\n• 地理位置\n• 招聘季节\n• 学校类型\n• 个人通勤限制\n• 是否需要签证或工作授权安排\n• 职位供需情况\n\n建议把学校分为三组：\n\n**高优先级**\n\n职位、学校理念、学生群体和通勤条件都比较匹配。\n\n对这些学校应投入更多时间：\n\n• 调整Resume\n• 研究学校\n• 撰写个性化邮件\n• 准备有针对性的面试答案\n\n**中等优先级**\n\n基本符合条件，但仍有部分信息需要确认。\n\n可以正常申请，并在面试中进一步了解。\n\n**探索性申请**\n\n你并不完全确定是否适合，但职位能够帮助你了解市场和积累面试经验。\n\n求职初期不要因为学校不是“完美选择”就完全不申请。分享会主讲人也建议新教师把部分面试看作了解学校和练习专业表达的机会。"
+                          "a": "没有适用于所有人的固定数字。\n\n 申请数量应根据以下因素决定：\n\n • 教师资格领域 • 年级范围 • 地理位置 • 招聘季节 • 学校类型 • 个人通勤限制 • 是否需要签证或工作授权安排 • 职位供需情况\n\n 建议把学校分为三组：\n\n **高优先级**\n\n 职位、学校理念、学生群体和通勤条件都比较匹配。\n\n 对这些学校应投入更多时间：\n\n • 调整Resume • 研究学校 • 撰写个性化邮件 • 准备有针对性的面试答案\n\n **中等优先级**\n\n 基本符合条件，但仍有部分信息需要确认。\n\n 可以正常申请，并在面试中进一步了解。\n\n **探索性申请**\n\n 你并不完全确定是否适合，但职位能够帮助你了解市场和积累面试经验。\n\n 求职初期不要因为学校不是“完美选择”就完全不申请。分享会主讲人也建议新教师把部分面试看作了解学校和练习专业表达的机会。"
                     },
                     {
                           "q": "为什么我联系了很多校长，却没有收到回复？",
-                          "a": "没有回复并不一定代表申请者不合格。\n\n学校招聘可能受到以下因素影响：\n\n• 学校仍在确认预算或课程安排\n• 职位尚未最终批准\n• 招聘负责人正在处理大量申请\n• 学校已经有内部候选人\n• 面试时间尚未确定\n• 招聘负责人优先处理紧急职位\n• 邮件进入垃圾邮箱\n• 你的材料没有清楚显示证书或职位匹配度\n\n分享会中，“联系校长后没有回复”也是参与者提出的常见问题。主讲人建议申请者继续扩大申请范围，而不是把所有希望放在一所学校上。\n\n可以采用以下节奏：\n\n• 提交申请后等待约一周\n• 发送一次简短Follow-up\n• 没有回复后继续申请其他学校\n• 职位仍开放时，可以在之后进行最后一次跟进\n• 避免连续多日重复发送邮件"
+                          "a": "没有回复并不一定代表申请者不合格。\n\n 学校招聘可能受到以下因素影响：\n\n • 学校仍在确认预算或课程安排 • 职位尚未最终批准 • 招聘负责人正在处理大量申请 • 学校已经有内部候选人 • 面试时间尚未确定 • 招聘负责人优先处理紧急职位 • 邮件进入垃圾邮箱 • 你的材料没有清楚显示证书或职位匹配度\n\n 分享会中，“联系校长后没有回复”也是参与者提出的常见问题。主讲人建议申请者继续扩大申请范围，而不是把所有希望放在一所学校上。\n\n 可以采用以下节奏：\n\n • 提交申请后等待约一周 • 发送一次简短Follow-up • 没有回复后继续申请其他学校 • 职位仍开放时，可以在之后进行最后一次跟进 • 避免连续多日重复发送邮件"
                     },
                     {
                           "q": "可以绕过系统，直接给学校发邮件吗？",
-                          "a": "直接联系学校可以作为系统申请的补充，但不应代替学校要求的正式申请步骤。\n\n一个较稳妥的顺序是：\n\n1. 确认自己符合职位要求\n2. 完成正式系统申请\n3. 查找学校或招聘负责人的公开联系方式\n4. 发送简短、个性化的介绍邮件\n5. 附上Resume\n6. 说明已经通过哪个渠道申请\n7. 礼貌询问是否需要补充材料\n\n例如：\n\nDear Assistant Principal Chen,\n\nI recently applied for the Mandarin teacher position through the New Teacher Finder. I am on track to receive New York State certification in Chinese 7–12 and recently completed my student teaching at the high school level.\n\nI am particularly interested in your school’s focus on project-based learning and would welcome the opportunity to discuss how my experience could support your world language program. My resume is attached for reference.\n\n不要一次向同一所学校的多位工作人员发送完全相同的邮件。"
+                          "a": "直接联系学校可以作为系统申请的补充，但不应代替学校要求的正式申请步骤。\n\n 一个较稳妥的顺序是：\n\n 1. 确认自己符合职位要求 2. 完成正式系统申请 3. 查找学校或招聘负责人的公开联系方式 4. 发送简短、个性化的介绍邮件 5. 附上Resume 6. 说明已经通过哪个渠道申请 7. 礼貌询问是否需要补充材料\n\n 例如：\n\n Dear Assistant Principal Chen,\n\n I recently applied for the Mandarin teacher position through the New Teacher Finder. I am on track to receive New York State certification in Chinese 7–12 and recently completed my student teaching at the high school level.\n\n I am particularly interested in your school’s focus on project-based learning and would welcome the opportunity to discuss how my experience could support your world language program. My resume is attached for reference.\n\n 不要一次向同一所学校的多位工作人员发送完全相同的邮件。"
                     },
                     {
                           "q": "我的Resume没有美国全职教学经历，怎么办？",
-                          "a": "不要用“是否做过美国全职教师”作为唯一标准判断自己的经验。\n\n以下经历都可以提供与教师岗位相关的证据：\n\n• Student Teaching\n• Tutoring\n• Afterschool Program\n• Summer Camp\n• 社区中文学校\n• 成人教育\n• Research Assistant\n• 课程设计\n• 志愿服务\n• 学生社团\n• 国内教学\n• 客户服务\n• 项目管理\n• 数据分析\n• 团队领导\n\n重点是把经历转换成教师招聘团队能够理解的能力：\n\n原经历 — 可以体现的教师能力\n客户服务 — 关系建立、家庭沟通、冲突处理\n数据分析 — 学生数据分析、形成性评估\n项目管理 — 单元规划、时间管理、跨团队合作\n团队监督 — 课堂管理、领导力、反馈\n内容设计 — 课程材料与学习活动设计\n销售与推广 — 学生动机、清晰表达、需求分析\n\n不要虚构自己没有承担过的教学职责。\n\n可以改变表达重点，但不能把“向新员工介绍收银系统”写成“教授学生课程”。\n\n正确的转化逻辑是：\n\n我完成了什么真实任务？它体现了什么技能？这种技能如何用于教师岗位？"
+                          "a": "不要用“是否做过美国全职教师”作为唯一标准判断自己的经验。\n\n 以下经历都可以提供与教师岗位相关的证据：\n\n • Student Teaching • Tutoring • Afterschool Program • Summer Camp • 社区中文学校 • 成人教育 • Research Assistant • 课程设计 • 志愿服务 • 学生社团 • 国内教学 • 客户服务 • 项目管理 • 数据分析 • 团队领导\n\n 重点是把经历转换成教师招聘团队能够理解的能力：\n\n 原经历 — 可以体现的教师能力客户服务 — 关系建立、家庭沟通、冲突处理数据分析 — 学生数据分析、形成性评估项目管理 — 单元规划、时间管理、跨团队合作团队监督 — 课堂管理、领导力、反馈内容设计 — 课程材料与学习活动设计销售与推广 — 学生动机、清晰表达、需求分析\n\n 不要虚构自己没有承担过的教学职责。\n\n 可以改变表达重点，但不能把“向新员工介绍收银系统”写成“教授学生课程”。\n\n 正确的转化逻辑是：\n\n 我完成了什么真实任务？它体现了什么技能？这种技能如何用于教师岗位？"
                     },
                     {
                           "q": "一份教师Resume应该多长？",
-                          "a": "对于刚毕业或职业早期的教师候选人，清晰、相关和容易扫描通常比堆积大量内容更重要。\n\n官方Resume指导强调：\n\n• 根据招聘对象调整内容\n• 清楚列出教师资格和相关经验\n• 使用行动动词和具体例子\n• 保持格式一致\n• 检查语言和拼写\n• 保存为PDF提交\n\n通常应优先保留：\n\n• 教师资格\n• 教育背景\n• Student Teaching\n• 相关教学和学生工作经历\n• 可迁移的职业经验\n• 技能和语言\n• 与职位相关的项目\n\n不相关或很早以前的经历可以缩短，而不是全部删除。"
+                          "a": "对于刚毕业或职业早期的教师候选人，清晰、相关和容易扫描通常比堆积大量内容更重要。\n\n 官方Resume指导强调：\n\n • 根据招聘对象调整内容 • 清楚列出教师资格和相关经验 • 使用行动动词和具体例子 • 保持格式一致 • 检查语言和拼写 • 保存为PDF提交\n\n 通常应优先保留：\n\n • 教师资格 • 教育背景 • Student Teaching • 相关教学和学生工作经历 • 可迁移的职业经验 • 技能和语言 • 与职位相关的项目\n\n 不相关或很早以前的经历可以缩短，而不是全部删除。"
                     },
                     {
                           "q": "是否需要准备Teaching Portfolio？",
-                          "a": "Teaching Portfolio不一定是每所学校的硬性要求，但它可以帮助招聘负责人更具体地了解你的教学实践。\n\nTeachNYC建议Portfolio可以包括Lesson Plan和其他教学样本。\n\n可以准备：\n\n• 一至两份代表性Lesson Plan\n• Unit Plan\n• Slides或学生材料\n• Assessment和Rubric\n• 匿名化学生作品\n• 教学反思\n• 项目式学习案例\n• Classroom Management Plan\n• 教学视频片段，前提是获得必要许可\n• Professional Development记录\n\n不要把Portfolio做成几十页的材料集合。\n\n更重要的是选择少量作品，并说明：\n\n• 教学目标是什么\n• 为什么这样设计\n• 学生如何参与\n• 如何评估学习\n• 你进行了什么调整"
+                          "a": "Teaching Portfolio不一定是每所学校的硬性要求，但它可以帮助招聘负责人更具体地了解你的教学实践。\n\n TeachNYC建议Portfolio可以包括Lesson Plan和其他教学样本。\n\n 可以准备：\n\n • 一至两份代表性Lesson Plan • Unit Plan • Slides或学生材料 • Assessment和Rubric • 匿名化学生作品 • 教学反思 • 项目式学习案例 • Classroom Management Plan • 教学视频片段，前提是获得必要许可 • Professional Development记录\n\n 不要把Portfolio做成几十页的材料集合。\n\n 更重要的是选择少量作品，并说明：\n\n • 教学目标是什么 • 为什么这样设计 • 学生如何参与 • 如何评估学习 • 你进行了什么调整"
                     },
                     {
                           "q": "所有学校都会安排Demo Lesson吗？",
-                          "a": "不一定。\n\nDemo Lesson是学校可能使用的一种招聘评估方式。学校可能要求候选人向真实学生或由行政人员组成的小组教授一节模拟课，但并非每一所学校都会采用相同流程。\n\n可能出现的形式包括：\n\n• 不安排Demo\n• 面试当天进行短试讲\n• 第一轮面试后另行安排\n• 向真实学生授课\n• 向招聘委员会授课\n• 提交Lesson Plan并进行部分展示\n• 观看教学视频或讨论教学案例\n\n即使学校暂时没有要求Demo，TeachNYC也建议候选人提前准备一份可以调整的示范课程。"
+                          "a": "不一定。\n\n Demo Lesson是学校可能使用的一种招聘评估方式。学校可能要求候选人向真实学生或由行政人员组成的小组教授一节模拟课，但并非每一所学校都会采用相同流程。\n\n 可能出现的形式包括：\n\n • 不安排Demo • 面试当天进行短试讲 • 第一轮面试后另行安排 • 向真实学生授课 • 向招聘委员会授课 • 提交Lesson Plan并进行部分展示 • 观看教学视频或讨论教学案例\n\n 即使学校暂时没有要求Demo，TeachNYC也建议候选人提前准备一份可以调整的示范课程。"
                     },
                     {
                           "q": "Demo Lesson中最重要的是什么？",
-                          "a": "Demo Lesson不是表演一节“看起来很热闹”的课。\n\n招聘团队更希望观察：\n\n• 学习目标是否清楚\n• 活动是否与目标一致\n• 指令是否容易理解\n• 学生是否真正参与\n• 教师是否检查理解\n• 是否能够根据学生反应调整\n• 时间管理是否合理\n• 教师是否建立尊重的课堂氛围\n\nTeachNYC的准备建议也强调，候选人应遵循准备好的教学计划，同时保持灵活，并通过提问、观察学生工作和其他方式持续检查理解。\n\n短试讲最常见的问题不是内容不够多，而是：\n\n• 教师讲话时间过长\n• 活动与目标不一致\n• 没有检查学生是否理解\n• 指令过于复杂\n• 内容超出学生水平\n• 依赖科技，没有备用方案\n• 结尾没有Assessment"
+                          "a": "Demo Lesson不是表演一节“看起来很热闹”的课。\n\n 招聘团队更希望观察：\n\n • 学习目标是否清楚 • 活动是否与目标一致 • 指令是否容易理解 • 学生是否真正参与 • 教师是否检查理解 • 是否能够根据学生反应调整 • 时间管理是否合理 • 教师是否建立尊重的课堂氛围\n\n TeachNYC的准备建议也强调，候选人应遵循准备好的教学计划，同时保持灵活，并通过提问、观察学生工作和其他方式持续检查理解。\n\n 短试讲最常见的问题不是内容不够多，而是：\n\n • 教师讲话时间过长 • 活动与目标不一致 • 没有检查学生是否理解 • 指令过于复杂 • 内容超出学生水平 • 依赖科技，没有备用方案 • 结尾没有Assessment"
                     },
                     {
                           "q": "面试时需要穿得非常正式吗？",
-                          "a": "教师面试通常应采用干净、专业并适合学校环境的服装。\n\n不一定需要非常正式的商务套装，但应避免：\n\n• 过于休闲的运动服\n• 影响活动或走动的服装\n• 带有明显争议性文字的服饰\n• 不适合进入课堂的鞋子\n• 过度依赖香水或强烈气味\n\n若面试包含Demo Lesson，应考虑：\n\n• 是否需要在教室中走动\n• 是否能够使用白板\n• 是否需要弯腰协助学生\n• 是否方便携带和发放材料\n\n面试礼仪不只体现在衣着，还包括：\n\n• 提前到达\n• 对前台、School Safety Agent和其他工作人员保持礼貌\n• 关闭手机声音\n• 带好材料\n• 认真倾听问题\n• 不批评前任学校或同事\n• 离开前感谢参与面试的人员"
+                          "a": "教师面试通常应采用干净、专业并适合学校环境的服装。\n\n 不一定需要非常正式的商务套装，但应避免：\n\n • 过于休闲的运动服 • 影响活动或走动的服装 • 带有明显争议性文字的服饰 • 不适合进入课堂的鞋子 • 过度依赖香水或强烈气味\n\n 若面试包含Demo Lesson，应考虑：\n\n • 是否需要在教室中走动 • 是否能够使用白板 • 是否需要弯腰协助学生 • 是否方便携带和发放材料\n\n 面试礼仪不只体现在衣着，还包括：\n\n • 提前到达 • 对前台、School Safety Agent和其他工作人员保持礼貌 • 关闭手机声音 • 带好材料 • 认真倾听问题 • 不批评前任学校或同事 • 离开前感谢参与面试的人员"
                     },
                     {
                           "q": "回答面试问题时，应该使用多少专业术语？",
-                          "a": "专业术语可以帮助你准确表达教学实践，但术语不能代替实际案例。\n\n例如，只说：\n\nI use UDL, differentiation and culturally responsive teaching.\n\n说服力有限。\n\n更好的回答是：\n\nIn a beginner Mandarin class, I used images, sentence frames and multiple response options so that students with different language backgrounds could participate in the same speaking task.\n\n分享会主讲人建议候选人使用专业教育语言，同时通过具体教学故事让面试官理解这些术语如何出现在实际课堂中。\n\n一个有效回答可以包含：\n\n1. 核心观点\n2. 具体情境\n3. 采取的行动\n4. 学生表现或结果\n5. 反思与下一步"
+                          "a": "专业术语可以帮助你准确表达教学实践，但术语不能代替实际案例。\n\n 例如，只说：\n\n I use UDL, differentiation and culturally responsive teaching.\n\n 说服力有限。\n\n 更好的回答是：\n\n In a beginner Mandarin class, I used images, sentence frames and multiple response options so that students with different language backgrounds could participate in the same speaking task.\n\n 分享会主讲人建议候选人使用专业教育语言，同时通过具体教学故事让面试官理解这些术语如何出现在实际课堂中。\n\n 一个有效回答可以包含：\n\n 1. 核心观点 2. 具体情境 3. 采取的行动 4. 学生表现或结果 5. 反思与下一步"
                     },
                     {
                           "q": "需要准备几位推荐人？",
-                          "a": "NYCPS教师申请目前要求候选人填写至少一位、不超过三位专业推荐人的相关信息。\n\n进入学校招聘阶段后，建议提前准备两至三位能够具体评价你工作的人。分享会中也建议候选人提前整理推荐人名单。\n\n适合的人选包括：\n\n• Cooperating Teacher\n• University Supervisor\n• Student Teaching负责人\n• 教授\n• 教育项目主管\n• 前任学校领导\n• 实习或研究负责人\n\n推荐人应当能够说明你的：\n\n• 教学准备\n• 学生互动\n• 专业态度\n• 合作能力\n• 接受反馈的能力\n• 可靠性\n\n一个职位更高、但不熟悉你工作的人，不一定比直接观察过你教学的人更适合。"
+                          "a": "NYCPS教师申请目前要求候选人填写至少一位、不超过三位专业推荐人的相关信息。\n\n 进入学校招聘阶段后，建议提前准备两至三位能够具体评价你工作的人。分享会中也建议候选人提前整理推荐人名单。\n\n 适合的人选包括：\n\n • Cooperating Teacher • University Supervisor • Student Teaching负责人 • 教授 • 教育项目主管 • 前任学校领导 • 实习或研究负责人\n\n 推荐人应当能够说明你的：\n\n • 教学准备 • 学生互动 • 专业态度 • 合作能力 • 接受反馈的能力 • 可靠性\n\n 一个职位更高、但不熟悉你工作的人，不一定比直接观察过你教学的人更适合。"
                     },
                     {
                           "q": "可以不通知推荐人，直接填写对方信息吗？",
-                          "a": "不建议。\n\n提交前应先联系推荐人，确认对方：\n\n• 愿意担任推荐人\n• 记得你的具体工作\n• 可以在招聘期间及时回复\n• 知道你正在申请什么职位\n• 拥有你的最新Resume\n\n可以提供：\n\n• 职位描述\n• 学校名称\n• 最新Resume\n• 申请时间线\n• 希望对方重点说明的经历\n\n不要为推荐人编写他们必须照抄的评价，但可以提醒对方你们共同完成过的项目。"
+                          "a": "不建议。\n\n 提交前应先联系推荐人，确认对方：\n\n • 愿意担任推荐人 • 记得你的具体工作 • 可以在招聘期间及时回复 • 知道你正在申请什么职位 • 拥有你的最新Resume\n\n 可以提供：\n\n • 职位描述 • 学校名称 • 最新Resume • 申请时间线 • 希望对方重点说明的经历\n\n 不要为推荐人编写他们必须照抄的评价，但可以提醒对方你们共同完成过的项目。"
                     },
                     {
                           "q": "国际学生应该什么时候向学校说明工作授权？",
-                          "a": "应诚实、准确地回答申请和招聘过程中关于工作授权的问题，但不需要在第一次Networking交流中主动解释所有个人移民历史。\n\n需要区分：\n\n• 教师资格\n• 求职资格\n• 当前工作授权\n• 未来是否需要雇主支持\n\n这些是不同的问题。\n\nF-1学生决定在美国工作时，官方建议首先联系本校DSO，确认自己是否具有相应授权。学生不能在尚未取得所需授权时提前开始工作。\n\nCPT通常由DSO根据课程和职位情况授权；OPT则涉及DSO推荐，并在适用情况下需要USCIS批准。\n\n面试前应能够准确回答：\n\n• 当前身份是什么\n• 工作授权何时开始\n• 授权何时结束\n• 是否与所学专业相关\n• 是否存在雇主需要完成的步骤\n• 将来是否可能需要新的身份或雇主支持\n\n不确定时，不要根据同学经历猜测，应向DSO或合格的移民法律专业人士确认。"
+                          "a": "应诚实、准确地回答申请和招聘过程中关于工作授权的问题，但不需要在第一次Networking交流中主动解释所有个人移民历史。\n\n 需要区分：\n\n • 教师资格 • 求职资格 • 当前工作授权 • 未来是否需要雇主支持\n\n 这些是不同的问题。\n\n F-1学生决定在美国工作时，官方建议首先联系本校DSO，确认自己是否具有相应授权。学生不能在尚未取得所需授权时提前开始工作。\n\n CPT通常由DSO根据课程和职位情况授权；OPT则涉及DSO推荐，并在适用情况下需要USCIS批准。\n\n 面试前应能够准确回答：\n\n • 当前身份是什么 • 工作授权何时开始 • 授权何时结束 • 是否与所学专业相关 • 是否存在雇主需要完成的步骤 • 将来是否可能需要新的身份或雇主支持\n\n 不确定时，不要根据同学经历猜测，应向DSO或合格的移民法律专业人士确认。"
                     },
                     {
                           "q": "面试官问身份问题时，我应该怎样回答？",
-                          "a": "回答应简短、准确，并聚焦工作资格。\n\n例如：\n\nI am currently an F-1 student and expect to be eligible for post-completion OPT beginning in July. I am confirming the exact timeline with my university’s international student office.\n\n或者：\n\nI am currently authorized to work through OPT until \\[date\\]. I would be happy to provide the appropriate employment authorization documentation during the onboarding process.\n\n避免：\n\n• 隐瞒重要事实\n• 承诺自己并不了解的签证结果\n• 使用“应该没问题”作为回答\n• 把OPT、CPT和工作签证混为一谈\n• 让招聘负责人替你判断个人身份问题\n\n本文不构成移民法律意见。复杂情况应咨询DSO或合格律师。"
+                          "a": "回答应简短、准确，并聚焦工作资格。\n\n 例如：\n\n I am currently an F-1 student and expect to be eligible for post-completion OPT beginning in July. I am confirming the exact timeline with my university’s international student office.\n\n 或者：\n\n I am currently authorized to work through OPT until \\[date\\]. I would be happy to provide the appropriate employment authorization documentation during the onboarding process.\n\n 避免：\n\n • 隐瞒重要事实 • 承诺自己并不了解的签证结果 • 使用“应该没问题”作为回答 • 把OPT、CPT和工作签证混为一谈 • 让招聘负责人替你判断个人身份问题\n\n 本文不构成移民法律意见。复杂情况应咨询DSO或合格律师。"
                     },
                     {
                           "q": "学校口头说“想雇用我”，是否代表已经正式入职？",
-                          "a": "不一定。\n\n学校表达招聘意向或给出口头Offer后，通常还需要完成正式提名和系统入职步骤。NYCPS的求职指南说明，候选人接受学校Offer后，还会收到与Applicant Gateway及后续入职事项有关的信息。\n\n收到口头Offer时，可以确认：\n\n• 具体职位名称\n• 教授科目和年级\n• 全职或兼职\n• 预计开始日期\n• 学校下一步需要什么材料\n• 谁负责提交Nomination\n• 何时收到正式系统通知\n• 是否存在尚未完成的批准或审核\n\n在没有确认正式流程前，不要假设所有入职步骤已经完成。"
+                          "a": "不一定。\n\n 学校表达招聘意向或给出口头Offer后，通常还需要完成正式提名和系统入职步骤。NYCPS的求职指南说明，候选人接受学校Offer后，还会收到与Applicant Gateway及后续入职事项有关的信息。\n\n 收到口头Offer时，可以确认：\n\n • 具体职位名称 • 教授科目和年级 • 全职或兼职 • 预计开始日期 • 学校下一步需要什么材料 • 谁负责提交Nomination • 何时收到正式系统通知 • 是否存在尚未完成的批准或审核\n\n 在没有确认正式流程前，不要假设所有入职步骤已经完成。"
                     },
                     {
                           "q": "收到Offer后应该问哪些问题？",
-                          "a": "Offer阶段可以重点确认以下内容。\n\n**教学职责**\n\n• 教授哪些课程和年级？\n• 每天有多少节课？\n• 是否需要教授多个不同课程？\n• 是否承担Advisory、Lunch Duty或其他职责？\n• 是否需要建立新的课程？\n\n**教学支持**\n\n• 是否有Mentor？\n• 新教师如何参加Professional Development？\n• 是否提供课程材料？\n• 是否有共同备课时间？\n• 学科组如何合作？\n\n**工作安排**\n\n• 预计开始日期\n• 每日工作时间\n• 入职培训\n• 课程表何时确定\n• 教室和设备安排\n• 需要完成的背景审查和文件\n\n**发展机会**\n\n• 是否支持参加专业会议？\n• 是否有课程开发机会？\n• 是否可以带学生社团？\n• 是否有未来教师领导力路径？\n\n不需要在第一次Offer沟通中一次问完所有问题。优先确认会影响你是否接受职位的重要信息。"
+                          "a": "Offer阶段可以重点确认以下内容。\n\n **教学职责**\n\n • 教授哪些课程和年级？ • 每天有多少节课？ • 是否需要教授多个不同课程？ • 是否承担Advisory、Lunch Duty或其他职责？ • 是否需要建立新的课程？\n\n **教学支持**\n\n • 是否有Mentor？ • 新教师如何参加Professional Development？ • 是否提供课程材料？ • 是否有共同备课时间？ • 学科组如何合作？\n\n **工作安排**\n\n • 预计开始日期 • 每日工作时间 • 入职培训 • 课程表何时确定 • 教室和设备安排 • 需要完成的背景审查和文件\n\n **发展机会**\n\n • 是否支持参加专业会议？ • 是否有课程开发机会？ • 是否可以带学生社团？ • 是否有未来教师领导力路径？\n\n 不需要在第一次Offer沟通中一次问完所有问题。优先确认会影响你是否接受职位的重要信息。"
                     },
                     {
                           "q": "什么时候可以停止申请其他学校？",
-                          "a": "建议至少等到以下事项比较明确后，再停止全部求职活动：\n\n• 已经接受明确的职位\n• 学校确认了职位和职责\n• 正式提名或入职步骤已经开始\n• 工作授权与开始日期没有明显冲突\n• 你已经收到并完成必要系统指示\n\n在此之前，可以减少新申请，但不建议只根据一句口头承诺立即取消所有其他机会。\n\n同时，应保持职业道德：\n\n• 接受Offer前认真考虑\n• 接受后不要继续把其他学校作为随意比较的筹码\n• 情况变化时尽快通知相关学校\n• 不要同时向多所学校承诺已经接受职位"
+                          "a": "建议至少等到以下事项比较明确后，再停止全部求职活动：\n\n • 已经接受明确的职位 • 学校确认了职位和职责 • 正式提名或入职步骤已经开始 • 工作授权与开始日期没有明显冲突 • 你已经收到并完成必要系统指示\n\n 在此之前，可以减少新申请，但不建议只根据一句口头承诺立即取消所有其他机会。\n\n 同时，应保持职业道德：\n\n • 接受Offer前认真考虑 • 接受后不要继续把其他学校作为随意比较的筹码 • 情况变化时尽快通知相关学校 • 不要同时向多所学校承诺已经接受职位"
                     },
                     {
                           "q": "面试后多久没有回复，可以Follow-up？",
-                          "a": "一般可以在面试后的一至两个工作日内先发送感谢邮件。\n\n若学校提供了明确时间线，应按照该时间线等待。如果超过了学校给出的时间，可以发送一次简短Follow-up。\n\nTeachNYC建议候选人在面试后发送感谢邮件；如果Demo Lesson单独进行，也应在试讲后的一至两个工作日内发送个性化感谢信息。\n\nFollow-up可以写：\n\nDear Principal Garcia,\n\nThank you again for the opportunity to interview for the ENL teacher position. I appreciated learning more about your school’s collaborative planning structure and support for multilingual learners.\n\nI remain very interested in the role and wanted to ask whether there are any updates regarding the next stage of the hiring process."
+                          "a": "一般可以在面试后的一至两个工作日内先发送感谢邮件。\n\n 若学校提供了明确时间线，应按照该时间线等待。如果超过了学校给出的时间，可以发送一次简短Follow-up。\n\n TeachNYC建议候选人在面试后发送感谢邮件；如果Demo Lesson单独进行，也应在试讲后的一至两个工作日内发送个性化感谢信息。\n\n Follow-up可以写：\n\n Dear Principal Garcia,\n\n Thank you again for the opportunity to interview for the ENL teacher position. I appreciated learning more about your school’s collaborative planning structure and support for multilingual learners.\n\n I remain very interested in the role and wanted to ask whether there are any updates regarding the next stage of the hiring process."
                     },
                     {
                           "q": "被拒绝后，可以询问反馈吗？",
-                          "a": "可以礼貌询问，但学校没有义务提供详细反馈。\n\n例如：\n\nThank you for letting me know. Although I am disappointed, I appreciate the opportunity to learn more about your school. If you are able to share any brief feedback that could help me improve for future interviews, I would be grateful.\n\n即使对方没有回复，也可以自行复盘：\n\n• 哪些问题回答得不够具体？\n• 是否真正研究了学校？\n• 是否清楚解释了教师资格状态？\n• 案例是否体现了学生学习？\n• Demo是否有检查理解？\n• 是否提出了有价值的问题？\n• Resume是否与职位匹配？\n\n不要把每次拒绝都解释为自己“不适合当老师”。\n\n招聘结果也可能受到课程安排、职位变化、内部候选人和学校特殊需求影响。"
+                          "a": "可以礼貌询问，但学校没有义务提供详细反馈。\n\n 例如：\n\n Thank you for letting me know. Although I am disappointed, I appreciate the opportunity to learn more about your school. If you are able to share any brief feedback that could help me improve for future interviews, I would be grateful.\n\n 即使对方没有回复，也可以自行复盘：\n\n • 哪些问题回答得不够具体？ • 是否真正研究了学校？ • 是否清楚解释了教师资格状态？ • 案例是否体现了学生学习？ • Demo是否有检查理解？ • 是否提出了有价值的问题？ • Resume是否与职位匹配？\n\n 不要把每次拒绝都解释为自己“不适合当老师”。\n\n 招聘结果也可能受到课程安排、职位变化、内部候选人和学校特殊需求影响。"
                     },
                     {
                           "q": "如果连续申请都没有回复，应该调整什么？",
-                          "a": "可以依次检查以下方面。\n\n**第一层：职位匹配**\n\n• 是否申请了符合自己证书领域的职位？\n• 年级和学科是否对应？\n• 是否清楚标注证书状态？\n• 是否存在地理范围过窄的问题？\n\n**第二层：Resume**\n\n• 招聘负责人能否在十秒内看出你可以教什么？\n• 是否把Student Teaching放在明显位置？\n• Bullet是否包含具体行动和结果？\n• 是否有过多不相关经历？\n• 是否存在格式或语言错误？\n\n**第三层：联系方式**\n\n• 邮件是否过长？\n• 是否使用相同模板联系所有学校？\n• 是否说明已经完成正式申请？\n• 邮件主题是否清楚？\n• Resume文件名是否专业？\n\n**第四层：申请策略**\n\n• 是否只申请少数“理想学校”？\n• 是否持续扩大学校名单？\n• 是否参加招聘活动？\n• 是否使用Networking？\n• 是否记录和安排Follow-up？\n\n**第五层：材料证据**\n\n• 是否有教学案例？\n• 是否准备Portfolio？\n• 是否有推荐人？\n• 是否能够清楚解释非教育经历的可迁移技能？\n\n一次只调整一到两个方面，之后观察回复率是否变化。"
+                          "a": "可以依次检查以下方面。\n\n **第一层：职位匹配**\n\n • 是否申请了符合自己证书领域的职位？ • 年级和学科是否对应？ • 是否清楚标注证书状态？ • 是否存在地理范围过窄的问题？\n\n **第二层：Resume**\n\n • 招聘负责人能否在十秒内看出你可以教什么？ • 是否把Student Teaching放在明显位置？ • Bullet是否包含具体行动和结果？ • 是否有过多不相关经历？ • 是否存在格式或语言错误？\n\n **第三层：联系方式**\n\n • 邮件是否过长？ • 是否使用相同模板联系所有学校？ • 是否说明已经完成正式申请？ • 邮件主题是否清楚？ • Resume文件名是否专业？\n\n **第四层：申请策略**\n\n • 是否只申请少数“理想学校”？ • 是否持续扩大学校名单？ • 是否参加招聘活动？ • 是否使用Networking？ • 是否记录和安排Follow-up？\n\n **第五层：材料证据**\n\n • 是否有教学案例？ • 是否准备Portfolio？ • 是否有推荐人？ • 是否能够清楚解释非教育经历的可迁移技能？\n\n 一次只调整一到两个方面，之后观察回复率是否变化。"
                     }
               ],
               "closing": [
                     {
                           "heading": "A. 申请系统",
-                          "body": "• 确认纽约州教师资格或on-track状态\n• 建立或更新NYSED TEACH账户\n• 完成NYCPS Certified Teacher Application\n• 上传最新Resume\n• 填写专业推荐人\n• 上传教师资格证明\n• 检查申请状态\n• 进入New Teacher Finder"
+                          "body": "• 确认纽约州教师资格或on-track状态 • 建立或更新NYSED TEACH账户 • 完成NYCPS Certified Teacher Application • 上传最新Resume • 填写专业推荐人 • 上传教师资格证明 • 检查申请状态 • 进入New Teacher Finder"
                     },
                     {
                           "heading": "B. 学校搜索",
-                          "body": "• 明确目标年级和学科\n• 确定可接受的Borough和通勤时间\n• 建立学校名单\n• 调查学校使命、学生和课程\n• 记录联系人\n• 设置申请优先级\n• 记录申请和Follow-up日期"
+                          "body": "• 明确目标年级和学科 • 确定可接受的Borough和通勤时间 • 建立学校名单 • 调查学校使命、学生和课程 • 记录联系人 • 设置申请优先级 • 记录申请和Follow-up日期"
                     },
                     {
                           "heading": "C. 求职材料",
-                          "body": "• 一页或两页Resume\n• 基础Cover Letter模板\n• 学校定制段落\n• 一分钟自我介绍\n• Teaching Portfolio\n• Sample Lesson Plan\n• 推荐人名单\n• 教师资格状态说明\n• 工作授权状态说明"
+                          "body": "• 一页或两页Resume • 基础Cover Letter模板 • 学校定制段落 • 一分钟自我介绍 • Teaching Portfolio • Sample Lesson Plan • 推荐人名单 • 教师资格状态说明 • 工作授权状态说明"
                     },
                     {
                           "heading": "D. 面试",
-                          "body": "• 调查学校\n• 准备六至八个教学案例\n• 练习STAR-R回答\n• 准备Classroom Management案例\n• 准备Differentiation案例\n• 准备数据与Assessment案例\n• 准备团队合作案例\n• 准备国际经历转化案例\n• 准备一至三个候选人问题"
+                          "body": "• 调查学校 • 准备六至八个教学案例 • 练习STAR-R回答 • 准备Classroom Management案例 • 准备Differentiation案例 • 准备数据与Assessment案例 • 准备团队合作案例 • 准备国际经历转化案例 • 准备一至三个候选人问题"
                     },
                     {
                           "heading": "E. Demo Lesson",
-                          "body": "• 确认年级、课程和学生水平\n• 确认时长\n• 确认设备和材料\n• 写出可观察的学习目标\n• 设计Check for Understanding\n• 加入学生输出\n• 准备Differentiation\n• 设计Exit Ticket\n• 准备无科技备用方案\n• 完整计时排练"
+                          "body": "• 确认年级、课程和学生水平 • 确认时长 • 确认设备和材料 • 写出可观察的学习目标 • 设计Check for Understanding • 加入学生输出 • 准备Differentiation • 设计Exit Ticket • 准备无科技备用方案 • 完整计时排练"
                     },
                     {
                           "heading": "F. 面试后",
-                          "body": "• 记录问题和反馈\n• 更新求职追踪表\n• 一至两个工作日内发送感谢邮件\n• 按学校时间线跟进\n• 继续申请其他职位\n• 修改需要改进的面试案例"
+                          "body": "• 记录问题和反馈 • 更新求职追踪表 • 一至两个工作日内发送感谢邮件 • 按学校时间线跟进 • 继续申请其他职位 • 修改需要改进的面试案例"
                     },
                     {
                           "heading": "G. Offer与入职",
-                          "body": "• 确认职位、科目和年级\n• 确认开始日期\n• 确认学校联系人\n• 确认Nomination流程\n• 检查Applicant Gateway信息\n• 完成背景审查和指纹要求\n• 核对教师资格状态\n• 核对工作授权\n• 保存所有正式文件"
+                          "body": "• 确认职位、科目和年级 • 确认开始日期 • 确认学校联系人 • 确认Nomination流程 • 检查Applicant Gateway信息 • 完成背景审查和指纹要求 • 核对教师资格状态 • 核对工作授权 • 保存所有正式文件"
                     },
                     {
                           "heading": "最后的建议",
-                          "body": "教师求职中，最容易让人焦虑的并不是某一道面试题，而是不知道“现在到底应该做什么”。\n\n可以把整个过程简化为四个循环：\n\n搜索机会 → 提交申请 → 复盘反馈 → 调整策略\n\n每周检查以下五个数字：\n\n1. 新调研了多少所学校？\n2. 提交了多少份申请？\n3. 完成了多少次Follow-up？\n4. 获得了多少次面试或交流？\n5. 根据反馈修改了什么？\n\n无法控制学校何时回复，但可以控制：\n\n• 材料是否清楚\n• 申请范围是否合理\n• Follow-up是否专业\n• 面试案例是否具体\n• Demo Lesson是否经过练习\n• 是否持续建立专业关系\n\n教师求职不是证明自己没有缺点，而是让学校清楚地看到：\n\n你能够教授什么？你如何支持学生？你怎样与团队合作？你是否愿意接受反馈？你为什么适合这所学校？\n\n当这些问题能够通过真实经历和具体证据得到回答时，你的申请就会更有说服力。"
+                          "body": "教师求职中，最容易让人焦虑的并不是某一道面试题，而是不知道“现在到底应该做什么”。\n\n 可以把整个过程简化为四个循环：\n\n 搜索机会 → 提交申请 → 复盘反馈 → 调整策略\n\n 每周检查以下五个数字：\n\n 1. 新调研了多少所学校？ 2. 提交了多少份申请？ 3. 完成了多少次Follow-up？ 4. 获得了多少次面试或交流？ 5. 根据反馈修改了什么？\n\n 无法控制学校何时回复，但可以控制：\n\n • 材料是否清楚 • 申请范围是否合理 • Follow-up是否专业 • 面试案例是否具体 • Demo Lesson是否经过练习 • 是否持续建立专业关系\n\n 教师求职不是证明自己没有缺点，而是让学校清楚地看到：\n\n 你能够教授什么？你如何支持学生？你怎样与团队合作？你是否愿意接受反馈？你为什么适合这所学校？\n\n 当这些问题能够通过真实经历和具体证据得到回答时，你的申请就会更有说服力。"
                     },
                     {
                           "heading": "资料来源与免责声明",
-                          "body": "本文根据EduVenture“纽约教师求职分享会 Session 1”中的常见问题、招聘流程、学校联系、推荐人和面试建议整理。\n\nNYCPS申请和招聘信息参考NYC Public Schools及TeachNYC截至2026年7月的公开资源。招聘系统、时间和要求可能在不同学年调整，请在申请时核对当期官方说明。\n\n文中关于F-1、CPT和OPT的内容仅用于一般信息分享，不构成法律意见。国际学生应根据个人情况咨询学校DSO或合格的移民法律专业人士。"
+                          "body": "本文根据EduVenture“纽约教师求职分享会 Session 1”中的常见问题、招聘流程、学校联系、推荐人和面试建议整理。\n\n NYCPS申请和招聘信息参考NYC Public Schools及TeachNYC截至2026年7月的公开资源。招聘系统、时间和要求可能在不同学年调整，请在申请时核对当期官方说明。\n\n 文中关于F-1、CPT和OPT的内容仅用于一般信息分享，不构成法律意见。国际学生应根据个人情况咨询学校DSO或合格的移民法律专业人士。"
                     }
               ]
         }
