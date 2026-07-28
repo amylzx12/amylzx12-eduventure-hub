@@ -1972,55 +1972,59 @@ window.TOOLKIT = {
               "title": "教师求职中的 Networking：如何建立真正有效的专业人脉",
               "summary": "如何建立并维护真正有效的专业人脉，而不只是请人内推。",
               "leadCallout": {
-                    "title": "先看结论",
+                    "title": "核心定义",
                     "lines": [
-                          "教师求职中的 Networking 不是请人内推，而是通过持续、专业的交流，让别人了解你想做什么、擅长什么、是否值得信任——合适的机会出现时才更可能被想到。"
+                          "Networking = 交换真实信息 + 建立专业信任 +\n长期维护关系。职位推荐只是其中一种可能结果。"
                     ]
               },
               "nav": [
                     {
-                          "label": "一、教师求职为什么需要Networking？",
+                          "label": "一、Networking 为什么能帮助教师求职？",
                           "anchor": "s1"
                     },
                     {
-                          "label": "二、Networking不等于什么？",
+                          "label": "二、先避开四个常见误区",
                           "anchor": "s2"
                     },
                     {
-                          "label": "三、先建立自己的“人脉地图”",
+                          "label": "三、先建立自己的“三圈人脉地图”",
                           "anchor": "s3"
                     },
                     {
-                          "label": "四、教师求职中最重要的Networking渠道",
+                          "label": "四、教师求职中最实用的 Networking 渠道",
                           "anchor": "s4"
                     },
                     {
-                          "label": "五、如何进行一次有效的Informational Interview？",
+                          "label": "五、如何进行一次有效的 Informational Interview？",
                           "anchor": "s5"
                     },
                     {
-                          "label": "六、如何让别人愿意推荐你？",
+                          "label": "六、什么情况下别人更愿意推荐你？",
                           "anchor": "s6"
                     },
                     {
-                          "label": "七、请求介绍时应该怎么说？",
+                          "label": "七、请求介绍时怎么说？",
                           "anchor": "s7"
                     },
                     {
-                          "label": "八、如何维护专业关系？",
+                          "label": "八、如何自然维护专业关系？",
                           "anchor": "s8"
                     },
                     {
-                          "label": "九、国际学生Networking时需要注意什么？",
+                          "label": "九、国际学生 Networking 时的注意事项",
                           "anchor": "s9"
                     },
                     {
-                          "label": "十、建立Networking自我介绍",
+                          "label": "十、准备三个长度的 Networking 自我介绍",
                           "anchor": "s10"
                     },
                     {
-                          "label": "十一、30天Networking行动计划",
+                          "label": "十一、30 天 Networking 行动计划",
                           "anchor": "s11"
+                    },
+                    {
+                          "label": "Networking 沟通检查清单",
+                          "anchor": "s12"
                     }
               ],
               "sections": [
@@ -2029,1163 +2033,544 @@ window.TOOLKIT = {
                           "blocks": [
                                 {
                                       "type": "text",
-                                      "text": "教师求职过程中，很多人都会听到类似的建议："
+                                      "text": "“多 Networking”并不意味着突然联系陌生人，请对方帮你找工作或直接内推。真正有效的 Networking，是通过持续、专业和互相尊重的交流，让别人逐渐了解你的目标、能力、兴趣和可靠程度。"
                                 },
                                 {
                                       "type": "text",
-                                      "text": "你要多Networking。你要认识学校里的人。有人推荐会更容易找到工作。"
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "这些话虽然有一定道理，却容易让刚开始求职的人产生误解。"
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "Networking并不是突然联系一个不熟悉的人，请对方“帮我找工作”或“给我内推”。真正有效的Networking，是通过持续、专业和互相尊重的交流，让别人逐渐了解："
-                                },
-                                {
-                                      "type": "list",
-                                      "ordered": false,
-                                      "items": [
-                                            "你希望从事什么工作",
-                                            "你具备哪些能力",
-                                            "你对哪些教育问题感兴趣",
-                                            "你是否可靠、认真并愿意学习",
-                                            "当合适机会出现时，为什么会想到你"
-                                      ]
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "EduVenture“纽约教师求职分享会”中提到，教师求职的人脉来源可以包括LinkedIn、微信群、大学教授、实习导师、志愿项目、学生家长、校长联系，以及求职或面试过程中认识的教师。"
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "这些渠道的共同点是：机会通常来自已经建立了一定信任的专业关系。"
-                                }
-                          ]
-                    },
-                    {
-                          "heading": "一、教师求职为什么需要Networking？",
-                          "blocks": [
-                                {
-                                      "type": "text",
-                                      "text": "学校招聘信息并不总是同时出现在所有平台上。"
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "一位教师、导师或校友可能提前知道："
-                                },
-                                {
-                                      "type": "list",
-                                      "ordered": false,
-                                      "items": [
-                                            "某所学校即将出现职位空缺",
-                                            "某位教师准备离职或转岗",
-                                            "学校正在寻找短期代课教师",
-                                            "某个课后项目正在扩招",
-                                            "一个研究团队需要助理",
-                                            "某位校长正在参加招聘会",
-                                            "一所学校正在搭建新的中文或ENL项目"
-                                      ]
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "Networking可以帮助求职者更早接触到这些信息。"
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "同时，它也能帮助你了解招聘信息之外的实际情况，例如："
-                                },
-                                {
-                                      "type": "list",
-                                      "ordered": false,
-                                      "items": [
-                                            "学校真正重视什么",
-                                            "面试通常由谁负责",
-                                            "该职位的工作范围",
-                                            "学校是否支持新教师",
-                                            "教师团队如何合作",
-                                            "某类学校的招聘时间",
-                                            "你的Resume是否符合行业习惯"
-                                      ]
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "因此，Networking的价值不只是“获得一个职位”，还包括帮助你理解教育行业并减少求职中的信息差。"
+                                      "text": "教师求职中的机会，常来自大学教授、实习导师、校友、同事、招聘会、教师社群、LinkedIn，以及求职过程中认识的教育工作者。共同点是：关系已经积累了一定的信任。"
                                 }
                           ],
-                          "anchor": "s1"
+                          "level": 1
                     },
                     {
-                          "heading": "二、Networking不等于什么？",
+                          "heading": "一、Networking 为什么能帮助教师求职？",
                           "blocks": [
                                 {
                                       "type": "text",
-                                      "text": "建立人脉前，先避免几个常见误区。"
-                                }
-                          ],
-                          "anchor": "s2"
-                    },
-                    {
-                          "heading": "误区一：Networking就是请别人内推",
-                          "blocks": [
-                                {
-                                      "type": "text",
-                                      "text": "如果双方几乎不认识，直接提出以下请求通常会让对方感到压力："
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "Can you refer me to your school? Can you help me get a teaching job? Can you introduce me to your principal?"
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "更适合的第一步是询问经验和信息："
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "I am beginning my search for Mandarin teaching positions and would appreciate hearing about your experience working in NYC schools."
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "先建立交流，再根据关系发展判断是否适合提出更具体的请求。"
-                                }
-                          ]
-                    },
-                    {
-                          "heading": "误区二：只有“厉害的人”才值得认识",
-                          "blocks": [
-                                {
-                                      "type": "text",
-                                      "text": "Networking不只发生在校长、教授或招聘负责人之间。"
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "以下关系同样重要："
-                                },
-                                {
-                                      "type": "list",
-                                      "ordered": false,
-                                      "items": [
-                                            "同专业同学",
-                                            "比你早毕业一两年的校友",
-                                            "Student Teaching学校的教师",
-                                            "其他学科的新教师",
-                                            "教育项目工作人员",
-                                            "招聘会中认识的申请者",
-                                            "社区学校负责人",
-                                            "教师协会成员"
-                                      ]
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "与你处于相近职业阶段的人，可能更了解你当前遇到的具体问题。"
-                                }
-                          ]
-                    },
-                    {
-                          "heading": "误区三：只有找工作时才需要联系别人",
-                          "blocks": [
-                                {
-                                      "type": "text",
-                                      "text": "如果每次联系都发生在你需要帮助的时候，关系很难长期发展。"
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "有效的专业关系需要持续维护，例如："
-                                },
-                                {
-                                      "type": "list",
-                                      "ordered": false,
-                                      "items": [
-                                            "分享对方可能感兴趣的资源",
-                                            "祝贺对方的新项目或职业变化",
-                                            "在活动后表达感谢",
-                                            "简短更新自己的进展",
-                                            "对曾经获得的建议进行反馈"
-                                      ]
-                                }
-                          ]
-                    },
-                    {
-                          "heading": "误区四：发出消息后没有回复，就是被拒绝",
-                          "blocks": [
-                                {
-                                      "type": "text",
-                                      "text": "教师、校长和教授通常工作繁忙。没有回复可能只是："
-                                },
-                                {
-                                      "type": "list",
-                                      "ordered": false,
-                                      "items": [
-                                            "没有看到消息",
-                                            "正处于考试或招聘高峰期",
-                                            "没有合适的信息可以提供",
-                                            "不熟悉你的目标领域",
-                                            "暂时没有时间交流"
-                                      ]
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "可以礼貌跟进一次。若仍无回复，继续联系其他人即可。"
-                                }
-                          ]
-                    },
-                    {
-                          "heading": "三、先建立自己的“人脉地图”",
-                          "blocks": [
-                                {
-                                      "type": "text",
-                                      "text": "在主动联系别人之前，可以先梳理自己已经拥有的关系。"
-                                }
-                          ],
-                          "anchor": "s3"
-                    },
-                    {
-                          "heading": "第一圈：直接认识的人",
-                          "blocks": [
-                                {
-                                      "type": "text",
-                                      "text": "包括："
-                                },
-                                {
-                                      "type": "list",
-                                      "ordered": false,
-                                      "items": [
-                                            "教授",
-                                            "项目导师",
-                                            "Student Teaching指导教师",
-                                            "University Supervisor",
-                                            "实习负责人",
-                                            "现任或前任主管",
-                                            "同学",
-                                            "校友",
-                                            "教育项目同事"
-                                      ]
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "这些人已经了解你的部分背景，通常是最适合开始交流的对象。"
-                                }
-                          ]
-                    },
-                    {
-                          "heading": "第二圈：通过共同关系能够认识的人",
-                          "blocks": [
-                                {
-                                      "type": "text",
-                                      "text": "例如："
-                                },
-                                {
-                                      "type": "list",
-                                      "ordered": false,
-                                      "items": [
-                                            "教授认识的学校教师",
-                                            "校友所在学校的学科负责人",
-                                            "实习导师的同事",
-                                            "同学认识的招聘负责人",
-                                            "社群成员介绍的教育工作者"
-                                      ]
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "请共同联系人介绍时，应让对方容易完成这件事。"
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "不要只说："
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "能不能帮我介绍一个校长？"
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "可以说："
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "我正在了解纽约高中中文教师的招聘流程。如果您认为合适，是否可以介绍一位愿意分享10至15分钟经验的在职中文教师？我主要想了解新教师进入学校后的课程准备。"
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "目标越具体，对方越容易判断是否可以帮助。"
-                                }
-                          ]
-                    },
-                    {
-                          "heading": "第三圈：尚未认识但具有共同背景的人",
-                          "blocks": [
-                                {
-                                      "type": "text",
-                                      "text": "可以通过以下方式发现："
-                                },
-                                {
-                                      "type": "list",
-                                      "ordered": false,
-                                      "items": [
-                                            "LinkedIn",
-                                            "大学校友平台",
-                                            "专业协会",
-                                            "教师会议",
-                                            "微信群",
-                                            "学科社群",
-                                            "小红书、B站或播客",
-                                            "学校官网",
-                                            "教育机构活动"
-                                      ]
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "联系陌生人时，需要说明双方的连接点，例如："
-                                },
-                                {
-                                      "type": "list",
-                                      "ordered": false,
-                                      "items": [
-                                            "同一所大学",
-                                            "同一专业",
-                                            "相似的职业转型",
-                                            "相同的教学科目",
-                                            "参加过同一个会议",
-                                            "对同一研究主题感兴趣"
-                                      ]
-                                }
-                          ]
-                    },
-                    {
-                          "heading": "四、教师求职中最重要的Networking渠道",
-                          "blocks": [],
-                          "anchor": "s4"
-                    },
-                    {
-                          "heading": "1. 教授和教师教育项目",
-                          "blocks": [
-                                {
-                                      "type": "text",
-                                      "text": "大学教授通常能够提供："
-                                },
-                                {
-                                      "type": "list",
-                                      "ordered": false,
-                                      "items": [
-                                            "学校和项目介绍",
-                                            "教育研究机会",
-                                            "校友联系",
-                                            "Resume反馈",
-                                            "推荐信",
-                                            "专业会议信息",
-                                            "招聘时间建议"
-                                      ]
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "联系教授时，不要把所有问题一次性发过去。"
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "可以围绕一个具体目标展开："
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "I am beginning to apply for high school Mandarin positions. Based on my student-teaching experience, are there one or two areas you would recommend that I emphasize in my resume?"
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "教授更容易回应范围清楚的问题。"
-                                }
-                          ]
-                    },
-                    {
-                          "heading": "2. Student Teaching和实习关系",
-                          "blocks": [
-                                {
-                                      "type": "text",
-                                      "text": "Student Teaching学校可能是最有价值的Networking环境之一。"
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "即使学校目前没有职位，你也可以通过这段经历建立："
-                                },
-                                {
-                                      "type": "list",
-                                      "ordered": false,
-                                      "items": [
-                                            "Cooperating Teacher关系",
-                                            "学科组联系",
-                                            "Assistant Principal联系",
-                                            "教学导师关系",
-                                            "推荐人",
-                                            "其他学校的信息来源"
-                                      ]
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "实习期间可以主动："
-                                },
-                                {
-                                      "type": "list",
-                                      "ordered": false,
-                                      "items": [
-                                            "准时完成任务",
-                                            "接受反馈",
-                                            "参加团队会议",
-                                            "观察其他教师",
-                                            "协助学校活动",
-                                            "与工作人员保持专业沟通",
-                                            "在结束时表达感谢"
-                                      ]
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "学校工作人员是否愿意推荐你，通常取决于他们是否真正观察过你的工作。"
-                                }
-                          ]
-                    },
-                    {
-                          "heading": "3. 校友网络",
-                          "blocks": [
-                                {
-                                      "type": "text",
-                                      "text": "刚毕业不久的校友往往能够提供非常实用的信息："
-                                },
-                                {
-                                      "type": "list",
-                                      "ordered": false,
-                                      "items": [
-                                            "最近使用过哪些求职平台",
-                                            "面试遇到了什么问题",
-                                            "哪些材料最重要",
-                                            "学校招聘时间如何变化",
-                                            "新教师第一年有哪些挑战",
-                                            "如何处理证书和入职流程"
-                                      ]
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "校友联系邮件可以写得简短："
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "Hello \\[Name\\],"
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "I am also a graduate student in the NYU TESOL and World Language Education program. I noticed that you are currently teaching Mandarin in an NYC high school. I am beginning my job search and would be grateful to hear about your transition from graduate school to your first teaching position."
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "If you are available, would you be open to a brief 15-minute conversation in the next few weeks?"
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "注意："
-                                },
-                                {
-                                      "type": "list",
-                                      "ordered": false,
-                                      "items": [
-                                            "说明共同背景",
-                                            "说明为什么联系对方",
-                                            "控制交流时间",
-                                            "不要第一条消息就要求推荐"
-                                      ]
-                                }
-                          ]
-                    },
-                    {
-                          "heading": "4. LinkedIn",
-                          "blocks": [
-                                {
-                                      "type": "text",
-                                      "text": "LinkedIn适合："
-                                },
-                                {
-                                      "type": "list",
-                                      "ordered": false,
-                                      "items": [
-                                            "查找校友",
-                                            "了解教师职业路径",
-                                            "关注学校和机构",
-                                            "联系教育工作者",
-                                            "展示专业项目",
-                                            "发现招聘信息"
-                                      ]
-                                }
-                          ]
-                    },
-                    {
-                          "heading": "LinkedIn个人资料至少应包括：",
-                          "blocks": [
-                                {
-                                      "type": "list",
-                                      "ordered": false,
-                                      "items": [
-                                            "清晰的Headline",
-                                            "教师资格方向",
-                                            "教学科目和年级",
-                                            "教育经历",
-                                            "Student Teaching或相关经验",
-                                            "专业技能",
-                                            "教学项目或作品",
-                                            "合适的个人照片"
-                                      ]
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "Headline示例："
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "Mandarin Teacher Candidate \\| New York State Certification in Chinese 7–12 \\| World Language Education"
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "或："
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "TESOL Teacher Candidate \\| Multilingual Learner Support \\| Secondary Education"
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "避免只写："
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "Graduate Student at NYU"
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "它没有说明你的职业目标。"
-                                }
-                          ]
-                    },
-                    {
-                          "heading": "联系陌生校友的消息",
-                          "blocks": [
-                                {
-                                      "type": "text",
-                                      "text": "Hi \\[Name\\], I am also a graduate of \\[Program\\] and am preparing to apply for Mandarin teaching positions in New York. I noticed your experience at \\[School/Organization\\] and would appreciate learning about your transition into the classroom. Would you be open to a brief conversation?"
-                                }
-                          ]
-                    },
-                    {
-                          "heading": "5. 教师社群和微信群",
-                          "blocks": [
-                                {
-                                      "type": "text",
-                                      "text": "微信群、专业社群和线上教师社区可以提供："
-                                },
-                                {
-                                      "type": "list",
-                                      "ordered": false,
-                                      "items": [
-                                            "招聘信息",
-                                            "教师证书经验",
-                                            "面试分享",
-                                            "教学资源",
-                                            "学校信息",
-                                            "活动和会议通知"
-                                      ]
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "在社群中建立可信度，可以从小事开始："
-                                },
-                                {
-                                      "type": "list",
-                                      "ordered": false,
-                                      "items": [
-                                            "回答自己熟悉的问题",
-                                            "分享官方信息",
-                                            "推荐实用资源",
-                                            "参加线上活动",
-                                            "表达感谢",
-                                            "避免传播未经核实的信息"
-                                      ]
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "不要只在需要工作时突然出现，并反复发送简历。"
-                                }
-                          ]
-                    },
-                    {
-                          "heading": "6. 招聘会和专业会议",
-                          "blocks": [
-                                {
-                                      "type": "text",
-                                      "text": "招聘会可以帮助你直接接触："
-                                },
-                                {
-                                      "type": "list",
-                                      "ordered": false,
-                                      "items": [
-                                            "校长",
-                                            "Assistant Principal",
-                                            "HR工作人员",
-                                            "学科负责人",
-                                            "其他申请者"
-                                      ]
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "参加前应准备："
-                                },
-                                {
-                                      "type": "list",
-                                      "ordered": false,
-                                      "items": [
-                                            "一分钟自我介绍",
-                                            "Resume",
-                                            "教师资格信息",
-                                            "目标职位",
-                                            "两到三个学校问题",
-                                            "Follow-up方法"
-                                      ]
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "活动后可以发送："
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "It was a pleasure speaking with you at the teacher recruitment fair on Saturday. I appreciated learning about your school’s multilingual learner program. I remain very interested in the Mandarin teaching position and have attached my resume for reference."
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "专业会议的Networking目标不一定是立即找工作。"
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "你也可以通过会议："
-                                },
-                                {
-                                      "type": "list",
-                                      "ordered": false,
-                                      "items": [
-                                            "认识同学科教师",
-                                            "了解教学趋势",
-                                            "加入专业协会",
-                                            "参加专题讨论",
-                                            "分享自己的教学项目",
-                                            "建立未来合作关系"
-                                      ]
-                                }
-                          ]
-                    },
-                    {
-                          "heading": "7. 社交媒体和内容平台",
-                          "blocks": [
-                                {
-                                      "type": "text",
-                                      "text": "分享会课件中还提到了B站、小红书等平台。"
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "这些平台可以帮助教师："
-                                },
-                                {
-                                      "type": "list",
-                                      "ordered": false,
-                                      "items": [
-                                            "分享求职经验",
-                                            "发布教学反思",
-                                            "展示课堂材料",
-                                            "认识同行",
-                                            "了解国际教师职业路径",
-                                            "建立个人专业形象"
-                                      ]
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "发布内容时需要注意："
-                                },
-                                {
-                                      "type": "list",
-                                      "ordered": false,
-                                      "items": [
-                                            "不公开学生身份信息",
-                                            "不发布学校内部敏感信息",
-                                            "不批评可识别的学生、家长或同事",
-                                            "区分个人观点和官方规定",
-                                            "核实教师资格、签证和法律信息"
-                                      ]
-                                }
-                          ]
-                    },
-                    {
-                          "heading": "五、如何进行一次有效的Informational Interview？",
-                          "blocks": [
-                                {
-                                      "type": "text",
-                                      "text": "Informational Interview是一种以了解职业经验为目的的简短交流。"
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "它不是正式面试，也不应以直接求职为唯一目标。"
-                                }
-                          ],
-                          "anchor": "s5"
-                    },
-                    {
-                          "heading": "可以询问的问题",
-                          "blocks": [
-                                {
-                                      "type": "list",
-                                      "ordered": false,
-                                      "items": [
-                                            "How did you find your first teaching position?",
-                                            "What did schools focus on during your interviews?",
-                                            "What surprised you most during your first year?",
-                                            "What skills are most important in your school?",
-                                            "How does your department support new teachers?",
-                                            "What should a new Mandarin or ENL teacher prepare before applying?",
-                                            "Are there professional communities you would recommend?",
-                                            "What do you wish you had known during graduate school?"
-                                      ]
-                                }
-                          ]
-                    },
-                    {
-                          "heading": "不适合一开始就问的问题",
-                          "blocks": [
-                                {
-                                      "type": "list",
-                                      "ordered": false,
-                                      "items": [
-                                            "Can you get me a job?",
-                                            "Can you send my resume to your principal?",
-                                            "How much money do you make?",
-                                            "Can you write me a recommendation letter?",
-                                            "Is your school easy to get into?"
-                                      ]
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "如果交流顺利，对方可能主动提供帮助。即使没有，也应感谢对方的时间。"
-                                }
-                          ]
-                    },
-                    {
-                          "heading": "交流结束后",
-                          "blocks": [
-                                {
-                                      "type": "text",
-                                      "text": "发送简短感谢消息："
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "Thank you again for sharing your experience. Your advice about preparing specific classroom examples was especially helpful. I plan to revise my interview notes this week and will keep you updated on my progress."
-                                }
-                          ]
-                    },
-                    {
-                          "heading": "六、如何让别人愿意推荐你？",
-                          "blocks": [
-                                {
-                                      "type": "text",
-                                      "text": "推荐建立在信任和具体观察之上。"
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "别人更愿意推荐以下类型的候选人："
-                                },
-                                {
-                                      "type": "list",
-                                      "ordered": false,
-                                      "items": [
-                                            "按时完成任务",
-                                            "沟通清楚",
-                                            "能够接受反馈",
-                                            "对学生负责",
-                                            "遇到问题会主动解决",
-                                            "不夸大自己的能力",
-                                            "能够代表推荐人的专业判断"
-                                      ]
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "因此，不要只问："
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "谁可以给我推荐？"
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "应先问："
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "谁真正了解我的工作？"
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "适合成为推荐人的人通常能够具体说明："
-                                },
-                                {
-                                      "type": "list",
-                                      "ordered": false,
-                                      "items": [
-                                            "你如何备课",
-                                            "你如何与学生互动",
-                                            "你如何回应反馈",
-                                            "你如何与团队合作",
-                                            "你如何解决问题",
-                                            "你是否可靠"
-                                      ]
-                                }
-                          ],
-                          "anchor": "s6"
-                    },
-                    {
-                          "heading": "七、请求介绍时应该怎么说？",
-                          "blocks": [],
-                          "anchor": "s7"
-                    },
-                    {
-                          "heading": "向教授请求介绍校友",
-                          "blocks": [
-                                {
-                                      "type": "text",
-                                      "text": "Professor \\[Name\\],"
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "I am preparing to apply for secondary Mandarin teaching positions and would like to learn more about the transition from student teaching to a full-time role. If you know a recent graduate who might be willing to share their experience, I would greatly appreciate an introduction. I would keep the conversation brief and focused on the job-search process."
-                                }
-                          ]
-                    },
-                    {
-                          "heading": "向朋友请求介绍教师",
-                          "blocks": [
-                                {
-                                      "type": "text",
-                                      "text": "I remember you mentioned that your colleague teaches ENL in Queens. I am currently learning about middle-school ENL positions. If you think it would be appropriate, would you be comfortable introducing us for a short informational conversation?"
-                                }
-                          ]
-                    },
-                    {
-                          "heading": "请求对方转发招聘信息",
-                          "blocks": [
-                                {
-                                      "type": "text",
-                                      "text": "Thank you for sharing the opening. Based on the description, the position aligns closely with my Chinese 7–12 certification and student-teaching experience. Would you recommend applying through the school’s system first, or contacting the hiring administrator directly?"
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "这种问法先关注正确流程，而不是立即要求对方承担推荐责任。"
-                                }
-                          ]
-                    },
-                    {
-                          "heading": "八、如何维护专业关系？",
-                          "blocks": [
-                                {
-                                      "type": "text",
-                                      "text": "一次交流结束后，不需要频繁发送消息。"
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "可以在以下时间自然联系："
-                                },
-                                {
-                                      "type": "list",
-                                      "ordered": false,
-                                      "items": [
-                                            "获得面试时",
-                                            "接受Offer时",
-                                            "完成重要项目时",
-                                            "参加对方推荐的活动后",
-                                            "看到与对方工作相关的资源时",
-                                            "节日或学年结束时"
-                                      ]
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "更新消息应简短具体："
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "I wanted to share a quick update and thank you again for your advice. I recently completed my first demo lesson and used the clear learning-objective structure you recommended. The experience helped me feel much more prepared."
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "对方会看到自己的建议产生了实际影响。"
-                                }
-                          ],
-                          "anchor": "s8"
-                    },
-                    {
-                          "heading": "九、国际学生Networking时需要注意什么？",
-                          "blocks": [
-                                {
-                                      "type": "text",
-                                      "text": "国际学生在交流中可能会担心："
-                                },
-                                {
-                                      "type": "list",
-                                      "ordered": false,
-                                      "items": [
-                                            "英语不够自然",
-                                            "不熟悉美国职场礼仪",
-                                            "不知道怎样介绍国内经历",
-                                            "担心身份问题影响交流",
-                                            "害怕被拒绝"
-                                      ]
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "可以记住："
-                                }
-                          ],
-                          "anchor": "s9"
-                    },
-                    {
-                          "heading": "1. 不需要假装自己已经知道所有规则",
-                          "blocks": [
-                                {
-                                      "type": "text",
-                                      "text": "可以直接说："
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "I am still learning how the NYC teacher hiring process works and would appreciate hearing about your experience."
-                                }
-                          ]
-                    },
-                    {
-                          "heading": "2. 不要隐藏国际经历",
-                          "blocks": [
-                                {
-                                      "type": "text",
-                                      "text": "中国或其他国家的教学、管理、研究和职业经历，都可以成为专业交流的内容。"
-                                }
-                          ]
-                    },
-                    {
-                          "heading": "3. 不要在第一次交流中详细询问私人身份信息",
-                          "blocks": [
-                                {
-                                      "type": "text",
-                                      "text": "可以询问一般经验："
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "Are there common hiring challenges that international graduates should prepare for?"
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "避免直接要求对方公开个人移民细节。"
-                                }
-                          ]
-                    },
-                    {
-                          "heading": "4. 工作授权问题应向DSO或专业人士核实",
-                          "blocks": [
-                                {
-                                      "type": "text",
-                                      "text": "教师、校友和社群成员可以分享经历，但不能代替学校DSO或法律意见。"
-                                }
-                          ]
-                    },
-                    {
-                          "heading": "十、建立Networking自我介绍",
-                          "blocks": [
-                                {
-                                      "type": "text",
-                                      "text": "建议准备三个长度的版本。"
-                                }
-                          ],
-                          "anchor": "s10"
-                    },
-                    {
-                          "heading": "10秒版本",
-                          "blocks": [
-                                {
-                                      "type": "text",
-                                      "text": "I am a Mandarin teacher candidate preparing to teach at the secondary level in New York."
-                                }
-                          ]
-                    },
-                    {
-                          "heading": "30秒版本",
-                          "blocks": [
-                                {
-                                      "type": "text",
-                                      "text": "I am completing a master’s program in world language education and working toward New York State certification in Chinese 7–12. My student-teaching experience focuses on beginner Mandarin and project-based language learning."
-                                }
-                          ]
-                    },
-                    {
-                          "heading": "60秒版本",
-                          "blocks": [
-                                {
-                                      "type": "text",
-                                      "text": "I am completing my master’s degree in world language education and preparing for New York State certification in Chinese 7–12. During student teaching, I designed beginner Mandarin lessons using visual supports, collaborative speaking tasks and formative assessment. I am particularly interested in schools that are building or expanding world language programs, because I enjoy curriculum development and creating accessible entry points for new language learners."
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "根据交流对象调整重点，不需要每次背诵完全相同的内容。"
-                                }
-                          ]
-                    },
-                    {
-                          "heading": "十一、30天Networking行动计划",
-                          "blocks": [],
-                          "anchor": "s11"
-                    },
-                    {
-                          "heading": "第1周：整理现有关系",
-                          "blocks": [
-                                {
-                                      "type": "list",
-                                      "ordered": false,
-                                      "items": [
-                                            "列出教授、导师、校友和同学",
-                                            "更新LinkedIn资料",
-                                            "准备30秒自我介绍",
-                                            "明确目标职位和学校类型",
-                                            "联系两位已经认识的人"
-                                      ]
-                                }
-                          ]
-                    },
-                    {
-                          "heading": "第2周：扩大关系",
-                          "blocks": [
-                                {
-                                      "type": "list",
-                                      "ordered": false,
-                                      "items": [
-                                            "在LinkedIn寻找五位相关校友",
-                                            "发送两到三封个性化消息",
-                                            "参加一次教师社群活动",
-                                            "在专业群中分享一个可靠资源",
-                                            "安排一次Informational Interview"
-                                      ]
-                                }
-                          ]
-                    },
-                    {
-                          "heading": "第3周：深入交流",
-                          "blocks": [
-                                {
-                                      "type": "list",
-                                      "ordered": false,
-                                      "items": [
-                                            "准备Informational Interview问题",
-                                            "与一至两位教育工作者交流",
-                                            "记录获得的信息",
-                                            "根据建议修改Resume或面试材料",
-                                            "发送感谢消息"
-                                      ]
-                                }
-                          ]
-                    },
-                    {
-                          "heading": "第4周：维护与转化",
-                          "blocks": [
-                                {
-                                      "type": "list",
-                                      "ordered": false,
-                                      "items": [
-                                            "向提供建议的人更新进展",
-                                            "申请交流中发现的机会",
-                                            "联系实习或Student Teaching关系",
-                                            "参加招聘会或专业活动",
-                                            "规划下个月的联系目标"
-                                      ]
-                                }
-                          ]
-                    },
-                    {
-                          "heading": "Networking追踪表建议字段",
-                          "blocks": [
-                                {
-                                      "type": "text",
-                                      "text": "可以记录："
+                                      "text": "学校招聘信息不一定同时出现在所有平台。一位导师、教师或校友，可能提前知道职位变化、短期代课、课后项目扩招、研究助理需求，或学校正在搭建新的中文、双语或 ENL 项目。"
                                 },
                                 {
                                       "type": "table",
                                       "headers": [
-                                            "项目",
-                                            "内容"
+                                            "Networking 能带来的信息",
+                                            "具体价值"
                                       ],
                                       "rows": [
                                             [
-                                                  "姓名",
-                                                  "联系人姓名"
+                                                  "**尚未广泛发布的机会**",
+                                                  "更早了解职位、项目、代课或研究需求。"
                                             ],
                                             [
-                                                  "职位和机构",
-                                                  "当前工作"
+                                                  "**学校内部情况**",
+                                                  "了解学校真正重视什么、团队如何合作、是否支持新教师。"
                                             ],
                                             [
-                                                  "认识渠道",
-                                                  "教授介绍、LinkedIn、会议等"
+                                                  "**招聘流程**",
+                                                  "了解面试由谁负责、招聘时间、职位范围和常见问题。"
                                             ],
                                             [
-                                                  "共同点",
-                                                  "同校、同专业、同学科"
+                                                  "**求职材料反馈**",
+                                                  "判断 Resume、自我介绍和教学案例是否符合行业习惯。"
                                             ],
                                             [
-                                                  "首次联系日期",
-                                                  "发送消息的时间"
-                                            ],
-                                            [
-                                                  "回复状态",
-                                                  "未回复、已回复、已交流"
-                                            ],
-                                            [
-                                                  "交流重点",
-                                                  "对方分享的建议"
-                                            ],
-                                            [
-                                                  "下一步",
-                                                  "感谢、Follow-up或更新"
-                                            ],
-                                            [
-                                                  "下次联系日期",
-                                                  "合适的维护时间"
-                                            ],
-                                            [
-                                                  "可以提供的帮助",
-                                                  "你可以分享的资源或支持"
+                                                  "**长期职业支持**",
+                                                  "获得导师、同行、潜在推荐人和专业社群。"
                                             ]
                                       ]
+                                },
+                                {
+                                      "type": "callout",
+                                      "title": "Networking 的主要价值",
+                                      "lines": [
+                                            "它帮助你减少信息差、理解行业并建立可信关系，而不只是“获得一个职位”。"
+                                      ]
                                 }
-                          ]
+                          ],
+                          "level": 1,
+                          "anchor": "s1"
                     },
                     {
-                          "heading": "Networking沟通检查清单",
+                          "heading": "二、先避开四个常见误区",
+                          "blocks": [
+                                {
+                                      "type": "flowchart",
+                                      "steps": [
+                                            {
+                                                  "number": "1",
+                                                  "title": "Networking 就是请别人内推",
+                                                  "desc": "先询问经验和信息。关系逐步建立后，再判断是否适合提出更具体的请求。"
+                                            },
+                                            {
+                                                  "number": "2",
+                                                  "title": "只有校长或教授值得认识",
+                                                  "desc": "同学、年轻校友、新教师、项目工作人员和其他申请者，往往更了解你当前的实际问题。"
+                                            },
+                                            {
+                                                  "number": "3",
+                                                  "title": "只有找工作时才联系别人",
+                                                  "desc": "分享资源、表达感谢、反馈建议效果和更新进展，都是自然的维护方式。"
+                                            },
+                                            {
+                                                  "number": "4",
+                                                  "title": "没有回复就是明确拒绝",
+                                                  "desc": "教师和校长工作繁忙。可以礼貌跟进一次；仍无回复后，继续联系其他人。"
+                                            }
+                                      ]
+                                },
+                                {
+                                      "type": "callout",
+                                      "title": "不建议作为第一条消息",
+                                      "lines": [
+                                            "Can you refer me to your school? / Can you help me get a teaching\njob? / Can you introduce me to your principal?"
+                                      ]
+                                },
+                                {
+                                      "type": "callout",
+                                      "title": "更适合的第一步",
+                                      "lines": [
+                                            "I am beginning my search for Mandarin teaching positions and\nwould appreciate hearing about your experience working in NYC\nschools."
+                                      ]
+                                }
+                          ],
+                          "level": 1,
+                          "anchor": "s2"
+                    },
+                    {
+                          "heading": "三、先建立自己的“三圈人脉地图”",
+                          "blocks": [
+                                {
+                                      "type": "table",
+                                      "headers": [
+                                            "圈层",
+                                            "包括哪些人",
+                                            "适合的行动"
+                                      ],
+                                      "rows": [
+                                            [
+                                                  "**第一圈：直接认识**",
+                                                  "教授、项目导师、Student Teaching 指导教师、主管、同学、校友、项目同事。",
+                                                  "先从更新近况、请求具体建议或表达感谢开始。"
+                                            ],
+                                            [
+                                                  "**第二圈：共同关系**",
+                                                  "教授的教师联系人、校友的同事、实习导师的同事、朋友认识的教育工作者。",
+                                                  "请共同联系人做一个范围清楚、负担较小的介绍。"
+                                            ],
+                                            [
+                                                  "**第三圈：共同背景**",
+                                                  "同校校友、同专业教师、相同学科、相似职业转型、同会议参与者。",
+                                                  "说明连接点，并提出 10–15 分钟的具体交流请求。"
+                                            ]
+                                      ]
+                                },
+                                {
+                                      "type": "callout",
+                                      "title": "请求介绍越具体，对方越容易帮助",
+                                      "lines": [
+                                            "与其说“能不能介绍一个校长”，可以说：“如果合适，是否可以介绍一位愿意分享\n10–15\n分钟经验的在职中文教师？我想了解新教师进入学校后的课程准备。”"
+                                      ]
+                                }
+                          ],
+                          "level": 1,
+                          "anchor": "s3"
+                    },
+                    {
+                          "heading": "四、教师求职中最实用的 Networking 渠道",
+                          "blocks": [
+                                {
+                                      "type": "table",
+                                      "headers": [
+                                            "渠道",
+                                            "最适合获得什么"
+                                      ],
+                                      "rows": [
+                                            [
+                                                  "**教授与教师教育项目**",
+                                                  "学校和项目介绍、研究机会、校友联系、Resume 反馈、推荐信和招聘时间建议。"
+                                            ],
+                                            [
+                                                  "**Student Teaching / 实习**",
+                                                  "可被观察的工作表现、推荐人、学科组和行政联系人、学校招聘信息。"
+                                            ],
+                                            [
+                                                  "**校友网络**",
+                                                  "最近的求职平台、面试经历、入职流程、新教师第一年挑战。"
+                                            ],
+                                            [
+                                                  "**LinkedIn**",
+                                                  "查找校友、了解职业路径、关注学校、展示专业项目、联系教育工作者。"
+                                            ],
+                                            [
+                                                  "**教师社群 / 微信群**",
+                                                  "招聘信息、证书经验、教学资源、活动通知和同行支持。"
+                                            ],
+                                            [
+                                                  "**招聘会 / 专业会议**",
+                                                  "直接接触校长、HR、学科负责人和同行；了解学校项目与行业趋势。"
+                                            ],
+                                            [
+                                                  "**社交媒体 / 内容平台**",
+                                                  "展示教学反思、作品和专业兴趣；认识同行并建立个人专业形象。"
+                                            ]
+                                      ]
+                                },
+                                {
+                                      "type": "callout",
+                                      "title": "关系质量来自可被观察的表现",
+                                      "lines": [
+                                            "Student Teaching\n和实习期间，准时、完成任务、接受反馈、参加团队会议和保持专业沟通，比单纯“认识很多人”更能促成推荐。"
+                                      ]
+                                },
+                                {
+                                      "type": "subheading",
+                                      "text": "LinkedIn 资料至少说明三件事"
+                                },
+                                {
+                                      "type": "table",
+                                      "headers": [
+                                            "资料元素",
+                                            "建议写法"
+                                      ],
+                                      "rows": [
+                                            [
+                                                  "**你是谁**",
+                                                  "Mandarin Teacher Candidate / TESOL Teacher Candidate"
+                                            ],
+                                            [
+                                                  "**你的资格方向**",
+                                                  "New York State Certification in Chinese 7–12 / Multilingual Learner Support"
+                                            ],
+                                            [
+                                                  "**你能做什么**",
+                                                  "Secondary Education、Curriculum Development、Project-based Language Learning 等。"
+                                            ]
+                                      ]
+                                },
+                                {
+                                      "type": "callout",
+                                      "title": "Headline 示例 1",
+                                      "lines": [
+                                            "Mandarin Teacher Candidate | New York State Certification in\nChinese 7–12 | World Language Education"
+                                      ]
+                                },
+                                {
+                                      "type": "callout",
+                                      "title": "Headline 示例 2",
+                                      "lines": [
+                                            "TESOL Teacher Candidate | Multilingual Learner Support |\nSecondary Education"
+                                      ]
+                                }
+                          ],
+                          "level": 1,
+                          "anchor": "s4"
+                    },
+                    {
+                          "heading": "五、如何进行一次有效的 Informational Interview？",
                           "blocks": [
                                 {
                                       "type": "text",
-                                      "text": "发送消息前，确认："
+                                      "text": "Informational Interview 是以了解职业经验为目的的简短交流。它不是正式面试，也不应以直接获得工作为唯一目标。"
                                 },
                                 {
-                                      "type": "checklist",
-                                      "ordered": false,
-                                      "items": [
-                                            "是否说明了自己是谁",
-                                            "是否说明了为什么联系对方",
-                                            "是否有明确且合理的请求",
-                                            "是否控制了对方需要投入的时间",
-                                            "是否根据对方经历修改消息",
-                                            "是否避免直接索要工作或推荐",
-                                            "是否检查了姓名和机构拼写",
-                                            "是否保持专业和礼貌"
+                                      "type": "table",
+                                      "headers": [
+                                            "适合询问",
+                                            "不适合一开始就问"
+                                      ],
+                                      "rows": [
+                                            [
+                                                  "**How did you find your first teaching position?**",
+                                                  "Can you get me a job?"
+                                            ],
+                                            [
+                                                  "**What did schools focus on during interviews?**",
+                                                  "Can you send my resume to your principal?"
+                                            ],
+                                            [
+                                                  "**What surprised you most during your first year?**",
+                                                  "How much money do you make?"
+                                            ],
+                                            [
+                                                  "**What should a new Mandarin or ENL teacher prepare?**",
+                                                  "Can you write me a recommendation letter?"
+                                            ],
+                                            [
+                                                  "**Are there professional communities you recommend?**",
+                                                  "Is your school easy to get into?"
+                                            ]
                                       ]
                                 },
                                 {
+                                      "type": "callout",
+                                      "title": "交流后的感谢消息",
+                                      "lines": [
+                                            "Thank you again for sharing your experience. Your advice about\npreparing specific classroom examples was especially helpful. I plan to\nrevise my interview notes this week and will keep you updated on my\nprogress."
+                                      ]
+                                }
+                          ],
+                          "level": 1,
+                          "anchor": "s5"
+                    },
+                    {
+                          "heading": "六、什么情况下别人更愿意推荐你？",
+                          "blocks": [
+                                {
                                       "type": "text",
-                                      "text": "交流后，确认："
+                                      "text": "推荐建立在信任和具体观察之上。与其先问“谁能给我推荐”，更重要的问题是“谁真正了解我的工作”。"
+                                },
+                                {
+                                      "type": "table",
+                                      "headers": [
+                                            "别人愿意推荐的表现",
+                                            "推荐人能够具体说明"
+                                      ],
+                                      "rows": [
+                                            [
+                                                  "**按时完成任务、沟通清楚**",
+                                                  "你是否可靠，能否代表推荐人的专业判断。"
+                                            ],
+                                            [
+                                                  "**接受反馈并做出调整**",
+                                                  "你如何回应指导并持续成长。"
+                                            ],
+                                            [
+                                                  "**对学生负责**",
+                                                  "你如何备课、互动、保护学生并解决问题。"
+                                            ],
+                                            [
+                                                  "**主动合作**",
+                                                  "你如何与团队分工、沟通和共同完成目标。"
+                                            ],
+                                            [
+                                                  "**不夸大能力**",
+                                                  "你是否诚实、清楚自己的优势和学习需要。"
+                                            ]
+                                      ]
+                                },
+                                {
+                                      "type": "callout",
+                                      "title": "推荐的基础",
+                                      "lines": [
+                                            "可被观察的专业表现 + 持续可靠的合作 + 对学生和团队负责。"
+                                      ]
+                                }
+                          ],
+                          "level": 1,
+                          "anchor": "s6"
+                    },
+                    {
+                          "heading": "七、请求介绍时怎么说？",
+                          "blocks": [
+                                {
+                                      "type": "callout",
+                                      "title": "向教授请求介绍校友",
+                                      "lines": [
+                                            "Professor [Name],\nI am preparing to apply for secondary Mandarin teaching positions and\nwould like to learn more about the transition from student teaching to a\nfull-time role. If you know a recent graduate who might be willing to\nshare their experience, I would greatly appreciate an introduction. I\nwould keep the conversation brief and focused on the job-search\nprocess."
+                                      ]
+                                },
+                                {
+                                      "type": "callout",
+                                      "title": "向朋友请求介绍教师",
+                                      "lines": [
+                                            "I remember you mentioned that your colleague teaches ENL in\nQueens. I am currently learning about middle-school ENL positions. If\nyou think it would be appropriate, would you be comfortable introducing\nus for a short informational conversation?"
+                                      ]
+                                },
+                                {
+                                      "type": "callout",
+                                      "title": "对方分享招聘信息后",
+                                      "lines": [
+                                            "Thank you for sharing the opening. Based on the description, the\nposition aligns closely with my Chinese 7–12 certification and\nstudent-teaching experience. Would you recommend applying through the\nschool’s system first, or contacting the hiring administrator\ndirectly?"
+                                      ]
+                                },
+                                {
+                                      "type": "callout",
+                                      "title": "好的请求通常包含",
+                                      "lines": [
+                                            "共同背景或联系原因 + 一个具体问题 + 明确的时间范围 +\n尊重对方选择的空间。"
+                                      ]
+                                }
+                          ],
+                          "level": 1,
+                          "anchor": "s7"
+                    },
+                    {
+                          "heading": "八、如何自然维护专业关系？",
+                          "blocks": [
+                                {
+                                      "type": "text",
+                                      "text": "一次交流结束后不需要频繁联系。更自然的做法，是在有真实进展或有价值信息时进行简短更新。"
+                                },
+                                {
+                                      "type": "table",
+                                      "headers": [
+                                            "适合联系的时机",
+                                            "可以分享什么"
+                                      ],
+                                      "rows": [
+                                            [
+                                                  "**获得面试或完成 Demo Lesson**",
+                                                  "说明你如何使用了对方的建议。"
+                                            ],
+                                            [
+                                                  "**接受 Offer 或完成重要项目**",
+                                                  "表达感谢并分享具体结果。"
+                                            ],
+                                            [
+                                                  "**参加对方推荐的活动**",
+                                                  "反馈活动中最有帮助的内容。"
+                                            ],
+                                            [
+                                                  "**看到相关资源**",
+                                                  "分享与对方工作直接相关的文章、活动或工具。"
+                                            ],
+                                            [
+                                                  "**学年结束或节日**",
+                                                  "简短问候，不附带新的复杂请求。"
+                                            ]
+                                      ]
+                                },
+                                {
+                                      "type": "callout",
+                                      "title": "进展更新示例",
+                                      "lines": [
+                                            "I wanted to share a quick update and thank you again for your\nadvice. I recently completed my first demo lesson and used the clear\nlearning-objective structure you recommended. The experience helped me\nfeel much more prepared."
+                                      ]
+                                }
+                          ],
+                          "level": 1,
+                          "anchor": "s8"
+                    },
+                    {
+                          "heading": "九、国际学生 Networking 时的注意事项",
+                          "blocks": [
+                                {
+                                      "type": "flowchart",
+                                      "steps": [
+                                            {
+                                                  "number": "1",
+                                                  "title": "不需要假装知道所有规则",
+                                                  "desc": "可以直接说明自己仍在学习 NYC 教师招聘流程，并请教对方的一般经验。"
+                                            },
+                                            {
+                                                  "number": "2",
+                                                  "title": "不要隐藏国际经历",
+                                                  "desc": "中国或其他国家的教学、研究和项目经历，都是专业交流的内容。"
+                                            },
+                                            {
+                                                  "number": "3",
+                                                  "title": "避免追问私人身份细节",
+                                                  "desc": "可以询问国际毕业生常见挑战，但不要要求对方披露个人移民信息。"
+                                            },
+                                            {
+                                                  "number": "4",
+                                                  "title": "工作授权要向 DSO 核实",
+                                                  "desc": "教师、校友和社群成员可以分享经验，但不能代替 DSO 或法律意见。"
+                                            }
+                                      ]
+                                }
+                          ],
+                          "level": 1,
+                          "anchor": "s9"
+                    },
+                    {
+                          "heading": "十、准备三个长度的 Networking 自我介绍",
+                          "blocks": [
+                                {
+                                      "type": "table",
+                                      "headers": [
+                                            "长度",
+                                            "示例"
+                                      ],
+                                      "rows": [
+                                            [
+                                                  "**10 秒**",
+                                                  "I am a Mandarin teacher candidate preparing to teach at the secondary level in New York."
+                                            ],
+                                            [
+                                                  "**30 秒**",
+                                                  "I am completing a master’s program in world language education and working toward New York State certification in Chinese 7–12. My student-teaching experience focuses on beginner Mandarin and project-based language learning."
+                                            ],
+                                            [
+                                                  "**60 秒**",
+                                                  "I am completing my master’s degree in world language education and preparing for New York State certification in Chinese 7–12. During student teaching, I designed beginner Mandarin lessons using visual supports, collaborative speaking tasks and formative assessment. I am particularly interested in schools that are building or expanding world language programs, because I enjoy curriculum development and creating accessible entry points for new language learners."
+                                            ]
+                                      ]
+                                },
+                                {
+                                      "type": "callout",
+                                      "title": "使用原则",
+                                      "lines": [
+                                            "根据交流对象调整重点。它们是表达框架，不需要每次逐字背诵。"
+                                      ]
+                                }
+                          ],
+                          "level": 1,
+                          "anchor": "s10"
+                    },
+                    {
+                          "heading": "十一、30 天 Networking 行动计划",
+                          "blocks": [
+                                {
+                                      "type": "subheading",
+                                      "text": "Networking 追踪表建议字段"
+                                },
+                                {
+                                      "type": "table",
+                                      "headers": [
+                                            "字段",
+                                            "记录内容"
+                                      ],
+                                      "rows": [
+                                            [
+                                                  "**姓名 / 职位 / 机构**",
+                                                  "联系人身份和当前工作。"
+                                            ],
+                                            [
+                                                  "**认识渠道与共同点**",
+                                                  "教授介绍、LinkedIn、会议、同校、同专业或同学科。"
+                                            ],
+                                            [
+                                                  "**首次联系日期与回复状态**",
+                                                  "未回复、已回复、已交流。"
+                                            ],
+                                            [
+                                                  "**交流重点**",
+                                                  "对方分享的建议和关键信息。"
+                                            ],
+                                            [
+                                                  "**下一步与下次联系日期**",
+                                                  "感谢、Follow-up、更新或适当维护时间。"
+                                            ],
+                                            [
+                                                  "**你可以提供的帮助**",
+                                                  "可分享的资源、活动信息或专业支持。"
+                                            ]
+                                      ]
+                                }
+                          ],
+                          "level": 1,
+                          "anchor": "s11"
+                    },
+                    {
+                          "heading": "Networking 沟通检查清单",
+                          "blocks": [
+                                {
+                                      "type": "checklist",
+                                      "title": "发送消息前",
+                                      "items": [
+                                            "说明自己是谁",
+                                            "说明为什么联系对方",
+                                            "提出明确且合理的请求",
+                                            "控制对方需要投入的时间",
+                                            "根据对方经历修改消息",
+                                            "避免直接索要工作或推荐",
+                                            "检查姓名和机构拼写",
+                                            "保持专业和礼貌"
+                                      ]
                                 },
                                 {
                                       "type": "checklist",
-                                      "ordered": false,
+                                      "title": "交流后",
                                       "items": [
                                             "发送感谢信息",
                                             "记录关键建议",
@@ -3194,58 +2579,60 @@ window.TOOLKIT = {
                                             "避免频繁催促或重复请求"
                                       ]
                                 }
-                          ]
+                          ],
+                          "level": 1,
+                          "anchor": "s12"
                     },
                     {
                           "heading": "最后的建议",
                           "blocks": [
                                 {
                                       "type": "text",
-                                      "text": "教师求职中的Networking，本质上是建立一套专业信任网络。"
+                                      "text": "教师求职中的 Networking，本质上是一套专业信任网络。它不需要很大：几位真正了解你的导师、同事、校友或同行，往往比几百个没有实际交流的 LinkedIn 联系人更有价值。"
                                 },
                                 {
-                                      "type": "text",
-                                      "text": "这套网络不需要很大。"
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "几位真正了解你的导师、同事、校友或同行，可能比几百个没有实际交流的LinkedIn联系人更有价值。"
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "从以下三个行动开始即可："
-                                },
-                                {
-                                      "type": "list",
-                                      "ordered": true,
-                                      "items": [
-                                            "联系一位已经了解你工作的人",
-                                            "向一位校友请教具体经验",
-                                            "参加一次能够认识同行的专业活动"
+                                      "type": "flowchart",
+                                      "steps": [
+                                            {
+                                                  "number": "1",
+                                                  "title": "联系一位已经了解你工作的人",
+                                                  "desc": "请求一个具体建议，或更新你的求职方向。"
+                                            },
+                                            {
+                                                  "number": "2",
+                                                  "title": "向一位校友请教具体经验",
+                                                  "desc": "控制交流时间，并围绕一个明确问题展开。"
+                                            },
+                                            {
+                                                  "number": "3",
+                                                  "title": "参加一次专业活动",
+                                                  "desc": "认识同行、学习行业表达，并在活动后进行简短 Follow-up。"
+                                            }
                                       ]
                                 },
                                 {
-                                      "type": "text",
-                                      "text": "每一次交流都保持具体、尊重和真诚。"
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "当别人能够清楚地知道你是谁、你想做什么、你擅长什么，以及你是否值得信任时，合适的机会出现后，他们才更有可能想到你。"
+                                      "type": "callout",
+                                      "title": "真正有效的关系",
+                                      "lines": [
+                                            "当别人能够清楚知道你是谁、你想做什么、你擅长什么，以及你是否值得信任，合适机会出现时，他们才更可能想到你。"
+                                      ]
                                 }
-                          ]
+                          ],
+                          "level": 1
                     },
                     {
                           "heading": "资料来源",
                           "blocks": [
                                 {
                                       "type": "text",
-                                      "text": "本文根据EduVenture“纽约教师求职分享会 Session 1”中关于LinkedIn、微信群、大学教授、实习导师、志愿活动和专业社群的分享整理。"
+                                      "text": "本文根据 EduVenture“纽约教师求职分享会 Session 1”中关于 LinkedIn、微信群、大学教授、实习导师、志愿活动和专业社群的分享整理。"
                                 },
                                 {
                                       "type": "text",
-                                      "text": "文中的沟通模板和行动建议为EduVenture International Teacher Hub原创整理，使用时应根据个人经历、关系程度和具体求职目标进行修改。"
+                                      "text": "文中的沟通模板和行动建议为 EduVenture International Teacher Hub 原创整理，使用时应根据个人经历、关系程度和具体求职目标进行修改。"
                                 }
-                          ]
+                          ],
+                          "level": 1
                     }
               ]
         },
