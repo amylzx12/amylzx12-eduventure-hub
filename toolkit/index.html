@@ -11,6 +11,11 @@
   <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
   <style>
     body { margin: 0; }
+    .evh-dd { position: relative; }
+    .evh-dd-menu { display: none; position: absolute; top: 100%; left: 0; background: #fff; border-radius: 10px; box-shadow: 0 6px 20px rgba(27,42,74,0.18); padding: 6px; min-width: 220px; z-index: 30; }
+    .evh-dd:hover .evh-dd-menu, .evh-dd:focus-within .evh-dd-menu { display: block; }
+    .evh-dd-menu a { display: block; padding: 8px 12px; color: #1B2A4A !important; font-size: 13px; border-radius: 6px; text-decoration: none; }
+    .evh-dd-menu a:hover { background: #FDF4E9; }
   </style>
 </head>
 <body>

@@ -34,6 +34,11 @@
     .founder-info ul { padding-left: 18px; margin: 0; }
     .founder-info li { font-size: 13.5px; line-height: 1.7; color: #3D4451; margin-bottom: 6px; }
     .founder-info li .cn { display: block; font-size: 12px; color: #8A93A6; margin-top: 1px; }
+    .evh-dd { position: relative; }
+    .evh-dd-menu { display: none; position: absolute; top: 100%; left: 0; background: #fff; border-radius: 10px; box-shadow: 0 6px 20px rgba(27,42,74,0.18); padding: 6px; min-width: 220px; z-index: 30; }
+    .evh-dd:hover .evh-dd-menu, .evh-dd:focus-within .evh-dd-menu { display: block; }
+    .evh-dd-menu a { display: block; padding: 8px 12px; color: #1B2A4A !important; font-size: 13px; border-radius: 6px; text-decoration: none; }
+    .evh-dd-menu a:hover { background: #FDF4E9; }
   </style>
 </head>
 <body>
@@ -43,7 +48,16 @@
       <a class="active" href="/about/">About</a>
       <a href="/pathway/">Find your certificate</a>
       <a href="/practice/">Study &amp; practice</a>
-      <a href="/toolkit/">Job hunting toolkit</a>
+      <div class="evh-dd">
+        <a href="/toolkit/">Job hunting toolkit ▾</a>
+        <div class="evh-dd-menu">
+          <a href="/toolkit/?cat=preparation">Getting Started 求职准备</a>
+          <a href="/toolkit/?cat=resume">Resume &amp; Cover Letter</a>
+          <a href="/toolkit/?cat=interview">Interview Preparation</a>
+          <a href="/toolkit/?cat=demo-lesson">Demo Lesson Planning</a>
+          <a href="/toolkit/?cat=work-authorization">Work Authorization</a>
+        </div>
+      </div>
       <a style="color:#C9A97E" href="#">Classroom materials (soon)</a>
     </div>
   </div>

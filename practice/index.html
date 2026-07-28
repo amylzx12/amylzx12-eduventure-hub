@@ -11,6 +11,11 @@
   <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
   <style>
     body { margin: 0; }
+    .evh-dd { position: relative; }
+    .evh-dd-menu { display: none; position: absolute; top: 100%; left: 0; background: #fff; border-radius: 10px; box-shadow: 0 6px 20px rgba(27,42,74,0.18); padding: 6px; min-width: 220px; z-index: 30; }
+    .evh-dd:hover .evh-dd-menu, .evh-dd:focus-within .evh-dd-menu { display: block; }
+    .evh-dd-menu a { display: block; padding: 8px 12px; color: #1B2A4A !important; font-size: 13px; border-radius: 6px; text-decoration: none; }
+    .evh-dd-menu a:hover { background: #FDF4E9; }
   </style>
 </head>
 <body>
@@ -20,7 +25,16 @@
       <a href="/about/" style="color:#F5DCC0;text-decoration:none;">About</a>
       <a href="/pathway/" style="color:#F5DCC0;text-decoration:none;">Find your certificate</a>
       <a href="/practice/" style="color:#fff;font-weight:500;text-decoration:none;">Study &amp; practice</a>
-      <a href="/toolkit/" style="color:#F5DCC0;text-decoration:none;">Job hunting toolkit</a>
+      <div class="evh-dd">
+        <a href="/toolkit/" style="color:#F5DCC0;text-decoration:none;">Job hunting toolkit ▾</a>
+        <div class="evh-dd-menu">
+          <a href="/toolkit/?cat=preparation">Getting Started 求职准备</a>
+          <a href="/toolkit/?cat=resume">Resume &amp; Cover Letter</a>
+          <a href="/toolkit/?cat=interview">Interview Preparation</a>
+          <a href="/toolkit/?cat=demo-lesson">Demo Lesson Planning</a>
+          <a href="/toolkit/?cat=work-authorization">Work Authorization</a>
+        </div>
+      </div>
       <a href="#" style="color:#C9A97E;text-decoration:none;">Classroom materials (soon)</a>
     </div>
   </div>
