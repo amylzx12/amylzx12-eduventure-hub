@@ -81,10 +81,11 @@ function SectionBody({ text }) {
 
 function Sidebar({ categories, activeCatId, activeArticleId, onSelect }) {
   return (
-    <div className="flex flex-col gap-5" style={{ minWidth: 220 }}>
+    <div className="flex flex-col gap-5"
+      style={{ width: 250, flexShrink: 0, background: "#EEF2FA", border: "1px solid #DCE4F2", borderRadius: 14, padding: "18px 16px", alignSelf: "flex-start", position: "sticky", top: 20 }}>
       {categories.map((cat) => (
         <div key={cat.id}>
-          <p style={{ fontFamily: sans, fontSize: 11.5, fontWeight: 700, letterSpacing: 0.5, textTransform: "uppercase", color: cat.id === activeCatId ? C.blue : C.slateSoft, marginBottom: 8 }}>
+          <p style={{ fontFamily: sans, fontSize: 11, fontWeight: 700, letterSpacing: 0.5, textTransform: "uppercase", color: cat.id === activeCatId ? C.blue : "#8A97B8", marginBottom: 8 }}>
             {cat.label}
           </p>
           <div className="flex flex-col gap-1">
@@ -92,7 +93,7 @@ function Sidebar({ categories, activeCatId, activeArticleId, onSelect }) {
               const active = a.id === activeArticleId;
               return (
                 <button key={a.id} onClick={() => onSelect(cat.id, a.id)} className="text-left"
-                  style={{ fontFamily: sans, fontSize: 13, lineHeight: 1.5, color: active ? "#fff" : C.slate, background: active ? C.blue : "transparent", borderRadius: 8, padding: "7px 10px" }}>
+                  style={{ fontFamily: sans, fontSize: 13, lineHeight: 1.5, color: active ? "#fff" : "#4A5875", background: active ? C.blue : "transparent", borderRadius: 8, padding: "7px 10px", fontWeight: active ? 500 : 400 }}>
                   {a.title}
                 </button>
               );
@@ -223,9 +224,9 @@ function App() {
           Practical guidance for the US school hiring process — resume and cover letter norms, interview preparation, demo lessons, networking, and a general orientation to work-authorization pathways.
         </p>
 
-        <div className="flex gap-10 flex-col sm:flex-row">
+        <div className="flex gap-8 flex-col sm:flex-row">
           <Sidebar categories={categories} activeCatId={catId} activeArticleId={articleId} onSelect={selectArticle} />
-          <div style={{ flex: 1, minWidth: 0 }}>
+          <div style={{ flex: 1, minWidth: 0, background: C.card, border: `1px solid ${C.border}`, borderRadius: 16, padding: "2rem", boxShadow: "0 2px 10px rgba(27,42,74,0.06)" }}>
             {article && <ArticleView article={article} />}
           </div>
         </div>
