@@ -44,7 +44,7 @@ function ArticleView({ article, onBack }) {
         {article.sections.map((s, i) => (
           <div key={i}>
             <p style={{ fontFamily: sans, fontSize: 14.5, fontWeight: 500, color: C.slate, marginBottom: 6 }}>{s.heading}</p>
-            <p style={{ fontFamily: sans, fontSize: 14, color: C.slate, lineHeight: 1.75 }}>{s.body}</p>
+            <p style={{ fontFamily: sans, fontSize: 14, color: C.slate, lineHeight: 1.75, whiteSpace: "pre-line" }}>{s.body}</p>
           </div>
         ))}
       </div>
