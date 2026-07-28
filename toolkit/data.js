@@ -1189,11 +1189,11 @@ window.TOOLKIT = {
         {
               "id": "building-us-teaching-experience",
               "title": "国际学生如何积累美国教育与教学经验",
-              "summary": "如何通过实习、辅导、研究等经历积累有效的求职证据，以及 CPT/OPT 的基本概念。",
+              "summary": "从 Student Teaching、Tutoring 到研究、志愿服务与工作授权",
               "leadCallout": {
-                    "title": "先看结论",
+                    "title": "核心观点",
                     "lines": [
-                          "没有美国全职教学经历不等于没有求职证据——Student Teaching、辅导、研究、志愿服务等经历都可以转化为教师招聘团队能理解的能力证明。国际学生应先向学校 DSO 确认工作授权，再开始任何校外实习或教学活动。"
+                          "一段高质量、职责清楚、能够获得反馈的短期经历，往往比一段内容模糊的长期经历更有价值。"
                     ]
               },
               "nav": [
@@ -1206,43 +1206,43 @@ window.TOOLKIT = {
                           "anchor": "s2"
                     },
                     {
-                          "label": "三、研究类经验能否帮助教师求职？",
+                          "label": "三、研究类经验和志愿服务有价值吗？",
                           "anchor": "s3"
                     },
                     {
-                          "label": "四、志愿服务是否有价值？",
+                          "label": "四、F-1 国际学生必须注意：无薪不等于无需授权",
                           "anchor": "s4"
                     },
                     {
-                          "label": "五、国际学生必须注意：无薪不等于无需授权",
+                          "label": "五、CPT、OPT 与校内工作的基本区别",
                           "anchor": "s5"
                     },
                     {
-                          "label": "六、CPT和OPT的基本区别",
+                          "label": "六、从哪里寻找教育和教学机会？",
                           "anchor": "s6"
                     },
                     {
-                          "label": "七、从哪里寻找教育和教学机会？",
+                          "label": "七、怎样选择真正有价值的机会？",
                           "anchor": "s7"
                     },
                     {
-                          "label": "八、怎样选择真正有价值的机会？",
+                          "label": "八、如何把中国或其他国家的经历转化为优势？",
                           "anchor": "s8"
                     },
                     {
-                          "label": "九、如何把中国或其他国家的教学经历转化为优势？",
+                          "label": "九、积累经历时需要保存什么？",
                           "anchor": "s9"
                     },
                     {
-                          "label": "十、积累经历时需要保存什么？",
+                          "label": "十、如何把经历写进 Resume？",
                           "anchor": "s10"
                     },
                     {
-                          "label": "十一、如何把经历写进Resume？",
+                          "label": "十一、如何把经历用于面试？",
                           "anchor": "s11"
                     },
                     {
-                          "label": "十二、如何把经历用于面试？",
+                          "label": "教育经验积累行动清单",
                           "anchor": "s12"
                     }
               ],
@@ -1252,392 +1252,135 @@ window.TOOLKIT = {
                           "blocks": [
                                 {
                                       "type": "text",
-                                      "text": "很多国际学生在准备美国教师求职时，都会担心一个问题："
+                                      "text": "很多国际学生在准备美国教师求职时，都会担心自己缺少美国学校的全职教学经验。美国本地经验确实有帮助，但有效的“美国教育经验”并不只来自正式教师职位。"
                                 },
                                 {
                                       "type": "text",
-                                      "text": "我没有美国学校的全职教学经验，学校为什么要选择我？"
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "美国本地经验确实能够帮助招聘团队更快地了解你是否熟悉当地课堂、学生群体和学校文化。但是，“美国教育经验”并不只包括正式的全职教师工作。"
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "以下经历都可能成为有效的求职证据："
-                                },
-                                {
-                                      "type": "list",
-                                      "ordered": false,
-                                      "items": [
-                                            "Student Teaching",
-                                            "Classroom Observation",
-                                            "Tutoring",
-                                            "Afterschool Program",
-                                            "Summer Program",
-                                            "成人教育",
-                                            "社区语言学校",
-                                            "教育类志愿服务",
-                                            "Research Assistant",
-                                            "Curriculum Development",
-                                            "学生社团和文化活动",
-                                            "与学校、家庭或社区合作的项目"
-                                      ]
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "EduVenture纽约教师求职分享会建议，教育实习不只是为了增加Resume上的一行经历。它还能帮助未来教师在真实环境中应用课程知识、了解不同利益相关者、探索研究兴趣、建立专业人脉，并接触最新的教育实践。"
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "关键是有计划地选择经历，并学会说明自己在这些经历中真正完成了什么。"
+                                      "text": "Student Teaching、Tutoring、课后项目、社区语言学校、研究助理、课程开发、志愿服务和社区项目，都可能成为有说服力的求职证据。关键是有计划地选择机会，并能具体说明自己做了什么、服务了谁、如何调整教学，以及取得了什么结果。"
                                 }
-                          ]
+                          ],
+                          "level": 1
                     },
                     {
                           "heading": "一、为什么美国本地教育经验有帮助？",
                           "blocks": [
                                 {
                                       "type": "text",
-                                      "text": "美国学校招聘教师时，通常不仅关注申请者“在哪里工作过”，也关注申请者是否能够提供以下证据："
+                                      "text": "招聘团队通常不仅关注你在哪里工作过，也关注你是否能用具体证据证明自己理解学生、课堂与学校协作。"
                                 },
                                 {
-                                      "type": "list",
-                                      "ordered": false,
-                                      "items": [
-                                            "是否真正接触过学生",
-                                            "是否观察和理解过美国课堂",
-                                            "是否能够设计并执行教学活动",
-                                            "是否熟悉课堂管理和学校常规",
-                                            "是否能够与教师、家长和学校工作人员合作",
-                                            "是否能够根据学生表现调整教学",
-                                            "是否能够接受反馈并持续改进"
+                                      "type": "table",
+                                      "headers": [
+                                            "学校想看到的证据",
+                                            "可以怎样证明"
+                                      ],
+                                      "rows": [
+                                            [
+                                                  "**真正接触过学生**",
+                                                  "说明学生年龄、语言背景、班级规模和你的具体职责。"
+                                            ],
+                                            [
+                                                  "**能够设计并执行教学**",
+                                                  "提供 Lesson Plan、活动设计、学生作品或教学案例。"
+                                            ],
+                                            [
+                                                  "**理解课堂管理与常规**",
+                                                  "描述如何建立流程、回应行为问题并保护学生尊严。"
+                                            ],
+                                            [
+                                                  "**能够根据学习表现调整**",
+                                                  "说明你使用了哪些观察、作业或形成性评估证据。"
+                                            ],
+                                            [
+                                                  "**能够合作并接受反馈**",
+                                                  "说明你如何与教师、家长、主管或项目团队沟通。"
+                                            ]
                                       ]
                                 },
                                 {
-                                      "type": "text",
-                                      "text": "一段高质量的短期经历，可能比一段内容模糊的长期经历更有价值。"
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "例如，以下表述信息有限："
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "Volunteered at an afterschool program."
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "更有说服力的表述是："
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "Designed and facilitated weekly small-group literacy activities for 12 multilingual middle school students and adjusted instructional supports based on student participation and written work."
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "第二种写法清楚说明了："
-                                },
-                                {
-                                      "type": "list",
-                                      "ordered": false,
-                                      "items": [
-                                            "服务对象",
-                                            "工作频率",
-                                            "具体职责",
-                                            "使用的教学方法",
-                                            "如何观察和调整教学"
+                                      "type": "table",
+                                      "headers": [
+                                            "较弱",
+                                            "Volunteered at an afterschool program."
+                                      ],
+                                      "rows": [
+                                            [
+                                                  "**更具体**",
+                                                  "Designed and facilitated weekly small-group literacy activities for 12 multilingual middle school students and adjusted instructional supports based on student participation and written work."
+                                            ]
                                       ]
                                 },
                                 {
-                                      "type": "text",
-                                      "text": "因此，积累经验时要同时思考两个问题："
-                                },
-                                {
-                                      "type": "list",
-                                      "ordered": true,
-                                      "items": [
-                                            "我能够在这里学习和实践什么？",
-                                            "以后我可以用什么具体证据介绍这段经历？"
+                                      "type": "callout",
+                                      "title": "积累经验时同时问两个问题",
+                                      "lines": [
+                                            "我能在这里学习和实践什么？以后我能用哪些具体证据介绍这段经历？"
                                       ]
                                 }
                           ],
+                          "level": 1,
                           "anchor": "s1"
                     },
                     {
                           "heading": "二、可以积累哪些教学类经验？",
-                          "blocks": [],
+                          "blocks": [
+                                {
+                                      "type": "table",
+                                      "headers": [
+                                            "经验类型",
+                                            "最适合积累的能力"
+                                      ],
+                                      "rows": [
+                                            [
+                                                  "**Student Teaching**",
+                                                  "课堂观察、备课、完整授课、评估、团队会议、家校沟通和接受导师反馈。"
+                                            ],
+                                            [
+                                                  "**Tutoring**",
+                                                  "诊断具体困难、个别化支持、即时反馈、记录进步和调整教学节奏。"
+                                            ],
+                                            [
+                                                  "**Afterschool / Summer Program**",
+                                                  "小组教学、活动设计、行为管理、项目式学习、文化活动与家庭沟通。"
+                                            ],
+                                            [
+                                                  "**社区语言学校 / 中文学校**",
+                                                  "Heritage Learners、非华裔学习者、水平差异、目标语言使用与家长沟通。"
+                                            ],
+                                            [
+                                                  "**成人教育**",
+                                                  "需求分析、真实情境任务、清楚解释、尊重反馈和支持不同教育背景的学习者。"
+                                            ],
+                                            [
+                                                  "**Homeschooling / 家庭学习支持**",
+                                                  "个别化课程、学习进度管理、跨学科设计和家庭沟通。"
+                                            ]
+                                      ]
+                                },
+                                {
+                                      "type": "callout",
+                                      "title": "Student Teaching 不只是毕业要求",
+                                      "lines": [
+                                            "它还可能帮助你获得推荐人、教学材料、学生作品样本、面试案例、Demo\nLesson\n灵感和学校招聘信息。使用学生材料时必须删除身份信息并遵守学校规定。"
+                                      ]
+                                },
+                                {
+                                      "type": "callout",
+                                      "title": "Tutoring 也要具体呈现",
+                                      "lines": [
+                                            "不要只说“我辅导过学生”。说明学生年龄、学习目标、使用的方法、遇到的困难，以及你如何判断学生有所进步。"
+                                      ]
+                                }
+                          ],
+                          "level": 1,
                           "anchor": "s2"
                     },
                     {
-                          "heading": "1. Student Teaching",
+                          "heading": "三、研究类经验和志愿服务有价值吗？",
                           "blocks": [
                                 {
                                       "type": "text",
-                                      "text": "Student Teaching通常是教师教育项目中最直接的课堂实践经历。"
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "在这一阶段，你可能有机会："
-                                },
-                                {
-                                      "type": "list",
-                                      "ordered": false,
-                                      "items": [
-                                            "观察合作教师",
-                                            "了解学校常规",
-                                            "设计Lesson Plan",
-                                            "教授部分或完整课程",
-                                            "批改学生作业",
-                                            "参与团队会议",
-                                            "与家庭沟通",
-                                            "接受指导教师和大学导师的反馈"
-                                      ]
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "不要把Student Teaching仅仅视为毕业要求。它也可能帮助你获得："
-                                },
-                                {
-                                      "type": "list",
-                                      "ordered": false,
-                                      "items": [
-                                            "推荐人",
-                                            "教学材料",
-                                            "学生作品样本",
-                                            "面试案例",
-                                            "Demo Lesson灵感",
-                                            "学校招聘信息"
-                                      ]
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "应注意保护学生隐私。用于Teaching Portfolio的材料需要删除学生姓名和其他身份信息，并遵守学校规定。"
-                                }
-                          ]
-                    },
-                    {
-                          "heading": "2. Tutoring",
-                          "blocks": [
-                                {
-                                      "type": "text",
-                                      "text": "一对一或小组辅导可以帮助你练习："
-                                },
-                                {
-                                      "type": "list",
-                                      "ordered": false,
-                                      "items": [
-                                            "判断学生的具体困难",
-                                            "设计个别化支持",
-                                            "提供即时反馈",
-                                            "记录学生进步",
-                                            "调整语言和教学节奏",
-                                            "与学生建立稳定关系"
-                                      ]
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "Tutoring尤其适合刚开始积累经验的学生，因为准备和管理范围相对明确。"
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "但是，面试中不要只说“我辅导过学生”。应进一步说明："
-                                },
-                                {
-                                      "type": "list",
-                                      "ordered": false,
-                                      "items": [
-                                            "学生年龄",
-                                            "学习目标",
-                                            "你使用了什么方法",
-                                            "学生遇到了什么困难",
-                                            "你如何判断学生有所进步"
-                                      ]
-                                }
-                          ]
-                    },
-                    {
-                          "heading": "3. Afterschool Program与Summer Program",
-                          "blocks": [
-                                {
-                                      "type": "text",
-                                      "text": "课后项目和暑期项目常见于："
-                                },
-                                {
-                                      "type": "list",
-                                      "ordered": false,
-                                      "items": [
-                                            "公立学校",
-                                            "社区组织",
-                                            "语言学校",
-                                            "博物馆",
-                                            "图书馆",
-                                            "非营利机构",
-                                            "大学项目"
-                                      ]
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "这些项目可以帮助你积累："
-                                },
-                                {
-                                      "type": "list",
-                                      "ordered": false,
-                                      "items": [
-                                            "小组教学",
-                                            "活动设计",
-                                            "行为管理",
-                                            "项目式学习",
-                                            "文化活动组织",
-                                            "家庭和社区沟通"
-                                      ]
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "课后项目通常比正式课堂更灵活，也更需要教师通过活动维持学生参与。"
-                                }
-                          ]
-                    },
-                    {
-                          "heading": "4. 社区语言学校和中文学校",
-                          "blocks": [
-                                {
-                                      "type": "text",
-                                      "text": "对于准备教授中文的申请者，社区中文学校可以提供比较直接的学科经验。"
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "你可能接触到："
-                                },
-                                {
-                                      "type": "list",
-                                      "ordered": false,
-                                      "items": [
-                                            "Heritage Learners",
-                                            "非华裔中文学习者",
-                                            "不同年龄段学生",
-                                            "周末课程",
-                                            "文化活动",
-                                            "家庭参与"
-                                      ]
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "面试时应说明该环境与目标学校的不同，同时突出可迁移的能力。例如："
-                                },
-                                {
-                                      "type": "list",
-                                      "ordered": false,
-                                      "items": [
-                                            "如何设计语言输出任务",
-                                            "如何处理水平差异",
-                                            "如何使用目标语言",
-                                            "如何结合文化内容",
-                                            "如何与家长沟通"
-                                      ]
-                                }
-                          ]
-                    },
-                    {
-                          "heading": "5. 成人教育",
-                          "blocks": [
-                                {
-                                      "type": "text",
-                                      "text": "成人语言学习者在动机、生活经验、课堂互动和学习需求方面，与K–12学生存在明显区别。"
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "成人教育仍然能够帮助申请者练习："
-                                },
-                                {
-                                      "type": "list",
-                                      "ordered": false,
-                                      "items": [
-                                            "需求分析",
-                                            "清楚解释语言",
-                                            "设计真实情境任务",
-                                            "调整教学节奏",
-                                            "提供尊重且具体的反馈",
-                                            "支持不同教育背景的学习者"
-                                      ]
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "申请K–12职位时，可以说明哪些技能能够迁移，同时表明自己理解儿童和青少年课堂需要不同的教学与管理方式。"
-                                }
-                          ]
-                    },
-                    {
-                          "heading": "6. Homeschooling与家庭教育支持",
-                          "blocks": [
-                                {
-                                      "type": "text",
-                                      "text": "部分申请者可能通过家庭教育、私人辅导或家庭学习项目积累经验。"
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "这类经历可以证明："
-                                },
-                                {
-                                      "type": "list",
-                                      "ordered": false,
-                                      "items": [
-                                            "个别化课程设计",
-                                            "学习进度管理",
-                                            "家庭沟通",
-                                            "跨学科学习",
-                                            "灵活调整内容"
-                                      ]
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "同时需要注意，不要在Resume或面试中透露学生和家庭的私人信息。"
-                                }
-                          ]
-                    },
-                    {
-                          "heading": "三、研究类经验能否帮助教师求职？",
-                          "blocks": [
-                                {
-                                      "type": "text",
-                                      "text": "可以。"
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "分享会课件将教育相关机会分为两类："
-                                },
-                                {
-                                      "type": "list",
-                                      "ordered": false,
-                                      "items": [
-                                            "Teaching或Tutoring相关",
-                                            "Research相关"
-                                      ]
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "研究类工作可能包括："
-                                },
-                                {
-                                      "type": "list",
-                                      "ordered": false,
-                                      "items": [
-                                            "Data Collection",
-                                            "Data Analysis",
-                                            "Literature Review",
-                                            "Interview或Survey",
-                                            "Paper Drafting",
-                                            "Curriculum Research",
-                                            "教育项目评估"
-                                      ]
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "这些工作虽然不一定包括直接教学，但可以培养教师岗位同样需要的能力。"
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "例如："
+                                      "text": "研究和志愿经历不一定包含完整课堂教学，但可以培养教师岗位同样需要的观察、分析、倾听、项目管理和记录能力。"
                                 },
                                 {
                                       "type": "table",
@@ -1647,999 +1390,575 @@ window.TOOLKIT = {
                                       ],
                                       "rows": [
                                             [
-                                                  "分析学生数据",
+                                                  "**分析学生数据**",
                                                   "根据数据调整教学"
                                             ],
                                             [
-                                                  "进行访谈",
-                                                  "主动倾听学生和家庭"
+                                                  "**进行访谈或调查**",
+                                                  "主动倾听学生与家庭"
                                             ],
                                             [
-                                                  "文献综述",
+                                                  "**文献综述**",
                                                   "使用研究支持教学决策"
                                             ],
                                             [
-                                                  "项目协调",
+                                                  "**项目协调**",
                                                   "管理课程、活动和时间线"
                                             ],
                                             [
-                                                  "撰写报告",
+                                                  "**撰写报告**",
                                                   "清楚记录学生进展"
                                             ],
                                             [
-                                                  "研究多语言学习者",
+                                                  "**研究多语言学习者**",
                                                   "理解语言、文化与公平问题"
+                                            ]
+                                      ]
+                                },
+                                {
+                                      "type": "callout",
+                                      "title": "介绍研究经历时强调“你的角色”",
+                                      "lines": [
+                                            "例如：As a research assistant, I coded interview data from\nmultilingual students and identified recurring challenges related to\nclassroom participation. This experience strengthened my ability to\nlisten carefully to student perspectives and consider how classroom\nstructures affect participation."
+                                      ]
+                                },
+                                {
+                                      "type": "subheading",
+                                      "text": "志愿服务真正有价值的条件"
+                                },
+                                {
+                                      "type": "table",
+                                      "headers": [
+                                            "有价值的特征",
+                                            "判断方法"
+                                      ],
+                                      "rows": [
+                                            [
+                                                  "**持续参与**",
+                                                  "持续数周或一个学期，而不只是一次性活动。"
+                                            ],
+                                            [
+                                                  "**职责明确**",
+                                                  "负责学生小组、课程活动、家庭沟通或项目任务。"
+                                            ],
+                                            [
+                                                  "**有监督与反馈**",
+                                                  "有人观察、指导并能在了解你表现后担任推荐人。"
+                                            ],
+                                            [
+                                                  "**能够形成成果**",
+                                                  "可以保存非敏感材料、记录学生反应并形成面试案例。"
                                             ]
                                       ]
                                 }
                           ],
+                          "level": 1,
                           "anchor": "s3"
                     },
                     {
-                          "heading": "面试中如何介绍研究经历？",
+                          "heading": "四、F-1 国际学生必须注意：无薪不等于无需授权",
                           "blocks": [
                                 {
-                                      "type": "text",
-                                      "text": "不要只描述研究主题，还要说明你的角色。"
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "例如："
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "As a research assistant, I coded interview data from multilingual students and identified recurring challenges related to classroom participation. This experience strengthened my ability to listen carefully to student perspectives and consider how classroom structures affect participation."
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "这种回答把研究工作与教师岗位需要的学生理解能力连接了起来。"
-                                }
-                          ]
-                    },
-                    {
-                          "heading": "四、志愿服务是否有价值？",
-                          "blocks": [
-                                {
-                                      "type": "text",
-                                      "text": "有价值，但必须具备实际内容。"
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "招聘学校通常不会只因为“志愿者”这个身份而认可一段经历。真正重要的是你是否："
-                                },
-                                {
-                                      "type": "list",
-                                      "ordered": false,
-                                      "items": [
-                                            "持续参与",
-                                            "承担明确职责",
-                                            "与学生或教育工作者合作",
-                                            "解决具体问题",
-                                            "接受监督和反馈",
-                                            "能够说明学习成果"
+                                      "type": "callout",
+                                      "title": "重要身份提醒",
+                                      "lines": [
+                                            "职位是否需要授权，不能只看是否领取工资，也不能只看岗位名称。Volunteer、Intern、Fellow\n或 Assistant\n等名称本身，不能决定该活动是否属于合法志愿服务或就业。"
                                       ]
                                 },
                                 {
                                       "type": "text",
-                                      "text": "例如，偶尔参加一次文化活动，可以作为补充经历；持续一个学期负责学生小组、课程活动或家庭沟通，则更容易成为面试中的完整案例。"
+                                      "text": "在开始任何校外实习、辅导、研究、志愿服务或教学活动前，应把完整职位描述交给学校 DSO，并说明薪酬、学分、每周时间、工作地点和具体职责。"
+                                },
+                                {
+                                      "type": "flowchart",
+                                      "steps": [
+                                            {
+                                                  "number": "1",
+                                                  "title": "准备完整信息",
+                                                  "desc": "保存职位描述、Offer Letter、工作地点、每周时间、是否有薪和是否获得学分。"
+                                            },
+                                            {
+                                                  "number": "2",
+                                                  "title": "先联系 DSO",
+                                                  "desc": "询问该活动是否需要 CPT、OPT 或其他授权，以及学校的课程和申请要求。"
+                                            },
+                                            {
+                                                  "number": "3",
+                                                  "title": "获得批准后再开始",
+                                                  "desc": "确认 I-20、EAD 或其他必要文件上的雇主、日期和工作范围。"
+                                            },
+                                            {
+                                                  "number": "4",
+                                                  "title": "保存全部记录",
+                                                  "desc": "保留 Offer Letter、I-20、EAD、培训和背景审查文件。"
+                                            }
+                                      ]
+                                },
+                                {
+                                      "type": "callout",
+                                      "title": "不要照搬同学的情况",
+                                      "lines": [
+                                            "不同学校可能有不同的 CPT\n课程、学分与申请流程。朋友或同学的经历不能代替 DSO\n对你个人记录作出的判断。"
+                                      ]
                                 }
                           ],
+                          "level": 1,
                           "anchor": "s4"
                     },
                     {
-                          "heading": "选择志愿机会前，可以询问：",
-                          "blocks": [
-                                {
-                                      "type": "list",
-                                      "ordered": false,
-                                      "items": [
-                                            "我的具体职责是什么？",
-                                            "是否会直接接触学生？",
-                                            "是否有人提供指导？",
-                                            "是否可以观察课堂或参与备课？",
-                                            "每周需要多少时间？",
-                                            "项目将持续多久？",
-                                            "是否可以获得反馈或推荐？",
-                                            "我是否需要完成背景审查或培训？"
-                                      ]
-                                }
-                          ]
-                    },
-                    {
-                          "heading": "五、国际学生必须注意：无薪不等于无需授权",
+                          "heading": "五、CPT、OPT 与校内工作的基本区别",
                           "blocks": [
                                 {
                                       "type": "text",
-                                      "text": "分享会课件提到，可以按照“有薪”和“无薪”对机会进行分类。这个思路有助于整理职位，但在F-1身份问题上，仅看是否领取工资并不够。"
+                                      "text": "下面的对照表只用于理解概念，不能代替学校 DSO 或专业法律意见。"
                                 },
-                                {
-                                      "type": "text",
-                                      "text": "美国国土安全部对“志愿者”的解释指出，F-1或M-1学生可以参与真正的志愿服务；但如果该岗位通常应该由雇主正式聘人完成，学生仍然需要取得适当的工作授权。"
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "因此："
-                                },
-                                {
-                                      "type": "list",
-                                      "ordered": false,
-                                      "items": [
-                                            "无薪实习不一定自动属于志愿服务",
-                                            "不领取工资也可能被视为工作",
-                                            "“Volunteer”“Intern”“Fellow”或“Assistant”等职位名称不能单独决定是否需要授权",
-                                            "学分、工作职责、雇主类型和岗位性质都可能影响判断"
-                                      ]
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "美国劳工部也使用“主要受益人测试”等因素判断营利性机构的无薪实习是否属于合法的教育实习，包括培训性质、是否与正式课程相关、是否适应学校时间、是否取代正式员工等。具体情况需要结合岗位实际判断。"
-                                }
-                          ],
-                          "anchor": "s5"
-                    },
-                    {
-                          "heading": "最安全的做法",
-                          "blocks": [
-                                {
-                                      "type": "text",
-                                      "text": "在开始任何校外实习、辅导、研究、志愿服务或教学活动前："
-                                },
-                                {
-                                      "type": "list",
-                                      "ordered": true,
-                                      "items": [
-                                            "把完整职位描述发给学校的DSO",
-                                            "说明是否有薪、是否获得学分、每周工作时间和工作地点",
-                                            "询问是否需要CPT、OPT或其他授权",
-                                            "获得必要批准后再开始",
-                                            "保存Offer Letter、I-20、EAD和相关记录"
-                                      ]
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "DHS明确提醒F-1学生，在决定工作时应首先联系自己的DSO；未经授权的工作可能导致SEVIS记录被终止。"
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "不同学校可能有自己的CPT课程、学分和申请流程。朋友或同学的情况不能代替DSO根据你个人记录作出的判断。"
-                                }
-                          ]
-                    },
-                    {
-                          "heading": "六、CPT和OPT的基本区别",
-                          "blocks": [
-                                {
-                                      "type": "text",
-                                      "text": "以下内容仅用于帮助理解概念，不能代替学校DSO或专业法律意见。"
-                                }
-                          ],
-                          "anchor": "s6"
-                    },
-                    {
-                          "heading": "CPT：Curricular Practical Training",
-                          "blocks": [
-                                {
-                                      "type": "text",
-                                      "text": "CPT通常用于课程期间，与专业课程或项目要求直接相关的实习、合作教育或实践。"
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "USCIS说明，CPT必须是既定课程体系中的组成部分，由学校DSO批准并记录在Form I-20上。学生不能早于I-20所注明的CPT开始日期工作。CPT可以是兼职或全职；累计一年或以上的全职CPT会影响同一学历层级的Post-completion OPT资格。"
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "常见特点包括："
-                                },
-                                {
-                                      "type": "list",
-                                      "ordered": false,
-                                      "items": [
-                                            "在完成学位前使用",
-                                            "与专业和课程直接相关",
-                                            "通常需要具体雇主和Offer",
-                                            "由学校DSO授权",
-                                            "可能需要注册实习课程或获得学分",
-                                            "必须在批准日期和雇主范围内进行"
-                                      ]
-                                }
-                          ]
-                    },
-                    {
-                          "heading": "OPT：Optional Practical Training",
-                          "blocks": [
-                                {
-                                      "type": "text",
-                                      "text": "OPT是与专业领域直接相关的实践工作授权，可以在毕业前或毕业后使用。"
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "USCIS说明，OPT需要DSO推荐，并由学生向USCIS提交Form I-765；学生获得有效EAD并到达授权开始日期后才能开始相关工作。一般OPT可以提供最多12个月的实践时间。"
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "Post-completion OPT期间，工作必须与所学专业直接相关。普通OPT可以包括符合劳动法规的无薪实习或志愿形式，但仍需满足OPT的专业相关性和工作时间要求。"
-                                }
-                          ]
-                    },
-                    {
-                          "heading": "On-campus Employment",
-                          "blocks": [
-                                {
-                                      "type": "text",
-                                      "text": "符合条件的F-1学生可以从事校内工作。学期期间通常每周不能超过20小时，学校放假期间可以全职工作。校内岗位的具体资格仍应先与DSO确认。"
-                                }
-                          ]
-                    },
-                    {
-                          "heading": "一张简化对照表",
-                          "blocks": [
                                 {
                                       "type": "table",
                                       "headers": [
                                             "类型",
                                             "常见时间",
-                                            "核心要求",
-                                            "谁批准"
+                                            "核心要求与审批"
                                       ],
                                       "rows": [
                                             [
-                                                  "On-campus Employment",
+                                                  "**On-campus Employment**",
                                                   "在校期间",
-                                                  "符合校内工作定义和工时要求",
-                                                  "学校/DSO确认"
+                                                  "符合校内工作定义和工时要求；先由学校或 DSO 确认。"
                                             ],
                                             [
-                                                  "CPT",
+                                                  "**CPT**",
                                                   "完成学位前",
-                                                  "与课程体系及专业直接相关",
-                                                  "DSO"
+                                                  "与课程体系和专业直接相关；由 DSO 授权并记录在 Form I-20 上。"
                                             ],
                                             [
-                                                  "Pre-completion OPT",
+                                                  "**Pre-completion OPT**",
                                                   "完成学位前",
-                                                  "与专业直接相关",
-                                                  "DSO推荐＋USCIS"
+                                                  "与专业直接相关；DSO 推荐后向 USCIS 申请。"
                                             ],
                                             [
-                                                  "Post-completion OPT",
+                                                  "**Post-completion OPT**",
                                                   "毕业后",
-                                                  "与专业直接相关",
-                                                  "DSO推荐＋USCIS"
+                                                  "与专业直接相关；获得有效 EAD 并到达授权日期后开始。"
                                             ],
                                             [
-                                                  "真正的志愿服务",
+                                                  "**真正的志愿服务**",
                                                   "视情况而定",
-                                                  "无报酬，且岗位性质不能构成未经授权的就业",
-                                                  "应先咨询DSO"
+                                                  "无报酬且岗位性质不能构成未经授权就业；应先咨询 DSO。"
                                             ]
                                       ]
-                                }
-                          ]
-                    },
-                    {
-                          "heading": "七、从哪里寻找教育和教学机会？",
-                          "blocks": [
-                                {
-                                      "type": "text",
-                                      "text": "EduVenture分享会列出的渠道包括："
                                 },
                                 {
-                                      "type": "list",
-                                      "ordered": false,
-                                      "items": [
-                                            "Handshake",
-                                            "院系教授和项目邮件",
-                                            "学校或院系Listserv",
-                                            "LinkedIn",
-                                            "Indeed",
-                                            "实习导师和Placement Mentor",
-                                            "校友和教师社群",
-                                            "志愿者项目",
-                                            "专业协会和教育机构"
+                                      "type": "callout",
+                                      "title": "CPT 提醒",
+                                      "lines": [
+                                            "CPT 必须在获批日期和雇主范围内进行。累计一年或以上的全职\nCPT，可能影响同一学历层级的 Post-completion OPT 资格。"
                                       ]
                                 },
                                 {
-                                      "type": "text",
-                                      "text": "分享会也建议提前关注部分大型教育组织和研究机构的暑期申请窗口，因为部分项目会在冬季至初春截止。"
+                                      "type": "callout",
+                                      "title": "OPT 提醒",
+                                      "lines": [
+                                            "OPT\n工作必须与所学专业直接相关。即使是无薪实习或志愿形式，也要满足相应的专业相关性、工作时间和记录要求。"
+                                      ]
                                 }
                           ],
-                          "anchor": "s7"
+                          "level": 1,
+                          "anchor": "s5"
                     },
                     {
-                          "heading": "1. 学校内部渠道",
+                          "heading": "六、从哪里寻找教育和教学机会？",
                           "blocks": [
                                 {
-                                      "type": "text",
-                                      "text": "优先查看："
-                                },
-                                {
-                                      "type": "list",
-                                      "ordered": false,
-                                      "items": [
-                                            "Career Center",
-                                            "Handshake",
-                                            "教育学院Newsletter",
-                                            "教授转发的机会",
-                                            "Department Listserv",
-                                            "Research Center",
-                                            "校内工作平台",
-                                            "Student Teaching Office",
-                                            "International Student Office"
+                                      "type": "table",
+                                      "headers": [
+                                            "渠道",
+                                            "使用方式"
+                                      ],
+                                      "rows": [
+                                            [
+                                                  "**学校内部**",
+                                                  "Career Center、Handshake、学院 Newsletter、Department Listserv、Research Center、Student Teaching Office 和校内工作平台。"
+                                            ],
+                                            [
+                                                  "**教授与研究团队**",
+                                                  "结合教授的具体项目发送邮件，说明专业、兴趣、可贡献技能和每周可投入时间。"
+                                            ],
+                                            [
+                                                  "**社区组织**",
+                                                  "联系中文学校、课后项目、非营利机构、图书馆、博物馆和暑期项目，询问 Tutor、助教或课程支持机会。"
+                                            ],
+                                            [
+                                                  "**公开平台**",
+                                                  "LinkedIn、Indeed、专业协会和教育机构网站。"
+                                            ],
+                                            [
+                                                  "**专业人脉**",
+                                                  "实习导师、Placement Mentor、校友、项目负责人、教师社群和社区成员。"
+                                            ]
                                       ]
                                 },
                                 {
-                                      "type": "text",
-                                      "text": "学校内部机会通常更容易确认："
-                                },
-                                {
-                                      "type": "list",
-                                      "ordered": false,
-                                      "items": [
-                                            "是否与课程相关",
-                                            "是否能够申请CPT",
-                                            "是否有教师或研究人员监督",
-                                            "是否能够获得推荐"
+                                      "type": "callout",
+                                      "title": "主动联系教授的邮件需要具体",
+                                      "lines": [
+                                            "说明你是谁、专业与研究兴趣、关注教授的哪项工作、你可以贡献什么技能、每周可投入多少时间，并附上\nResume 或 CV。"
                                       ]
-                                }
-                          ]
-                    },
-                    {
-                          "heading": "2. 主动联系教授",
-                          "blocks": [
-                                {
-                                      "type": "text",
-                                      "text": "不要只发送一句："
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "Do you have any opportunities?"
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "更有效的邮件应包括："
-                                },
-                                {
-                                      "type": "list",
-                                      "ordered": false,
-                                      "items": [
-                                            "你是谁",
-                                            "你的专业和研究兴趣",
-                                            "你对教授哪项工作感兴趣",
-                                            "你可以贡献什么技能",
-                                            "你每周可以投入多少时间",
-                                            "附上Resume或CV"
-                                      ]
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "例如："
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "I am a TESOL master’s student interested in multilingual education and classroom participation. I recently read about your project on bilingual learners and would be interested in supporting literature review, interview coding or classroom-based data collection. I have experience with qualitative coding and Mandarin-English bilingual communication."
-                                }
-                          ]
-                    },
-                    {
-                          "heading": "3. 主动联系社区组织",
-                          "blocks": [
-                                {
-                                      "type": "text",
-                                      "text": "社区学校、中文学校、课后项目和非营利机构不一定会持续发布正式职位。"
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "可以发送简短邮件询问："
-                                },
-                                {
-                                      "type": "list",
-                                      "ordered": false,
-                                      "items": [
-                                            "是否需要Tutor",
-                                            "是否招募课堂助教",
-                                            "是否有周末或暑期项目",
-                                            "是否需要课程或文化活动支持",
-                                            "是否接受经过审核的志愿者"
-                                      ]
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "在接受任何职责前，仍应核对工作授权和背景审查要求。"
-                                }
-                          ]
-                    },
-                    {
-                          "heading": "4. 建立专业人脉",
-                          "blocks": [
-                                {
-                                      "type": "text",
-                                      "text": "分享会把以下关系列为可能带来机会的重要来源："
-                                },
-                                {
-                                      "type": "list",
-                                      "ordered": false,
-                                      "items": [
-                                            "Placement Mentor",
-                                            "实习和志愿项目负责人",
-                                            "大学教授",
-                                            "校友",
-                                            "学生家长和社区成员",
-                                            "面试或活动中认识的教师",
-                                            "专业微信群和其他教师社群"
-                                      ]
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "Networking的目标不只是获得“内推”，还包括："
-                                },
-                                {
-                                      "type": "list",
-                                      "ordered": false,
-                                      "items": [
-                                            "了解真实招聘时间",
-                                            "学习行业表达",
-                                            "获得项目反馈",
-                                            "认识潜在推荐人",
-                                            "发现没有公开发布的机会"
-                                      ]
-                                }
-                          ]
-                    },
-                    {
-                          "heading": "八、怎样选择真正有价值的机会？",
-                          "blocks": [
-                                {
-                                      "type": "text",
-                                      "text": "面对一个实习、志愿或兼职机会，可以从五个维度评估。"
-                                }
-                          ],
-                          "anchor": "s8"
-                    },
-                    {
-                          "heading": "1. 专业相关性",
-                          "blocks": [
-                                {
-                                      "type": "text",
-                                      "text": "它是否与你未来想申请的职位有关？"
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "例如："
-                                },
-                                {
-                                      "type": "list",
-                                      "ordered": false,
-                                      "items": [
-                                            "中文教学",
-                                            "ENL/TESOL",
-                                            "双语教育",
-                                            "特殊教育",
-                                            "课程设计",
-                                            "学生支持",
-                                            "教育研究"
-                                      ]
-                                }
-                          ]
-                    },
-                    {
-                          "heading": "2. 实际职责",
-                          "blocks": [
-                                {
-                                      "type": "text",
-                                      "text": "你会完成什么？"
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "“帮助老师”过于模糊。更有价值的职责包括："
-                                },
-                                {
-                                      "type": "list",
-                                      "ordered": false,
-                                      "items": [
-                                            "设计活动",
-                                            "教授小组",
-                                            "提供反馈",
-                                            "分析学生作品",
-                                            "观察并记录学习表现",
-                                            "参与备课",
-                                            "制作课程材料",
-                                            "与项目团队合作"
-                                      ]
-                                }
-                          ]
-                    },
-                    {
-                          "heading": "3. 监督与反馈",
-                          "blocks": [
-                                {
-                                      "type": "text",
-                                      "text": "是否有人："
-                                },
-                                {
-                                      "type": "list",
-                                      "ordered": false,
-                                      "items": [
-                                            "观察你的工作",
-                                            "回答问题",
-                                            "提供反馈",
-                                            "帮助你反思",
-                                            "在了解你表现后担任推荐人"
-                                      ]
-                                }
-                          ]
-                    },
-                    {
-                          "heading": "4. 持续时间",
-                          "blocks": [
-                                {
-                                      "type": "text",
-                                      "text": "一次性活动适合扩大接触面；持续数周或一个学期的项目更容易形成："
-                                },
-                                {
-                                      "type": "list",
-                                      "ordered": false,
-                                      "items": [
-                                            "具体成果",
-                                            "学生进步证据",
-                                            "完整教学案例",
-                                            "稳定专业关系"
-                                      ]
-                                }
-                          ]
-                    },
-                    {
-                          "heading": "5. 身份与时间可行性",
-                          "blocks": [
-                                {
-                                      "type": "text",
-                                      "text": "确认："
-                                },
-                                {
-                                      "type": "list",
-                                      "ordered": false,
-                                      "items": [
-                                            "是否允许你的身份参与",
-                                            "是否需要CPT或OPT",
-                                            "是否与课程时间冲突",
-                                            "通勤是否合理",
-                                            "工作量是否会影响学业",
-                                            "背景审查能否及时完成"
-                                      ]
-                                }
-                          ]
-                    },
-                    {
-                          "heading": "九、如何把中国或其他国家的教学经历转化为优势？",
-                          "blocks": [
-                                {
-                                      "type": "text",
-                                      "text": "国际申请者不需要隐藏国内教学经历。"
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "EduVenture分享会明确建议，求职者可以介绍中国或其他教育环境中的相关经验，更全面地呈现自己的能力。"
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "重点是避免只描述职位名称，而要说明可迁移能力。"
-                                }
-                          ],
-                          "anchor": "s9"
-                    },
-                    {
-                          "heading": "示例一：大班教学",
-                          "blocks": [
-                                {
-                                      "type": "text",
-                                      "text": "原始表达："
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "在中国教过40人的英语班。"
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "转化后："
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "Managed classes of more than 40 students by establishing clear routines, structuring collaborative tasks and using quick formative checks to monitor participation and understanding."
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "可体现："
-                                },
-                                {
-                                      "type": "list",
-                                      "ordered": false,
-                                      "items": [
-                                            "Classroom Management",
-                                            "Routines",
-                                            "Collaborative Learning",
-                                            "Formative Assessment"
-                                      ]
-                                }
-                          ]
-                    },
-                    {
-                          "heading": "示例二：培训机构",
-                          "blocks": [
-                                {
-                                      "type": "text",
-                                      "text": "原始表达："
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "在培训机构教过中文。"
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "转化后："
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "Designed differentiated Mandarin lessons for learners with varied proficiency levels and communicated regularly with families about learning goals and progress."
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "可体现："
-                                },
-                                {
-                                      "type": "list",
-                                      "ordered": false,
-                                      "items": [
-                                            "Differentiation",
-                                            "Lesson Planning",
-                                            "Family Communication",
-                                            "Progress Monitoring"
-                                      ]
-                                }
-                          ]
-                    },
-                    {
-                          "heading": "示例三：文化活动",
-                          "blocks": [
-                                {
-                                      "type": "text",
-                                      "text": "原始表达："
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "组织过春节活动。"
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "转化后："
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "Coordinated a schoolwide Lunar New Year program, supervised student teams and designed interactive cultural activities for participants from different language backgrounds."
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "可体现："
-                                },
-                                {
-                                      "type": "list",
-                                      "ordered": false,
-                                      "items": [
-                                            "Leadership",
-                                            "Project Management",
-                                            "Student Engagement",
-                                            "Cross-cultural Communication"
-                                      ]
-                                }
-                          ]
-                    },
-                    {
-                          "heading": "十、积累经历时需要保存什么？",
-                          "blocks": [
-                                {
-                                      "type": "text",
-                                      "text": "每完成一段经历，建议保存以下记录："
-                                },
-                                {
-                                      "type": "list",
-                                      "ordered": false,
-                                      "items": [
-                                            "项目名称和机构",
-                                            "开始与结束日期",
-                                            "每周投入时间",
-                                            "学生年龄和群体",
-                                            "具体职责",
-                                            "设计过的Lesson Plan",
-                                            "教学或项目材料",
-                                            "获得的反馈",
-                                            "学生学习证据",
-                                            "可以量化的成果",
-                                            "主管或推荐人信息",
-                                            "工作授权文件",
-                                            "背景审查和培训记录"
-                                      ]
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "不要等到毕业求职时再回忆所有细节。"
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "可以在每次活动后记录："
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "今天我做了什么？学生有什么反应？我遇到了什么困难？我进行了什么调整？这段经历可以回答哪一道面试问题？"
-                                }
-                          ],
-                          "anchor": "s10"
-                    },
-                    {
-                          "heading": "十一、如何把经历写进Resume？",
-                          "blocks": [
-                                {
-                                      "type": "text",
-                                      "text": "Resume中的经历可以采用以下公式："
-                                }
-                          ],
-                          "anchor": "s11"
-                    },
-                    {
-                          "heading": "Action Verb + What You Did + Who You Served + Method + Result",
-                          "blocks": [
-                                {
-                                      "type": "text",
-                                      "text": "例如："
-                                },
-                                {
-                                      "type": "list",
-                                      "ordered": false,
-                                      "items": [
-                                            "Designed and taught weekly beginner Mandarin lessons for 18 middle"
-                                      ]
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "school students using visual supports, sentence frames and collaborative speaking tasks."
-                                },
-                                {
-                                      "type": "list",
-                                      "ordered": false,
-                                      "items": [
-                                            "Facilitated small-group literacy instruction for multilingual learners"
-                                      ]
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "and adjusted activities based on formative assessment data."
-                                },
-                                {
-                                      "type": "list",
-                                      "ordered": false,
-                                      "items": [
-                                            "Analyzed qualitative interview data for a bilingual education research"
-                                      ]
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "project and presented key findings to the research team."
-                                },
-                                {
-                                      "type": "list",
-                                      "ordered": false,
-                                      "items": [
-                                            "Coordinated family-facing cultural events serving more than 100"
-                                      ]
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "students and community members."
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "避免使用过于宽泛的描述："
-                                },
-                                {
-                                      "type": "list",
-                                      "ordered": false,
-                                      "items": [
-                                            "Helped students",
-                                            "Assisted the teacher",
-                                            "Participated in activities",
-                                            "Responsible for lesson plans"
-                                      ]
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "这些表达没有说明你具体做了什么。"
-                                }
-                          ]
-                    },
-                    {
-                          "heading": "十二、如何把经历用于面试？",
-                          "blocks": [
-                                {
-                                      "type": "text",
-                                      "text": "一段经历可以对应多道面试问题。"
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "例如，在课后项目中帮助一名不愿参与的学生，可以用于回答："
-                                },
-                                {
-                                      "type": "list",
-                                      "ordered": false,
-                                      "items": [
-                                            "How do you build relationships with students?",
-                                            "How do you respond when a student refuses to participate?",
-                                            "How do you differentiate instruction?",
-                                            "Tell us about a challenge you faced.",
-                                            "How do you reflect on your teaching?"
-                                      ]
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "可以提前为每段经历填写："
                                 },
                                 {
                                       "type": "table",
                                       "headers": [
-                                            "项目",
-                                            "内容"
+                                            "过于笼统",
+                                            "Do you have any opportunities?"
                                       ],
                                       "rows": [
                                             [
-                                                  "Situation",
-                                                  "当时发生了什么？"
-                                            ],
-                                            [
-                                                  "Student Need",
-                                                  "学生需要什么支持？"
-                                            ],
-                                            [
-                                                  "Action",
-                                                  "你具体做了什么？"
-                                            ],
-                                            [
-                                                  "Evidence",
-                                                  "你如何知道策略是否有效？"
-                                            ],
-                                            [
-                                                  "Reflection",
-                                                  "下一次会怎样调整？"
-                                            ],
-                                            [
-                                                  "Interview Questions",
-                                                  "这段经历可以回答哪些问题？"
+                                                  "**更有效**",
+                                                  "I am a TESOL master’s student interested in multilingual education and classroom participation. I would be interested in supporting literature review, interview coding or classroom-based data collection. I have experience with qualitative coding and Mandarin-English bilingual communication."
                                             ]
                                       ]
                                 }
                           ],
-                          "anchor": "s12"
+                          "level": 1,
+                          "anchor": "s6"
+                    },
+                    {
+                          "heading": "七、怎样选择真正有价值的机会？",
+                          "blocks": [
+                                {
+                                      "type": "text",
+                                      "text": "面对一个实习、志愿或兼职机会，可以从以下五个维度快速评估。"
+                                },
+                                {
+                                      "type": "flowchart",
+                                      "steps": [
+                                            {
+                                                  "number": "1",
+                                                  "title": "专业相关性",
+                                                  "desc": "是否与你未来希望申请的学科、年龄段或教育岗位有关？"
+                                            },
+                                            {
+                                                  "number": "2",
+                                                  "title": "实际职责",
+                                                  "desc": "你会设计活动、教授小组、提供反馈、分析作品，还是只做模糊的“协助”？"
+                                            },
+                                            {
+                                                  "number": "3",
+                                                  "title": "监督与反馈",
+                                                  "desc": "是否有人观察、指导、回答问题，并可能成为推荐人？"
+                                            },
+                                            {
+                                                  "number": "4",
+                                                  "title": "持续时间",
+                                                  "desc": "是否足以形成具体成果、学生进步证据和完整教学案例？"
+                                            },
+                                            {
+                                                  "number": "5",
+                                                  "title": "身份与时间可行性",
+                                                  "desc": "是否符合工作授权要求？课程、通勤、工作量和背景审查是否可行？"
+                                            }
+                                      ]
+                                },
+                                {
+                                      "type": "callout",
+                                      "title": "一个简单判断标准",
+                                      "lines": [
+                                            "优先选择：合法可参与 + 职责清楚 + 能直接练习专业能力 + 有监督反馈 +\n能形成证据的机会。"
+                                      ]
+                                }
+                          ],
+                          "level": 1,
+                          "anchor": "s7"
+                    },
+                    {
+                          "heading": "八、如何把中国或其他国家的经历转化为优势？",
+                          "blocks": [
+                                {
+                                      "type": "text",
+                                      "text": "国际申请者不需要隐藏海外经历。重点是从职位名称转向可迁移能力，并使用美国招聘团队熟悉的专业语言。"
+                                },
+                                {
+                                      "type": "table",
+                                      "headers": [
+                                            "原始经历",
+                                            "转化后的表达重点",
+                                            "可体现能力"
+                                      ],
+                                      "rows": [
+                                            [
+                                                  "**在中国教过40人的英语班**",
+                                                  "建立清晰常规、组织合作任务，并用快速形成性检查监测参与和理解。",
+                                                  "Classroom Management、Routines、Collaborative Learning、Formative Assessment"
+                                            ],
+                                            [
+                                                  "**在培训机构教过中文**",
+                                                  "为不同水平学习者设计差异化课程，并定期与家庭沟通学习目标和进展。",
+                                                  "Differentiation、Lesson Planning、Family Communication、Progress Monitoring"
+                                            ],
+                                            [
+                                                  "**组织过春节活动**",
+                                                  "协调全校文化项目、监督学生团队，并为不同语言背景的参与者设计互动活动。",
+                                                  "Leadership、Project Management、Student Engagement、Cross-cultural Communication"
+                                            ]
+                                      ]
+                                },
+                                {
+                                      "type": "callout",
+                                      "title": "转化公式",
+                                      "lines": [
+                                            "经历背景 + 具体行动 + 使用的方法 + 服务对象 + 可观察结果"
+                                      ]
+                                }
+                          ],
+                          "level": 1,
+                          "anchor": "s8"
+                    },
+                    {
+                          "heading": "九、积累经历时需要保存什么？",
+                          "blocks": [
+                                {
+                                      "type": "table",
+                                      "headers": [
+                                            "记录类别",
+                                            "建议保存的内容"
+                                      ],
+                                      "rows": [
+                                            [
+                                                  "**基本信息**",
+                                                  "机构、项目名称、开始与结束日期、每周投入时间、主管信息。"
+                                            ],
+                                            [
+                                                  "**服务对象**",
+                                                  "学生年龄、语言背景、班级规模和学习需求。"
+                                            ],
+                                            [
+                                                  "**职责与材料**",
+                                                  "Lesson Plan、课程材料、活动设计、会议记录和非敏感成果。"
+                                            ],
+                                            [
+                                                  "**证据与反思**",
+                                                  "学生反应、学习证据、主管反馈、具体调整和可量化成果。"
+                                            ],
+                                            [
+                                                  "**合规文件**",
+                                                  "工作授权、I-20、EAD、Offer Letter、背景审查和培训记录。"
+                                            ]
+                                      ]
+                                },
+                                {
+                                      "type": "callout",
+                                      "title": "每次活动后快速记录",
+                                      "lines": [
+                                            "今天我做了什么？学生有什么反应？我遇到了什么困难？我进行了什么调整？这段经历可以回答哪一道面试问题？"
+                                      ]
+                                }
+                          ],
+                          "level": 1,
+                          "anchor": "s9"
+                    },
+                    {
+                          "heading": "十、如何把经历写进 Resume？",
+                          "blocks": [
+                                {
+                                      "type": "callout",
+                                      "title": "Resume 公式",
+                                      "lines": [
+                                            "Action Verb + What You Did + Who You Served + Method +\nResult"
+                                      ]
+                                },
+                                {
+                                      "type": "table",
+                                      "headers": [
+                                            "较弱表达",
+                                            "更有信息量的表达"
+                                      ],
+                                      "rows": [
+                                            [
+                                                  "**Helped students**",
+                                                  "Facilitated small-group literacy instruction for multilingual learners and adjusted activities based on formative assessment data."
+                                            ],
+                                            [
+                                                  "**Assisted the teacher**",
+                                                  "Designed and taught weekly beginner Mandarin lessons for 18 middle school students using visual supports, sentence frames and collaborative speaking tasks."
+                                            ],
+                                            [
+                                                  "**Participated in activities**",
+                                                  "Coordinated family-facing cultural events serving more than 100 students and community members."
+                                            ],
+                                            [
+                                                  "**Responsible for research tasks**",
+                                                  "Analyzed qualitative interview data for a bilingual education research project and presented key findings to the research team."
+                                            ]
+                                      ]
+                                }
+                          ],
+                          "level": 1,
+                          "anchor": "s10"
+                    },
+                    {
+                          "heading": "十一、如何把经历用于面试？",
+                          "blocks": [
+                                {
+                                      "type": "text",
+                                      "text": "一段经历可以回答多道面试题。可以提前把每个项目整理成一张“案例卡”。"
+                                },
+                                {
+                                      "type": "table",
+                                      "headers": [
+                                            "案例卡字段",
+                                            "需要准备的内容"
+                                      ],
+                                      "rows": [
+                                            [
+                                                  "**Situation**",
+                                                  "当时发生了什么？"
+                                            ],
+                                            [
+                                                  "**Student Need**",
+                                                  "学生需要什么支持？"
+                                            ],
+                                            [
+                                                  "**Action**",
+                                                  "你具体做了什么？"
+                                            ],
+                                            [
+                                                  "**Evidence**",
+                                                  "你如何知道策略是否有效？"
+                                            ],
+                                            [
+                                                  "**Reflection**",
+                                                  "下一次会怎样调整？"
+                                            ],
+                                            [
+                                                  "**Interview Questions**",
+                                                  "这段经历可以回答哪些问题？"
+                                            ]
+                                      ]
+                                },
+                                {
+                                      "type": "callout",
+                                      "title": "一段课后项目经历可以对应的问题",
+                                      "lines": [
+                                            "How do you build relationships with students? / How do you respond\nwhen a student refuses to participate? / How do you differentiate\ninstruction? / Tell us about a challenge you faced. / How do you reflect\non your teaching?"
+                                      ]
+                                }
+                          ],
+                          "level": 1,
+                          "anchor": "s11"
                     },
                     {
                           "heading": "教育经验积累行动清单",
-                          "blocks": []
-                    },
-                    {
-                          "heading": "开始寻找前",
                           "blocks": [
                                 {
-                                      "type": "list",
-                                      "ordered": false,
+                                      "type": "checklist",
+                                      "title": "开始寻找前",
                                       "items": [
                                             "明确未来希望教授的科目和年龄段",
                                             "盘点已有教学、研究和活动经历",
-                                            "更新Resume或CV",
-                                            "确认F-1身份和工作授权要求",
-                                            "联系DSO了解CPT、OPT和校内工作规定",
+                                            "更新 Resume 或 CV",
+                                            "确认 F-1 身份和工作授权要求",
+                                            "联系 DSO 了解 CPT、OPT 和校内工作规定",
                                             "准备简短的机会询问邮件"
                                       ]
-                                }
-                          ]
-                    },
-                    {
-                          "heading": "评估机会时",
-                          "blocks": [
+                                },
                                 {
-                                      "type": "list",
-                                      "ordered": false,
+                                      "type": "checklist",
+                                      "title": "评估机会时",
                                       "items": [
-                                            "阅读完整职位描述",
-                                            "确认具体职责",
+                                            "阅读完整职位描述并确认具体职责",
                                             "确认是否直接接触学生",
                                             "确认是否有指导和反馈",
-                                            "确认时间和通勤是否可行",
-                                            "确认是否需要CPT、OPT或其他授权",
+                                            "确认时间、通勤和学业是否可行",
+                                            "确认是否需要 CPT、OPT 或其他授权",
                                             "了解背景审查和培训要求"
                                       ]
-                                }
-                          ]
-                    },
-                    {
-                          "heading": "参与过程中",
-                          "blocks": [
+                                },
                                 {
-                                      "type": "list",
-                                      "ordered": false,
+                                      "type": "checklist",
+                                      "title": "参与过程中",
                                       "items": [
                                             "主动观察并记录",
                                             "争取承担具体任务",
                                             "定期寻求反馈",
-                                            "保存Lesson Plan和非敏感成果",
+                                            "保存 Lesson Plan 和非敏感成果",
                                             "保护学生隐私",
                                             "与主管和同事建立专业关系"
                                       ]
-                                }
-                          ]
-                    },
-                    {
-                          "heading": "结束后",
-                          "blocks": [
+                                },
                                 {
-                                      "type": "list",
-                                      "ordered": false,
+                                      "type": "checklist",
+                                      "title": "结束后",
                                       "items": [
                                             "总结职责和成果",
-                                            "更新Resume",
+                                            "更新 Resume",
                                             "整理面试案例",
                                             "请求反馈或推荐",
                                             "保持适当联系",
                                             "记录这段经历对职业方向的影响"
                                       ]
                                 }
-                          ]
+                          ],
+                          "level": 1,
+                          "anchor": "s12"
                     },
                     {
                           "heading": "最后的建议",
                           "blocks": [
                                 {
                                       "type": "text",
-                                      "text": "国际学生积累美国教育经验时，不需要等待一个“完美实习”。"
+                                      "text": "国际学生不需要等待一个“完美实习”。更有效的方法，是从合法可参与、职责清楚并能够获得反馈的机会开始，逐步建立自己的经验组合。"
                                 },
                                 {
-                                      "type": "text",
-                                      "text": "更有效的方法是，从可以合法参与、职责清楚并能够获得反馈的机会开始，逐步建立自己的经验组合："
-                                },
-                                {
-                                      "type": "list",
-                                      "ordered": false,
-                                      "items": [
-                                            "一段直接教学经历",
-                                            "一段学生支持或社区经历",
-                                            "一段研究或课程设计经历",
-                                            "一位真正了解你工作的推荐人",
-                                            "几个可以用于Resume和面试的具体案例"
+                                      "type": "table",
+                                      "headers": [
+                                            "建议组合",
+                                            "目标"
+                                      ],
+                                      "rows": [
+                                            [
+                                                  "**一段直接教学经历**",
+                                                  "证明你能设计、实施和调整教学。"
+                                            ],
+                                            [
+                                                  "**一段学生支持或社区经历**",
+                                                  "证明你能建立关系并理解学习者需求。"
+                                            ],
+                                            [
+                                                  "**一段研究或课程设计经历**",
+                                                  "证明你能分析、规划并使用证据。"
+                                            ],
+                                            [
+                                                  "**一位真正了解你工作的推荐人**",
+                                                  "为你的专业表现提供可信支持。"
+                                            ],
+                                            [
+                                                  "**几个具体案例**",
+                                                  "可以直接用于 Resume、面试和 Teaching Portfolio。"
+                                            ]
                                       ]
                                 },
                                 {
-                                      "type": "text",
-                                      "text": "一段经历的价值，不只取决于机构名称。"
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "真正重要的是你是否能够清楚说明："
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "我服务了哪些学习者？我承担了什么责任？我使用了哪些教学方法？我如何判断学生的需要和进步？我从中学到了什么？这段经历如何帮助我成为更好的教师？"
-                                },
-                                {
-                                      "type": "text",
-                                      "text": "当这些问题都有具体答案时，你就已经开始建立一套能够支持教师求职的专业证据。"
+                                      "type": "callout",
+                                      "title": "衡量一段经历价值的六个问题",
+                                      "lines": [
+                                            "我服务了哪些学习者？我承担了什么责任？我使用了哪些教学方法？我如何判断学生的需要和进步？我从中学到了什么？这段经历如何帮助我成为更好的教师？"
+                                      ]
                                 }
-                          ]
+                          ],
+                          "level": 1
                     },
                     {
                           "heading": "资料来源与免责声明",
                           "blocks": [
                                 {
                                       "type": "text",
-                                      "text": "本文根据 EduVenture“纽约教师求职分享会 Session 1”中关于教育实习、教学经验和Networking的内容整理。F-1学生就业信息参考美国国土安全部、ICE、USCIS及美国劳工部公开资料。"
+                                      "text": "本文根据 EduVenture“纽约教师求职分享会 Session 1”中关于教育实习、教学经验和 Networking 的内容整理。F-1 学生就业信息参考美国国土安全部、ICE、USCIS 及美国劳工部公开资料。"
                                 },
                                 {
                                       "type": "text",
-                                      "text": "移民身份、工作授权和劳动法规具有个案差异，也可能更新。本文仅用于一般信息分享，不构成法律意见。参与任何校外工作、实习、辅导、研究或志愿活动前，请向所在学校的DSO确认个人情况；复杂情形应咨询合格的移民法律专业人士。"
+                                      "text": "移民身份、工作授权和劳动法规具有个案差异，也可能更新。本文仅用于一般信息分享，不构成法律意见。参与任何校外工作、实习、辅导、研究或志愿活动前，请向所在学校的 DSO 确认个人情况；复杂情形应咨询合格的移民法律专业人士。"
                                 }
-                          ]
+                          ],
+                          "level": 1
                     }
               ]
         },
