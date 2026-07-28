@@ -147,13 +147,115 @@ function FaqAccordion({ article }) {
   );
 }
 
+function Callout({ title, lines }) {
+  return (
+    <div style={{ background: "#EEF2FA", border: `1px solid #DCE4F2`, borderLeft: `4px solid ${C.blue}`, borderRadius: 10, padding: "14px 16px", marginBottom: 14 }}>
+      {title && <p style={{ fontFamily: sans, fontSize: 13.5, fontWeight: 700, color: C.blue, marginBottom: 6 }}>{title}</p>}
+      {lines.map((l, i) => (
+        <p key={i} style={{ fontFamily: sans, fontSize: 13.5, lineHeight: 1.7, color: C.slate, whiteSpace: "pre-line", marginBottom: i < lines.length - 1 ? 8 : 0 }}>
+          {renderLine(l, "cl" + i)}
+        </p>
+      ))}
+    </div>
+  );
+}
+
+function Table({ headers, rows }) {
+  return (
+    <div style={{ overflowX: "auto", marginBottom: 16 }}>
+      <table style={{ width: "100%", borderCollapse: "collapse", fontSize: 13.5 }}>
+        <thead>
+          <tr>
+            {headers.map((h, i) => (
+              <th key={i} style={{ background: C.blue, color: "#fff", textAlign: "left", padding: "9px 12px", fontFamily: sans, fontWeight: 600, fontSize: 12.5 }}>{h}</th>
+            ))}
+          </tr>
+        </thead>
+        <tbody>
+          {rows.map((row, ri) => (
+            <tr key={ri} style={{ background: ri % 2 === 0 ? C.card : "#FAFBFE" }}>
+              {row.map((cell, ci) => (
+                <td key={ci} style={{ padding: "9px 12px", borderBottom: `1px solid ${C.border}`, color: C.slate, verticalAlign: "top", lineHeight: 1.6 }}>
+                  {renderLine(cell, "td" + ri + "-" + ci)}
+                </td>
+              ))}
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+  );
+}
+
+function Checklist({ items }) {
+  return (
+    <div style={{ marginBottom: 16 }}>
+      {items.map((item, i) => (
+        <div key={i} style={{ display: "flex", gap: 10, alignItems: "flex-start", marginBottom: 8 }}>
+          <span style={{ width: 15, height: 15, border: `2px solid ${C.blue}`, borderRadius: 4, flexShrink: 0, marginTop: 2 }} />
+          <span style={{ fontSize: 14, lineHeight: 1.6, color: C.slate }}>{renderLine(item, "ck" + i)}</span>
+        </div>
+      ))}
+    </div>
+  );
+}
+
+function Block({ block }) {
+  switch (block.type) {
+    case "text":
+      return <p style={{ fontSize: 14, lineHeight: 1.75, color: C.slate, marginBottom: 14 }}>{renderLine(block.text, "bt")}</p>;
+    case "subheading":
+      return <p style={{ fontFamily: sans, fontSize: 14.5, fontWeight: 700, color: C.blue, marginTop: 16, marginBottom: 8 }}>{block.text}</p>;
+    case "list":
+      return (
+        <ul style={{ margin: "0 0 14px", padding: 0, listStyle: "none" }}>
+          {block.items.map((item, i) => (
+            <li key={i} style={{ display: "flex", gap: 8, marginBottom: 6, fontSize: 14, lineHeight: 1.7, color: C.slate }}>
+              <span style={{ color: C.blue, flexShrink: 0, fontWeight: 600 }}>{block.ordered ? `${i + 1}.` : "•"}</span>
+              <span>{renderLine(item, "bl" + i)}</span>
+            </li>
+          ))}
+        </ul>
+      );
+    case "table":
+      return <Table headers={block.headers} rows={block.rows} />;
+    case "callout":
+      return <Callout title={block.title} lines={block.lines} />;
+    case "checklist":
+      return <Checklist items={block.items} />;
+    default:
+      return null;
+  }
+}
+
+function RichSection({ section }) {
+  return (
+    <div>
+      <p style={{ fontFamily: sans, fontSize: 16, fontWeight: 700, color: C.navy, marginBottom: 8 }}>{section.heading}</p>
+      {section.blocks.map((b, i) => <Block key={i} block={b} />)}
+    </div>
+  );
+}
+
 function ArticleView({ article }) {
   return (
     <div>
       <h1 style={{ fontFamily: serif, fontSize: 22, color: C.navy, marginBottom: 6 }}>{article.title}</h1>
-      <p style={{ fontFamily: sans, fontSize: 13.5, color: C.slateSoft, marginBottom: 24, lineHeight: 1.6 }}>{article.summary}</p>
+      <p style={{ fontFamily: sans, fontSize: 13.5, color: C.slateSoft, marginBottom: 20, lineHeight: 1.6 }}>{article.summary}</p>
+      {article.leadCallout && (
+        <div style={{ background: C.navy, borderRadius: 12, padding: "14px 18px", marginBottom: 24 }}>
+          {article.leadCallout.title && <p style={{ fontFamily: sans, fontSize: 12, fontWeight: 700, letterSpacing: 0.5, textTransform: "uppercase", color: "#9FB3D9", marginBottom: 6 }}>{article.leadCallout.title}</p>}
+          {article.leadCallout.lines.map((l, i) => (
+            <p key={i} style={{ fontFamily: sans, fontSize: 14, lineHeight: 1.7, color: "#fff", marginBottom: 0 }}>{renderLine(l, "lc" + i)}</p>
+          ))}
+        </div>
+      )}
       {article.faqs ? (
         <FaqAccordion article={article} />
+      ) : article.sections[0] && article.sections[0].blocks ? (
+        <div className="flex flex-col gap-6">
+          {article.sections.map((s, i) => <RichSection key={i} section={s} />)}
+        </div>
       ) : (
         <div className="flex flex-col gap-5">
           {article.sections.map((s, i) => (

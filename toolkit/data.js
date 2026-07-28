@@ -24,103 +24,335 @@ window.TOOLKIT = {
       "label": "Getting Started (求职准备)",
       "articles": [
         {
-          "id": "job-search-basics",
-          "title": "纽约教师求职入门：从确定方向、筛选学校到主动联系",
-          "summary": "从确定教学方向、筛选学校，到主动联系招聘负责人的完整入门指南。",
-          "sections": [
-            {
-              "heading": "写在前面",
-              "body": "第一次在纽约找教师工作时，很多人会陷入类似的困惑：\n\n• 我应该从哪里寻找职位？\n• 应该先申请系统，还是直接给学校发邮件？\n• 怎样判断一所学校是否适合自己？\n• 为什么发出简历以后一直没有回复？\n• 没有美国全职教学经验，还能申请吗？\n\n教师求职并不是简单地“找到职位并投递简历”。在正式申请之前，你需要先了解自己的求职方向、教师资格状态、学校类型和可接受的工作范围，再逐步建立学校名单，主动联系招聘负责人。\n\n本文根据 EduVenture“纽约教师求职分享会”第一场内容整理，帮助第一次进入纽约教师求职市场的申请者完成最初的几步。"
-            },
-            {
-              "heading": "第一步：明确自己的求职方向",
-              "body": "开始搜索职位前，可以先回答以下几个问题。"
-            },
-            {
-              "heading": "1. 你希望教哪个年龄段？",
-              "body": "例如：\n\n• Pre-K或幼儿教育\n• 小学\n• 初中\n• 高中\n• 成人教育或课后项目\n\n不同年龄段对课堂管理、课程设计和教师资格的要求可能不同。求职材料中呈现的教学案例，也需要与目标学生群体相匹配。"
-            },
-            {
-              "heading": "2. 你准备教授什么科目？",
-              "body": "常见方向包括：\n\n• 中文或其他世界语言\n• ENL/ESL\n• 双语教育\n• 特殊教育\n• 数学、科学或其他学科\n\n申请之前，应确认自己的纽约州教师资格证书、在办证书或教师教育项目，与目标职位要求是否匹配。"
-            },
-            {
-              "heading": "3. 你希望进入哪类学校？",
-              "body": "纽约常见的学校类型包括：\n\n• NYC Public Schools纽约市公立学校\n• Charter Schools特许学校\n• Private Schools私立学校\n• Independent Schools独立学校\n• Community-Based Organizations社区教育机构\n• Afterschool Programs课后项目\n\n不同学校系统拥有不同的招聘平台、合同制度和面试流程。本文主要介绍纽约市公立学校的教师求职路径。"
-            },
-            {
-              "heading": "第二步：确认自己应该使用哪个求职系统",
-              "body": "纽约公校的新教师申请者和在职教师使用的系统并不相同。"
-            },
-            {
-              "heading": "新教师或首次申请NYCPS的人",
-              "body": "已经取得纽约州教师资格，或者预计在规定时间前取得资格的申请者，需要先提交 NYCPS Certified Teacher Application。\n\n申请中通常需要填写：\n\n• 教师资格信息\n• 年级和地区偏好\n• 一位推荐人信息\n• Resume\n• 教师资格证明或相关在读证明\n\n申请通过审核后，申请者可以进入 **New Teacher Finder**。这是纽约公校用于连接教师申请者、校长和招聘负责人的职位平台。申请者可以搜索空缺职位，学校招聘人员也可以查看符合条件的候选人。\n\n需要注意：通过教师申请系统的审核，只代表你可以进入校级求职阶段，并不代表已经获得工作。"
-            },
-            {
-              "heading": "目前已经在NYCPS任职的人",
-              "body": "希望转到另一所纽约公校的在职教师，通常使用 **Open Market Hiring System**。该系统主要面向符合条件的NYCPS在职教师和部分其他员工，一般每年4月至8月开放。\n\n因此，新教师不应把 Open Market 当作自己的主要申请入口。"
-            },
-            {
-              "heading": "第三步：寻找职位并建立学校名单",
-              "body": "进入招聘系统以后，不建议看到职位就立即大量投递。可以先建立一份简单的学校追踪表。\n\n建议记录：\n\n学校名称 — 学校全名和编号\n地点 — Borough、District和通勤时间\n招聘职位 — 科目、年级和全职或兼职\n学生情况 — 学生人数、语言背景和学习需求\n学校项目 — AP、双语项目、ENL或特色课程\n学校文化 — 教学理念、活动和社区特点\n联系人 — Principal、Assistant Principal或招聘负责人\n申请状态 — 未联系、已投递、已回复、面试或结束"
-            },
-            {
-              "heading": "从哪里寻找学校信息？",
-              "body": "除了 New Teacher Finder，还可以查看：\n\n• NYCPS学校页面\n• 学校官方网站\n• 学校社交媒体\n• School Quality Snapshot\n• 招聘会和教师求职活动\n• 大学教师教育项目和校友网络\n\nNYCPS的 School Quality Snapshot 会整理学校基本情况、学生和教师人口信息、学校调查结果及部分教学质量数据，可以作为了解学校的起点。\n\n不过，数据只能提供部分信息。学校官网近期发布的活动、课程介绍、校长寄语和教师团队页面，往往更能帮助你判断学校目前的发展方向。"
-            },
-            {
-              "heading": "第四步：根据自己的情况排列优先级",
-              "body": "筛选学校时，可以考虑以下几个方面："
-            },
-            {
-              "heading": "学校和职位是否匹配",
-              "body": "重点了解：\n\n• 学校是否真正开设你所教授的科目\n• 职位是否与你的教师资格相符\n• 学校是否已经建立相关课程\n• 新教师是否需要独立搭建课程\n• 是否需要承担多个年级或其他职责\n\n例如，一所学校招聘中文教师，可能希望新教师从零建立中文项目；另一所学校则可能已经拥有完整课程，需要教师继续教授现有班级。两种职位需要展现的能力并不相同。"
-            },
-            {
-              "heading": "学生群体是否适合你的经验",
-              "body": "可以思考：\n\n• 你是否熟悉多语言学习者？\n• 是否有特殊教育融合课堂经验？\n• 是否能够教授刚接触目标语言的学生？\n• 是否有高年级、考试课程或AP课程经验？"
-            },
-            {
-              "heading": "地点是否现实",
-              "body": "除了学校所在的borough，还要考虑：\n\n• 实际通勤时间\n• 是否需要多次换乘\n• 早晚高峰情况\n• 你能否长期保持这一通勤安排"
-            },
-            {
-              "heading": "不要在求职初期过度筛选",
-              "body": "第一次参加教师面试时，每一次沟通都可以帮助你了解真实的招聘问题和学校需求。\n\n即使一所学校不是你的第一选择，面试过程也可以帮助你：\n\n• 练习介绍自己的教学经历\n• 调整求职故事\n• 了解校长关注的问题\n• 准备未来的demo lesson\n• 判断自己真正重视的工作条件\n\n你仍然需要避开明显不符合证书、地点或个人底线的职位，但不必等到“完美学校”出现才开始行动。"
-            },
-            {
-              "heading": "第五步：主动联系学校",
-              "body": "纽约公校的招聘过程具有较强的校本特点。通过 New Teacher Finder 找到合适的职位后，申请者可以主动联系学校，并用一封简短的求职邮件说明自己为什么对该职位感兴趣。官方招聘指南也建议候选人主动联系目标学校；后续环节可能包括面试和demo lesson。"
-            },
-            {
-              "heading": "联系学校前需要准备什么？",
-              "body": "建议提前准备：\n\n• 一页或两页的教师Resume\n• 简短且针对学校修改的Cover Letter\n• 教师资格信息\n• 两到三位可以联系的推荐人\n• Teaching Portfolio\n• 一个可以快速调整的Demo Lesson\n• 简短的自我介绍"
-            },
-            {
-              "heading": "求职邮件应包含什么？",
-              "body": "一封有效的邮件不需要很长，重点包括：\n\n1. 你申请的具体职位\n2. 你的教师资格和教学方向\n3. 你与这所学校的匹配点\n4. 你的Resume或其他材料\n5. 希望进一步交流的意愿\n\n例如：\n\nDear Principal \\[Last Name\\],\n\nI am writing to express my interest in the Mandarin teaching position at \\[School Name\\]. I am certified/on track to be certified in \\[Certification Area\\] and have experience teaching \\[student group or course\\]. I was particularly interested in your school’s \\[specific program, value, or student population\\].\n\nI have attached my resume for your consideration and would appreciate the opportunity to discuss how my experience could support your students and school community.\n\n不要向所有学校发送完全相同的邮件。即使只增加一两句话，说明你了解学校的课程、学生或教育理念，也能够让邮件更加具体。"
-            },
-            {
-              "heading": "第六步：等待期间继续推进",
-              "body": "发出邮件后没有立即收到回复，并不一定代表申请失败。\n\n学校招聘可能受到以下因素影响：\n\n• 学校预算尚未最终确认\n• 职位仍在内部审批\n• 校长或行政团队正在处理毕业、考试或暑期安排\n• 招聘负责人需要先完成其他候选人的面试\n• 职位需求或课程安排正在变化\n\n等待期间，可以继续：\n\n• 申请其他学校\n• 参加招聘会\n• 联系校友和实习导师\n• 修改Resume和Cover Letter\n• 准备常见面试问题\n• 完善Demo Lesson\n• 整理推荐人信息\n\n在合理间隔后，可以发送一封简短、礼貌的follow-up邮件，再次表达兴趣并询问职位进展。"
-            },
-            {
-              "heading": "Networking也是求职的一部分",
-              "body": "教师求职中的networking，不等于请别人直接为你安排工作。它更重要的作用是帮助你获得真实信息、了解招聘时间，并让更多教育工作者知道你的专业方向。\n\n可以从以下渠道开始：\n\n• LinkedIn\n• 大学教授和项目导师\n• 校友网络\n• Student Teaching或实习学校\n• 招聘会\n• 专业教师社群\n• 教育会议和志愿者活动\n• 学生家长和社区教育机构\n• 微信群、小红书和其他教师社区\n\n分享会中特别强调，许多机会来自实习导师、学校同事、大学教师或面试过程中认识的教育工作者。建立专业关系需要长期参与、主动交流和可靠的工作表现，而不只是临时寻找“内推”。"
-            },
-            {
-              "heading": "求职行动清单",
-              "body": "正式开始申请前，可以检查以下项目：\n\n• 明确目标年级和教学科目\n• 确认教师资格证书状态\n• 确定可以接受的学校类型\n• 完成或更新Resume\n• 准备基础Cover Letter\n• 整理推荐人信息\n• 完成NYCPS教师申请\n• 建立学校追踪表\n• 调查目标学校\n• 主动联系学校\n• 准备面试和Demo Lesson\n• 持续参加招聘与networking活动"
-            },
-            {
-              "heading": "最后的建议",
-              "body": "纽约教师求职很少是一条完全线性的道路。申请系统、学校邮件、招聘会、实习经历和专业人脉，可能同时推动你的求职进程。\n\n最重要的第一步，是把“我想当老师”进一步拆解成几个具体问题：\n\n• 我可以合法并合规地申请哪些职位？\n• 我适合教授哪些学生？\n• 我能够为学校解决什么问题？\n• 哪些经历最能证明我的教学能力？\n• 我接下来可以联系哪三所学校？\n\n当这些问题逐渐清晰以后，求职就会从模糊的等待，变成可以持续执行和调整的行动计划。"
-            },
-            {
-              "heading": "资料来源",
-              "body": "本文根据 EduVenture“纽约教师求职分享会 Session 1”课件整理。分享人为 Zexiu Li、Minjia Zhang，实习与教育经验部分由嘉宾 Jinghao Xu 分享。招聘系统和流程信息参考 NYC Public Schools 与 TeachNYC 官方资料。相关规定、申请窗口和职位信息可能更新，请以申请时的官方信息为准。"
-            }
-          ]
+              "id": "job-search-basics",
+              "title": "纽约教师求职入门",
+              "summary": "从确定方向、筛选学校到主动联系",
+              "leadCallout": {
+                    "type": "callout",
+                    "title": "先看结论",
+                    "lines": [
+                          "纽约教师求职的核心路径是：先确认资格和方向，再建立学校名单、排列优先级，并主动联系学校。申请系统只是入口，校级沟通、面试准备和持续跟进同样重要。"
+                    ]
+              },
+              "sections": [
+                    {
+                          "heading": "写在前面",
+                          "blocks": [
+                                {
+                                      "type": "text",
+                                      "text": "第一次在纽约找教师工作，常见问题包括：从哪里找职位、先申请系统还是先联系学校、如何判断学校是否适合自己，以及没有美国全职教学经验能否申请。"
+                                },
+                                {
+                                      "type": "text",
+                                      "text": "教师求职不只是“找到职位并投递简历”。更有效的做法，是先明确方向和资格范围，再建立学校名单、判断优先级，并主动联系招聘负责人。本文根据 EduVenture“纽约教师求职分享会”第一场内容整理。"
+                                }
+                          ]
+                    },
+                    {
+                          "heading": "第一步：明确自己的求职方向",
+                          "blocks": [
+                                {
+                                      "type": "text",
+                                      "text": "开始搜索职位前，先把“想当老师”拆解成三个具体维度。"
+                                },
+                                {
+                                      "type": "callout",
+                                      "title": "1｜年龄段",
+                                      "lines": [
+                                            "常见方向：Pre-K/幼儿、小学、初中、高中、成人教育或课后项目。",
+                                            "确认重点：教学案例、课堂管理经验和证书范围是否与目标学生匹配。"
+                                      ]
+                                },
+                                {
+                                      "type": "callout",
+                                      "title": "2｜教学科目",
+                                      "lines": [
+                                            "常见方向：中文/世界语言、ENL/ESL、双语、特殊教育、数学、科学等。",
+                                            "确认重点：纽约州教师资格证、在办证书或教师教育项目是否符合职位要求。"
+                                      ]
+                                },
+                                {
+                                      "type": "callout",
+                                      "title": "3｜学校类型",
+                                      "lines": [
+                                            "常见方向：NYCPS、Charter、Private、Independent、社区机构和课后项目。",
+                                            "确认重点：招聘平台、合同制度和面试流程。本文重点介绍 NYCPS。"
+                                      ]
+                                }
+                          ]
+                    },
+                    {
+                          "heading": "第二步：确认自己应该使用哪个求职系统",
+                          "blocks": [
+                                {
+                                      "type": "text",
+                                      "text": "纽约公校的新教师申请者和在职教师使用不同的系统。选错入口会浪费时间。"
+                                },
+                                {
+                                      "type": "callout",
+                                      "title": "新教师或首次申请 NYCPS",
+                                      "lines": [
+                                            "入口：NYCPS Certified Teacher Application → New Teacher Finder",
+                                            "作用：提交资格、偏好、推荐人和\nResume；审核后搜索职位，也可被学校招聘人员发现。",
+                                            "提醒：通过审核只代表进入校级求职阶段，并不等于获得工作。"
+                                      ]
+                                },
+                                {
+                                      "type": "callout",
+                                      "title": "目前已在 NYCPS 任职",
+                                      "lines": [
+                                            "入口：Open Market Hiring System",
+                                            "作用：面向符合条件的在职教师及部分员工申请校内转职。",
+                                            "提醒：通常每年4月至8月开放；新教师不应把它当作主要入口。"
+                                      ]
+                                }
+                          ]
+                    },
+                    {
+                          "heading": "第三步：寻找职位并建立学校名单",
+                          "blocks": [
+                                {
+                                      "type": "text",
+                                      "text": "进入招聘系统后，不建议看到职位就立即大量投递。先建立一份学校追踪表，便于比较和跟进。"
+                                },
+                                {
+                                      "type": "table",
+                                      "headers": [
+                                            "追踪项目",
+                                            "建议记录的信息"
+                                      ],
+                                      "rows": [
+                                            [
+                                                  "**学校与职位**",
+                                                  "学校全名、编号、科目、年级、全职或兼职"
+                                            ],
+                                            [
+                                                  "**地点与通勤**",
+                                                  "Borough、District、实际通勤时间及换乘情况"
+                                            ],
+                                            [
+                                                  "**学生与项目**",
+                                                  "学生人数、语言背景、学习需求、AP/双语/ENL或特色课程"
+                                            ],
+                                            [
+                                                  "**学校文化**",
+                                                  "教学理念、近期活动、社区特点和发展方向"
+                                            ],
+                                            [
+                                                  "**联系人**",
+                                                  "Principal、Assistant Principal 或招聘负责人"
+                                            ],
+                                            [
+                                                  "**申请状态**",
+                                                  "未联系、已投递、已回复、面试、结束"
+                                            ]
+                                      ]
+                                },
+                                {
+                                      "type": "text",
+                                      "text": "学校信息可以来自 New Teacher Finder、NYCPS 学校页面、学校官网和社交媒体、School Quality Snapshot、招聘会，以及大学项目和校友网络。"
+                                },
+                                {
+                                      "type": "callout",
+                                      "title": "信息使用提醒",
+                                      "lines": [
+                                            "School Quality Snapshot\n适合查看学校基本情况和调查数据；学校官网的近期活动、课程介绍、校长寄语和教师团队页面，往往更能反映学校当前的发展方向。"
+                                      ]
+                                }
+                          ]
+                    },
+                    {
+                          "heading": "第四步：根据自己的情况排列优先级",
+                          "blocks": [
+                                {
+                                      "type": "text",
+                                      "text": "筛选学校时，可以重点比较以下四个方面。"
+                                },
+                                {
+                                      "type": "table",
+                                      "headers": [
+                                            "筛选维度",
+                                            "重点问题"
+                                      ],
+                                      "rows": [
+                                            [
+                                                  "**职位匹配**",
+                                                  "学校是否真正开设该科目？职位是否符合证书？课程已建立，还是需要从零搭建？是否要承担多个年级或额外职责？"
+                                            ],
+                                            [
+                                                  "**学生群体**",
+                                                  "你是否熟悉多语言学习者、融合课堂、初学者、高年级、考试课程或 AP 课程？"
+                                            ],
+                                            [
+                                                  "**通勤现实性**",
+                                                  "实际通勤时间、换乘次数和早晚高峰是否可以长期承受？"
+                                            ],
+                                            [
+                                                  "**面试价值**",
+                                                  "即使学校不是第一选择，是否能帮助你练习自我介绍、了解校长关注点、准备 Demo Lesson，并明确自己的工作底线？"
+                                            ]
+                                      ]
+                                },
+                                {
+                                      "type": "text",
+                                      "text": "例如，同样是中文教师职位，一所学校可能希望新教师从零建立项目，另一所学校则可能已有完整课程。前者更看重课程开发和项目推进能力，后者更关注课堂执行和课程衔接。"
+                                },
+                                {
+                                      "type": "text",
+                                      "text": "求职初期不必等待“完美学校”才开始行动，但应避开明显不符合证书、地点或个人底线的职位。"
+                                }
+                          ]
+                    },
+                    {
+                          "heading": "第五步：主动联系学校",
+                          "blocks": [
+                                {
+                                      "type": "text",
+                                      "text": "纽约公校招聘具有较强的校本特点。通过 New Teacher Finder 找到合适职位后，可以主动联系学校，说明自己为什么适合该岗位。后续环节通常可能包括面试和 Demo Lesson。"
+                                },
+                                {
+                                      "type": "subheading",
+                                      "text": "联系前的基础材料"
+                                },
+                                {
+                                      "type": "list",
+                                      "ordered": false,
+                                      "items": [
+                                            "一至两页的教师 Resume，以及可针对学校快速修改的 Cover Letter",
+                                            "教师资格信息和两至三位推荐人",
+                                            "Teaching Portfolio、可调整的 Demo Lesson 和简短自我介绍"
+                                      ]
+                                },
+                                {
+                                      "type": "subheading",
+                                      "text": "求职邮件的核心内容"
+                                },
+                                {
+                                      "type": "table",
+                                      "headers": [
+                                            "邮件要素",
+                                            "写法"
+                                      ],
+                                      "rows": [
+                                            [
+                                                  "**具体职位**",
+                                                  "明确写出申请的科目和岗位"
+                                            ],
+                                            [
+                                                  "**资格与经验**",
+                                                  "说明证书状态、教学方向和相关学生或课程经验"
+                                            ],
+                                            [
+                                                  "**学校匹配点**",
+                                                  "用一两句话指出你关注的项目、理念或学生群体"
+                                            ],
+                                            [
+                                                  "**材料与下一步**",
+                                                  "附上 Resume，并表达希望进一步交流的意愿"
+                                            ]
+                                      ]
+                                },
+                                {
+                                      "type": "callout",
+                                      "title": "邮件模板",
+                                      "lines": [
+                                            "Dear Principal [Last Name],",
+                                            "I am writing to express my interest in the Mandarin teaching position\nat [School Name]. I am certified/on track to be certified in\n[Certification Area] and have experience teaching [student group or\ncourse]. I was particularly interested in your school's [specific\nprogram, value, or student population].",
+                                            "I have attached my resume for your consideration and would appreciate\nthe opportunity to discuss how my experience could support your students\nand school community."
+                                      ]
+                                },
+                                {
+                                      "type": "text",
+                                      "text": "不要向所有学校发送完全相同的邮件。即使只增加一两句话，说明你了解学校的课程、学生或教育理念，也会让邮件更具体。"
+                                }
+                          ]
+                    },
+                    {
+                          "heading": "第六步：等待期间继续推进",
+                          "blocks": [
+                                {
+                                      "type": "text",
+                                      "text": "没有立即收到回复，不一定代表申请失败。学校可能仍在确认预算、审批职位、处理毕业和考试安排，或调整课程需求。"
+                                },
+                                {
+                                      "type": "text",
+                                      "text": "等待期间，可以继续申请其他学校、参加招聘会、联系校友和实习导师、修改求职材料、准备常见面试问题和 Demo Lesson，并整理推荐人信息。经过合理间隔后，可以发送一封简短、礼貌的 follow-up 邮件。"
+                                },
+                                {
+                                      "type": "subheading",
+                                      "text": "Networking 也是求职的一部分"
+                                },
+                                {
+                                      "type": "text",
+                                      "text": "Networking 的作用是帮助你获得真实信息、了解招聘时间，并让更多教育工作者知道你的专业方向。"
+                                },
+                                {
+                                      "type": "callout",
+                                      "title": "可以从这些渠道开始",
+                                      "lines": [
+                                            "学校与专业网络：教授、项目导师、校友、Student\nTeaching/实习学校、招聘会、教师社群和教育会议。",
+                                            "线上与社区网络：LinkedIn、微信群、小红书、家长和社区教育机构。",
+                                            "建立关系的关键：长期参与、主动交流和可靠的工作表现。"
+                                      ]
+                                }
+                          ]
+                    },
+                    {
+                          "heading": "求职行动清单",
+                          "blocks": [
+                                {
+                                      "type": "checklist",
+                                      "items": [
+                                            "明确目标年级、教学科目和可接受的学校类型",
+                                            "确认教师资格证书状态",
+                                            "更新 Resume、基础 Cover Letter 和推荐人信息",
+                                            "完成 NYCPS 教师申请",
+                                            "建立学校追踪表并调查目标学校",
+                                            "主动联系招聘负责人",
+                                            "准备面试和 Demo Lesson",
+                                            "持续参加招聘与 Networking 活动",
+                                            "按合理间隔发送 follow-up 邮件"
+                                      ]
+                                }
+                          ]
+                    },
+                    {
+                          "heading": "最后的建议",
+                          "blocks": [
+                                {
+                                      "type": "text",
+                                      "text": "纽约教师求职很少是一条完全线性的道路。申请系统、学校邮件、招聘会、实习经历和专业人脉，往往会同时推动进程。最重要的是把模糊目标转化为可执行的问题。"
+                                },
+                                {
+                                      "type": "list",
+                                      "ordered": true,
+                                      "items": [
+                                            "我可以合法并合规地申请哪些职位？",
+                                            "我适合教授哪些学生？",
+                                            "我能够为学校解决什么问题？",
+                                            "哪些经历最能证明我的教学能力？",
+                                            "我接下来可以联系哪三所学校？"
+                                      ]
+                                },
+                                {
+                                      "type": "callout",
+                                      "title": "下一步",
+                                      "lines": [
+                                            "先选出三所符合资格和通勤条件的学校，完成调查，并分别写出一句具体的匹配理由。这样可以立即进入可执行的申请节奏。"
+                                      ]
+                                }
+                          ]
+                    },
+                    {
+                          "heading": "资料来源",
+                          "blocks": [
+                                {
+                                      "type": "text",
+                                      "text": "本文根据 EduVenture“纽约教师求职分享会 Session 1”课件整理。分享人为 Zexiu Li、Minjia Zhang，实习与教育经验部分由嘉宾 Jinghao Xu 分享。招聘系统和流程信息参考 NYC Public Schools 与 TeachNYC 官方资料。相关规定、申请窗口和职位信息可能更新，请以申请时的官方信息为准。"
+                                }
+                          ]
+                    }
+              ]
         },
         {
           "id": "nycps-interview-process",
